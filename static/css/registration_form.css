@@ -1,0 +1,115 @@
+@keyframes animated_div
+{
+0%      {transform: rotate(0deg);left:0%;}
+25%     {transform: rotate(20deg);left:0%;}
+50%     {transform: rotate(0deg);left:85%;}
+55%     {transform: rotate(0deg);left:85%;}
+70%     {transform: rotate(0deg);left:85%;background:#1ec7e6;}
+100%    {transform: rotate(-360deg);left:0%;}
+}
+
+@-webkit-keyframes animated_div
+{
+0%      {-webkit-transform: rotate(0deg);left:0%;}
+25%     {-webkit-transform: rotate(20deg);left:0%;}
+50%     {-webkit-transform: rotate(0deg);left:90%;}
+55%     {-webkit-transform: rotate(0deg);left:90%;}
+70%     {-webkit-transform: rotate(0deg);left:90%;background:#1ec7e6;}
+100%    {-webkit-transform: rotate(-360deg);left:0%;}
+}
+
+@-moz-keyframes animated_div
+{
+0%   {-moz-transform: rotate(0deg);left:0%;}
+25%  {-moz-transform: rotate(20deg);left:0%;}
+50%  {-moz-transform: rotate(0deg);left:90%;}
+55%  {-moz-transform: rotate(0deg);left:90%;}
+70%  {-moz-transform: rotate(0deg);left:90%;background:#1ec7e6;}
+100% {-moz-transform: rotate(-360deg);left:0%;}
+}
+
+@-o-keyframes animated_div
+{
+0%   {transform: rotate(0deg);left:0%;}
+25%  {transform: rotate(20deg);left:0%;}
+50%  {transform: rotate(0deg);left:90%;}
+55%  {transform: rotate(0deg);left:90%;}
+70%  {transform: rotate(0deg);left:90%;background:#1ec7e6;}
+100% {transform: rotate(-360deg);left:0%;}
+}
+
+
+/* ///////////////////////////////////////////////////////////////////// 
+//  02 - Global 
+/////////////////////////////////////////////////////////////////////*/
+
+* {
+    outline: none !important;
+}
+
+body {
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+    color: #222;
+    background: url(../img/gallery-bg.png) repeat;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Roboto', sans-serif;
+}
+
+p, a, li{
+    font-family: 'Oxygen', sans-serif;
+}
+
+a{
+    transition: all 0.3s ease-out;
+    position: relative;
+    padding: .5em;
+    margin: -.5em;
+}
+#content{
+    background-color: #fff;
+}
+
+/* ///////////////////////////////////////////////////////////////////// 
+//  04 - Preloader
+/////////////////////////////////////////////////////////////////////*/
+
+#preloader { 
+    position: fixed; 
+    left: 0; 
+    top: 0; 
+    z-index: 99999999999; 
+    width: 100%; 
+    height: 100%; 
+    overflow: visible; 
+    background: #fff url('../img/preloader.gif') 
+    no-repeat center center; 
+}
+
+/* ///////////////////////////////////////////////////////////////////// 
+//  05 - Header
+/////////////////////////////////////////////////////////////////////*/
+#animated_div
+{
+width:148px;
+height:46px;
+background:#00967f;
+color:#ffffff;
+position:relative;
+font-weight:bold;
+font-size:20px;
+padding:10px;
+animation:animated_div 5s 1;
+-moz-animation:animated_div 5s 1;
+-webkit-animation:animated_div 5s 1;
+-o-animation:animated_div 5s 1;
+border-radius:5px;
+-webkit-border-radius:5px;
+}
+
+#animated_div a{
+    text-decoration: none;
+    color: #fff;
+
+}
