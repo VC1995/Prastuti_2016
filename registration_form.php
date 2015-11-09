@@ -47,11 +47,92 @@
         <div id="business" class="tab-pane fade in active">
             <br>
             <!-- ***************************** Content *************************** -->
-            <div class="well well-md">
-                <br>
+            <h2 class="text-center"> Pre-requisites </h2>
+            <ul>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+            </ul>
+            <br>
+            <div class="well well-md">                
                 <h2 class="text-center"> Registration Form </h2>
                 <br>
-                <form>
+                <form id="reg_business" method="GET" action="">
+                    <div class="row">
+                    <fieldset class="form-group col-lg-4 col-md-6 col-sm-12">
+                        <label for="team_name">Team name</label>
+                        <input type="text" class="form-control " id="team_name" name="team_name" placeholder="Enter your team-name">
+                    </fieldset>
+                    </div>
+                    <div class="row">
+                    <fieldset class="form-group col-lg-6 col-md-6 col-sm-12">
+                        <label for="college">College</label>
+                        <input type="text" class="form-control" id="college" name="college" placeholder="Enter your college">
+                    </fieldset>
+                    </div>
+                    <h4> Team member details : </h4>
+                    <h5>Member 1 :</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member1_name" name="member1_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member1_email" name="member1_email" placeholder="email"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member1_number" name="member1_number" placeholder="mobile number"></div>     
+                    </fieldset>
+                    </div>
+                    <h5>Member 2 :</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member2_name" name="member2_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member2_email" name="member2_email" placeholder="email"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member2_number" name="member2_number" placeholder="mobile number"></div>     
+                    </fieldset>
+                    </div>
+                    <h5>Member 3 :</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member3_name" name="member3_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member3_email" name="member3_email" placeholder="email"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member3_number" name="member3_number" placeholder="mobile number"></div>     
+                    </fieldset>
+                    </div>
+                    <h5>Member 4 : (optional)</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member4_name" name="member4_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member4_email" name="member4_email" placeholder="email"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member4_number" name="member4_number" placeholder="mobile number"></div>     
+                    </fieldset>
+                    </div>
+                    <h5>Member 5 : (optional)</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member5_name" name="member5_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member5_email" name="member5_email" placeholder="email"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member5_number" name="member5_number" placeholder="mobile number"></div>     
+                    </fieldset>
+                    </div>
+                    <br>
+                    <button type="submit" class="btn btn-lg btn-success">Submit</button>
+                </form>
+            </div>
+        </div>
+        <div id="idp" class="tab-pane fade">
+            <br>
+            <!-- ***************************** Content *************************** -->
+            <h2 class="text-center"> Pre-requisites </h2>
+            <ul>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+            </ul>
+            <br>
+            <!-- ***************************** Content *************************** -->
+            <div class="well well-md">            
+                <h2 class="text-center"> Registration Form </h2>
+                <br>
+                <form id="reg_idp">
                     <div class="row">
                     <fieldset class="form-group col-lg-4 col-md-6 col-sm-12">
                         <label for="team_name">Team name</label>
@@ -110,14 +191,23 @@
                 </form>
             </div>
         </div>
-        <div id="idp" class="tab-pane fade">
+        <div id="machine" class="tab-pane fade">
             <br>
             <!-- ***************************** Content *************************** -->
-            <div class="well well-md">
-                <br>
+            <h2 class="text-center"> Pre-requisites </h2>
+            <ul>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+            </ul>
+            <br>
+            <!-- ***************************** Content *************************** -->
+            <div class="well well-md">            
                 <h2 class="text-center"> Registration Form </h2>
                 <br>
-                <form>
+                <form id="reg_machine">
                     <div class="row">
                     <fieldset class="form-group col-lg-4 col-md-6 col-sm-12">
                         <label for="team_name">Team name</label>
@@ -169,6 +259,227 @@
                         <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member5_name" placeholder="Enter name"></div>       
                         <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member5_email" placeholder="email"></div>
                         <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member5_number" placeholder="mobile number"></div>     
+                    </fieldset>
+                    </div>
+                    <br>
+                    <button type="submit" class="btn btn-lg btn-success">Submit</button>
+                </form>
+            </div>
+        </div>
+        <div id="paper" class="tab-pane fade">
+            <br>
+            <!-- ***************************** Content *************************** -->
+            <h2 class="text-center"> Pre-requisites </h2>
+            <ul>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+            </ul>
+            <br>
+            <!-- ***************************** Content *************************** -->
+            <div class="well well-md">            
+                <h2 class="text-center"> Registration Form </h2>
+                <br>
+                <form id="reg_paper">
+                    <div class="row">
+                    <fieldset class="form-group col-lg-4 col-md-6 col-sm-12">
+                        <label for="team_name">Team name</label>
+                        <input type="text" class="form-control " id="team_name" placeholder="Enter your team-name">
+                    </fieldset>
+                    </div>
+                    <div class="row">
+                    <fieldset class="form-group col-lg-6 col-md-6 col-sm-12">
+                        <label for="college">College</label>
+                        <input type="text" class="form-control" id="college" placeholder="Enter your college">
+                    </fieldset>
+                    </div>
+                    <h4> Team member details : </h4>
+                    <h5>Member 1 :</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member1_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member1_email" placeholder="email"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member1_number" placeholder="mobile number"></div>     
+                    </fieldset>
+                    </div>
+                    <h5>Member 2 :</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member2_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member2_email" placeholder="email"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member2_number" placeholder="mobile number"></div>     
+                    </fieldset>
+                    </div>
+                    <h5>Member 3 :</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member3_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member3_email" placeholder="email"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member3_number" placeholder="mobile number"></div>     
+                    </fieldset>
+                    </div>
+                    <h5>Member 4 : (optional)</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member4_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member4_email" placeholder="email"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member4_number" placeholder="mobile number"></div>     
+                    </fieldset>
+                    </div>
+                    <h5>Member 5 : (optional)</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member5_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member5_email" placeholder="email"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member5_number" placeholder="mobile number"></div>     
+                    </fieldset>
+                    </div>
+                    <br>
+                    <button type="submit" class="btn btn-lg btn-success">Submit</button>
+                </form>
+            </div>
+        </div>
+        <div id="simulim" class="tab-pane fade">
+            <br>
+            <!-- ***************************** Content *************************** -->
+            <h2 class="text-center"> Pre-requisites </h2>
+            <ul>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+            </ul>
+            <br>
+            <!-- ***************************** Content *************************** -->
+            <div class="well well-md">            
+                <h2 class="text-center"> Registration Form </h2>
+                <br>
+                <form id="reg_simulim">
+                    <div class="row">
+                    <fieldset class="form-group col-lg-4 col-md-6 col-sm-12">
+                        <label for="team_name">Team name</label>
+                        <input type="text" class="form-control " id="team_name" placeholder="Enter your team-name">
+                    </fieldset>
+                    </div>
+                    <div class="row">
+                    <fieldset class="form-group col-lg-6 col-md-6 col-sm-12">
+                        <label for="college">College</label>
+                        <input type="text" class="form-control" id="college" placeholder="Enter your college">
+                    </fieldset>
+                    </div>
+                    <h4> Team member details : </h4>
+                    <h5>Member 1 :</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member1_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member1_email" placeholder="email"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member1_number" placeholder="mobile number"></div>     
+                    </fieldset>
+                    </div>
+                    <h5>Member 2 :</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member2_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member2_email" placeholder="email"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member2_number" placeholder="mobile number"></div>     
+                    </fieldset>
+                    </div>
+                    <h5>Member 3 :</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member3_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member3_email" placeholder="email"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member3_number" placeholder="mobile number"></div>     
+                    </fieldset>
+                    </div>
+                    <h5>Member 4 : (optional)</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member4_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member4_email" placeholder="email"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member4_number" placeholder="mobile number"></div>     
+                    </fieldset>
+                    </div>
+                    <h5>Member 5 : (optional)</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member5_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member5_email" placeholder="email"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member5_number" placeholder="mobile number"></div>     
+                    </fieldset>
+                    </div>
+                    <br>
+                    <button type="submit" class="btn btn-lg btn-success">Submit</button>
+                </form>
+            </div>
+        </div>
+        <div id="sos" class="tab-pane fade">
+            <br>
+            <!-- ***************************** Content *************************** -->
+            <h2 class="text-center"> Pre-requisites </h2>
+            <ul>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</li>
+            </ul>
+            <br>
+            <!-- ***************************** Content *************************** -->
+            <div class="well well-md">            
+                <h2 class="text-center"> Registration Form </h2>
+                <br>
+                <form id="reg_sos">
+                    <div class="row">
+                    <fieldset class="form-group col-lg-4 col-md-6 col-sm-12">
+                        <label for="team_name">Team name</label>
+                        <input type="text" class="form-control " id="team_name" placeholder="Enter your team-name" required>
+                    </fieldset>
+                    </div>
+                    <div class="row">
+                    <fieldset class="form-group col-lg-6 col-md-6 col-sm-12">
+                        <label for="college">College</label>
+                        <input type="text" class="form-control" id="college" placeholder="Enter your college" required>
+                    </fieldset>
+                    </div>
+                    <h4> Team member details : </h4>
+                    <h5>Member 1 :</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member1_name" placeholder="Enter name" required></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member1_email" placeholder="email" required></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member1_number" placeholder="mobile number" required></div>     
+                    </fieldset>
+                    </div>
+                    <h5>Member 2 :</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member2_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member2_email" placeholder="email (optional)"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member2_number" placeholder="mobile number (optional)"></div>     
+                    </fieldset>
+                    </div>
+                    <h5>Member 3 :</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member3_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member3_email" placeholder="email (optional)"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member3_number" placeholder="mobile number (optional)"></div>     
+                    </fieldset>
+                    </div>
+                    <h5>Member 4 : (optional)</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member4_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member4_email" placeholder="email (optional)"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member4_number" placeholder="mobile number (optional)"></div>     
+                    </fieldset>
+                    </div>
+                    <h5>Member 5 : (optional)</h5>
+                    <div class="row">
+                    <fieldset class="form-group">            
+                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member5_name" placeholder="Enter name"></div>       
+                        <div class="col-lg-5 col-md-5 col-sm-5"><input type="text" class="form-control" id="member5_email" placeholder="email (optional)"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member5_number" placeholder="mobile number (optional)"></div>     
                     </fieldset>
                     </div>
                     <br>
@@ -183,7 +494,7 @@
 
     <script src="static/js/jquery-2.1.3.min.js"></script>
     <script src="static/js/bootstrap.min.js"></script>
-    <script src="static/js/registration_form.js"></script>
-    
+    <script src="includes/jquery-validation-1.14.0/dist/jquery.validate.js"></script>
+    <script src="static/js/registration_form.js"></script>   
 </body>
 </html>
