@@ -1,0 +1,72 @@
+/* Chrome, Safari, Opera */
+@-webkit-keyframes example {
+    0%   {transform: rotate(0deg)}
+    85%  {transform: rotate(3640deg)}
+    100% {transform: rotate(3600deg)}
+}
+
+/* Standard syntax */
+@keyframes example {
+ 0%   {transform: rotate(0deg)}
+    85%  {transform: rotate(3640deg)}
+    100% {transform: rotate(3600deg)}
+}
+/* ///////////////////////////////////////////////////////////////////// 
+//  02 - Global 
+/////////////////////////////////////////////////////////////////////*/
+
+* {
+    outline: none !important;
+}
+
+body {
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+    color: #222;
+    background: url(../img/gallery-bg.png) repeat;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Roboto', sans-serif;
+}
+
+p, a, li{
+    font-family: 'Oxygen', sans-serif;
+}
+
+a{
+    transition: all 0.3s ease-out;
+    position: relative;
+    padding: .5em;
+    margin: -.5em;
+}
+div.container {
+    background-color: #f8f8ff;
+    height: 100%;
+}
+
+#tick{
+    position: relative;
+    top: 25%;
+}
+
+#tick span.ion-ios-checkmark {
+    font-size: 15em;
+    color: green;
+    animation: example 3s 1;
+    -moz-animation: example 3s 1;
+    -webkit-animation: example 3s 1;
+    -o-animation: example 3s 1;
+}    
+
+#success_text {
+    position: relative;
+    top: 25%;
+    color : #00967f;
+    font-size: 4em;
+}
+
+#redirection{
+    position: relative;
+    top: 25%;
+    font-size: 1.5em;
+}
