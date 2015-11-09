@@ -5,7 +5,7 @@
         <section class="container">
             <section class="row" id="logo_menu" role="navigation">                  
                 <div class="col-md-4 col-sm-8 col-xs-2 navbar-brand">
-                    <a class="logo" href="#"><i class="ion-ios-home hidden-md hidden-lg"></i><span class="hidden-sm hidden-xs">P R A S T U T I '16</span></a>
+                    <a class="logo" href=""><i class="ion-ios-home hidden-md hidden-lg"></i><span class="hidden-sm hidden-xs"><strong>P R A S T U T I '16</strong></span></a>
                 </div>
                 <div class="col-md-8 col-sm-4 col-xs-10">
                     <div class="navbar-header">
@@ -35,10 +35,10 @@
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">ALL INDIA PAPER PRESENTATION</h1>
-                        <p class="wow animated fadeInLeft">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                        <p class="wow animated fadeInLeft" style="background:rgba(0,0,0,.7);">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
-                                <div>
+                                <div style="background:rgba(0,0,0,.7);">
                                     <a href="registration_form.php" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
                                 </div>
                             </div>
@@ -70,46 +70,61 @@
             </section>
             
             <section class="row">
-                <div class="col-sm-6 col-md-4">
+                <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-ios-settings" style="color:#9b59b6;"></i>
-                        <h2><a href="codeniche.php">Codeniche</a></h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+                        <h2><a href="codeniche.php">Code Niche</a></h2>
+                        <p>In today’s era ….. Those who code ….. Have The Power!!</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4">
+                <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-ios-locked-outline" style="color:#d35400;"></i>
-                        <h2>Machine Learning</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+                        <i class="ion-ios-settings" style="color:#9b59b6;"></i>
+                        <h2><a href="envisage.php">Envisage</a></h2>
+                        <p>It invites all the valuable minds to scream out their ideas and learning</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4">
+                <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-nuclear" style="color:#00ceb8;"></i>
-                        <h2>Name here</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+                        <i class="ion-ios-settings" style="color:#9b59b6;"></i>
+                        <h2><a href="idp.php">IDP</a></h2>
+                        <p>A platform to put our imagination at work; a challenge to innovate and find solutions</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4">
-                    <div class="feature-box wow animated flipInX" data-wow-delay="0.6s">
-                        <i class="ion-ios-browsers-outline" style="color:#c0392b;"></i>
-                        <h2>Name here</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+                <div class="col-sm-6 col-md-3">
+                    <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
+                        <i class="ion-ios-settings" style="color:#9b59b6;"></i>
+                        <h2><a href="jaribio.php">Jaribio</a></h2>
+                        <p>Speaking is a skill and a good way to hone your articulation proficiency is a good GD session and PI, which is brought to you by the event JARIBIO</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4">
-                    <div class="feature-box wow animated flipInX" data-wow-delay="0.6s">
-                        <i class="ion-ios-loop" style="color:#27ae60;"></i>
-                        <h2>Name here</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+                <div class="col-sm-6 col-md-3">
+                    <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
+                        <i class="ion-ios-settings" style="color:#9b59b6;"></i>
+                        <h2><a href="morse.php">Morse Mystery</a></h2>
+                        <p>Have you ever tried to encrypt or decrypt some code? Try decoding this:<br>
+                        .--. .-. .- ... - ..- - ..</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4">
-                    <div class="feature-box wow animated flipInX" data-wow-delay="0.6s">
-                        <i class="ion-ios-glasses" style="color:#2c3e50;"></i>
-                        <h2>Name here</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+                <div class="col-sm-6 col-md-3">
+                    <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
+                        <i class="ion-ios-settings" style="color:#9b59b6;"></i>
+                        <h2><a href="ppt.php">Paper Presentation</a></h2>
+                        <p>This event will be an excellent platform to showcase your original ideas and comprehensive technical research</p>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
+                        <i class="ion-ios-settings" style="color:#9b59b6;"></i>
+                        <h2><a href="recognizance.php">Recognizance</a></h2>
+                        <p>Image processing has come a long way from the old days, when taking a photograph took an hour, to the present, when handwriting recognition is widely available</p>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
+                        <i class="ion-ios-settings" style="color:#9b59b6;"></i>
+                        <h2><a href="sos.php">SOS</a></h2>
+                        <p>Technology has advanced at startling rates, in the era of technological development speed is the need of the hour</p>
                     </div>
                 </div>
             </section>
