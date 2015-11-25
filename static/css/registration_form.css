@@ -178,7 +178,7 @@ border-radius:5px;
 #event_chooser li a:active,
 #event_chooser li a:focus {
     background-color: #32CD32 !important;
-    color: #fff;
+    color: #fff !important;
 }
 #event_chooser li a:hover {
     color: #00967f; 

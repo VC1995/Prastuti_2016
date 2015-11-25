@@ -34,7 +34,7 @@
             <section class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
-                        <h1 class="wow animated fadeInDown">ALL INDIA PAPER PRESENTATION</h1>
+                        <h1 class="wow animated fadeInDown" style="background:rgba(0,0,0,.7);">ALL INDIA PAPER PRESENTATION</h1>
                         <p class="wow animated fadeInLeft" style="background:rgba(0,0,0,.7);">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
@@ -137,7 +137,7 @@
     <section id="gallery" class="block">
         <section class="container">
             <section class="row">
-                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
+                <div class="title-box" style="color:#fff;animation: vibrate 2s 3s infinite;-moz-animation: vibrate 2s 3s infinite;-webkit-animation: vibrate 2s 3s infinite;-o-animation: vibrate 2s 3s infinite;"><h1 class="block-title ">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
                 Updates
@@ -146,8 +146,8 @@
                 </h1></div>
             </section>
             <section class="row">
-                <div class="col-xs-12">
-                    
+                <div class="col-xs-12" style="background:rgba(0,0,0,.7);">
+                    <p>Updates will appear here</p>
                 </div>
             </section>
         </section>

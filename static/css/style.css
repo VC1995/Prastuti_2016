@@ -31,7 +31,26 @@ Text Domain: polo
 * -----------------------------------------------------------------------------
 */
 
+/* animations */
+/* Chrome, Safari, Opera */
+@-webkit-keyframes vibrate {
+    0%   {transform: rotate(0deg)}
+    3%  {transform: rotate(20deg)}
+    9%  {transform: rotate(-20deg)}
+    15%  {transform: rotate(10deg)}
+    21%  {transform: rotate(-10deg)}
+    24% {transform: rotate(0deg)}
+}
 
+/* Standard syntax */
+@keyframes vibrate {
+    0%   {transform: rotate(0deg)}
+    3%  {transform: rotate(20deg)}
+    9%  {transform: rotate(-20deg)}
+    15%  {transform: rotate(10deg)}
+    21%  {transform: rotate(-10deg)}
+    24% {transform: rotate(0deg)}
+}
 /* ///////////////////////////////////////////////////////////////////// 
 //  01 - Custom Fonts 
 /////////////////////////////////////////////////////////////////////*/
@@ -99,7 +118,7 @@ a:focus{
 .block-title {
     font-weight: 300;
     font-family: 'Roboto Condensed', sans-serif;
-    font-size: 3.8em;
+    font-size: 2.8em;
     padding: 0 40px;
     margin: 0;
     line-height: 1.6;
@@ -350,6 +369,7 @@ span[class="hidden-sm"]
 #gallery{
     background: url(../img/gallery-bg.png) no-repeat;
     background-size: cover;
+    color: #fff;
     background-attachment: fixed;
 }
 
