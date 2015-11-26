@@ -114,6 +114,9 @@ a:focus{
     width: 100%;
     height: auto;
     max-width: 100%;
+    -webkit-border-radius:50% 50%;
+    -moz-border-radius:50% 50%;
+    border-radius:50% 50%;
 }
 .block-title {
     font-weight: 300;
