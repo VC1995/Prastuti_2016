@@ -72,35 +72,35 @@
             <section class="row">
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-ios-settings" style="color:#9b59b6;"></i>
+                        <i class="ion-android-laptop" style="color:#9b59b6;"></i>
                         <h2><a href="codeniche.php">Code Niche</a></h2>
                         <p>In today’s era ….. Those who code ….. Have The Power!!</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-ios-settings" style="color:#9b59b6;"></i>
+                        <i class="ion-erlenmeyer-flask" style="color:#9b59b6;"></i>
                         <h2><a href="envisage.php">Envisage</a></h2>
                         <p>It invites all the valuable minds to scream out their ideas and learning</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-ios-settings" style="color:#9b59b6;"></i>
+                        <i class="ion-briefcase" style="color:#9b59b6;"></i>
                         <h2><a href="idp.php">IDP</a></h2>
                         <p>A platform to put our imagination at work; a challenge to innovate and find solutions</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-ios-settings" style="color:#9b59b6;"></i>
+                        <i class="ion-mic-b" style="color:#9b59b6;"></i>
                         <h2><a href="jaribio.php">Jaribio</a></h2>
                         <p>Speaking is a skill and a good way to hone your articulation proficiency is a good GD session and PI, which is brought to you by the event JARIBIO</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-ios-settings" style="color:#9b59b6;"></i>
+                        <i class="ion-android-more-horizontal" style="color:#9b59b6;"></i>
                         <h2><a href="morse.php">Morse Mystery</a></h2>
                         <p>Have you ever tried to encrypt or decrypt some code? Try decoding this:<br>
                         .--. .-. .- ... - ..- - ..</p>
@@ -108,21 +108,21 @@
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-ios-settings" style="color:#9b59b6;"></i>
+                        <i class="ion-compose" style="color:#9b59b6;"></i>
                         <h2><a href="ppt.php">Paper Presentation</a></h2>
                         <p>This event will be an excellent platform to showcase your original ideas and comprehensive technical research</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-ios-settings" style="color:#9b59b6;"></i>
+                        <i class="ion-load-a" style="color:#9b59b6;"></i>
                         <h2><a href="recognizance.php">Recognizance</a></h2>
                         <p>Image processing has come a long way from the old days, when taking a photograph took an hour, to the present, when handwriting recognition is widely available</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-ios-settings" style="color:#9b59b6;"></i>
+                        <i class="ion-ios-lightbulb" style="color:#9b59b6;"></i>
                         <h2><a href="sos.php">SOS</a></h2>
                         <p>Technology has advanced at startling rates, in the era of technological development speed is the need of the hour</p>
                     </div>
@@ -147,7 +147,23 @@
             </section>
             <section class="row">
                 <div class="col-xs-12" style="background:rgba(0,0,0,.7);">
-                    <p>Updates will appear here</p>
+                    <?php
+
+                        $db= new mysqli('127.0.0.1','root','','prastuti16');
+                        if($db->connect_error){
+                        echo "<p> 'Sorry, we\'re having some problems' </p>";
+                        }else{
+                            $result= $db->query("SELECT * FROM updates");
+                            if($result === false){
+                                echo "<p style='color: red'> Error occured</p>";
+                            }else
+                            while($row = $result->fetch_object()){
+                                echo "
+                                <span>[".$row->date."] : ".$row->details."</span>
+                                <br/>";
+                            }
+                        }
+                    ?>
                 </div>
             </section>
         </section>
