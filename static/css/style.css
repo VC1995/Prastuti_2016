@@ -69,7 +69,13 @@ Text Domain: polo
 /* ///////////////////////////////////////////////////////////////////// 
 //  02 - Global 
 /////////////////////////////////////////////////////////////////////*/
-
+::-webkit-scrollbar,-moz-scrollbar,-o-scrollbar,scrollbar { 
+    display: none; 
+}
+*
+{
+    -ms-overflow-style:none;
+}
 * {
     outline: none !important;
 }
@@ -749,4 +755,18 @@ input:-moz-placeholder, textarea:-moz-placeholder {
     .btn-custom {
         padding: 5px 0px;
     }
+}
+
+#view_all:link
+{
+    border:2px solid white;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+    -ms-border-radius:5px;
+}
+#view_all:hover
+{
+    border:2px solid #00967f;
+    text-decoration: none;
 }

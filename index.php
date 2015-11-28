@@ -153,17 +153,19 @@
                         if($db->connect_error){
                         echo "<p> 'Sorry, we\'re having some problems' </p>";
                         }else{
-                            $result= $db->query("SELECT * FROM updates");
+                            $result= $db->query("SELECT * FROM updates ORDER BY id DESC LIMIT 5");
                             if($result === false){
                                 echo "<p style='color: red'> Error occured</p>";
                             }else
                             while($row = $result->fetch_object()){
-                                echo "
-                                <span>[".$row->date."] : ".$row->details."</span>
+                                echo 
+                                "<span style='padding:5px;font-size:18px;word-wrap:break-word;'><span style='color:#00967f;font-size:16px;font-weight:bold;'>[".$row->date."]:</span>&nbsp&nbsp".$row->details."</span>
                                 <br/>";
                             }
                         }
                     ?>
+                    <br>
+                    <div style="text-align:center;"><a id="view_all" href="#">View All</a></div>
                 </div>
             </section>
         </section>

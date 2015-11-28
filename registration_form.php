@@ -47,15 +47,9 @@
         <div id="business" class="tab-pane fade in active">
             <br>
             <!-- ***************************** Content *************************** -->
-            <section class="row">
-                <div class="title-box"><h1 class="block-title">
-                <span class="bb-top-left"></span>
-                <span class="bb-bottom-left"></span>
-                INSTRUCTIONS
-                <span class="bb-top-right"></span>
-                <span class="bb-bottom-right"></span>
-                </h1></div>
-            </section>
+                <div class="container"><h4>
+                INSTRUCTIONS :-
+                </h4></div>
             <div class="container">
                 <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
                 <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -65,9 +59,13 @@
             <div class="well well-md">                
                 <section class="row">
                 <div class="title-box"><h1 class="block-title">
+                <span class="bb-top-left"></span>
+                <span class="bb-bottom-left"></span>
                 REGISTRATION FORM
+                <span class="bb-top-right"></span>
+                <span class="bb-bottom-right"></span>
                 </h1></div>
-                </section>
+            </section>
                 <form id="reg_business" method="POST" action="register.php">
                     <input name="event_name" value="business" class="hidden">
                     <div class="row">
@@ -82,7 +80,8 @@
                         <input type="text" class="form-control" id="college" name="college" placeholder="Enter your college">
                     </fieldset>
                     </div>
-                    <h4> Team member details : </h4><br>
+                    <br>
+                    <h4> Team member details : </h4>
                     <h5>Team representative :</h5>
                     <div class="row">
                     <fieldset class="form-group">            
@@ -123,15 +122,9 @@
         <div id="idp" class="tab-pane fade">
             <br>
             <!-- ***************************** Content *************************** -->
-            <section class="row">
-                <div class="title-box"><h1 class="block-title">
-                <span class="bb-top-left"></span>
-                <span class="bb-bottom-left"></span>
-                INSTRUCTIONS
-                <span class="bb-top-right"></span>
-                <span class="bb-bottom-right"></span>
-                </h1></div>
-            </section>
+            <div class="container"><h4>
+                INSTRUCTIONS :-
+                </h4></div>
             <div class="container">
                 <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
                 <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -144,9 +137,13 @@
             <div class="well well-md">            
                 <section class="row">
                 <div class="title-box"><h1 class="block-title">
+                <span class="bb-top-left"></span>
+                <span class="bb-bottom-left"></span>
                 REGISTRATION FORM
+                <span class="bb-top-right"></span>
+                <span class="bb-bottom-right"></span>
                 </h1></div>
-                </section>
+            </section>
                 <form id="reg_idp" method="POST" action="register.php">
                     <input name="event_name" value="idp" class="hidden">
                     <div class="row">
@@ -161,7 +158,8 @@
                         <input type="text" class="form-control" id="college" name="college" placeholder="Enter your college">
                     </fieldset>
                     </div>
-                    <h4> Team member details : </h4><br>
+                    <br>
+                    <h4> Team member details : </h4>
                     <h5>Team Representative :</h5>
                     <div class="row">
                     <fieldset class="form-group">            
@@ -202,15 +200,9 @@
         <div id="machine" class="tab-pane fade">
             <br>
             <!-- ***************************** Content *************************** -->
-            <section class="row">
-                <div class="title-box"><h1 class="block-title">
-                <span class="bb-top-left"></span>
-                <span class="bb-bottom-left"></span>
-                INSTRUCTIONS
-                <span class="bb-top-right"></span>
-                <span class="bb-bottom-right"></span>
-                </h1></div>
-            </section>
+            <div class="container"><h4>
+                INSTRUCTIONS :-
+                </h4></div>
             <div class="container">
                 <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
                 <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -222,9 +214,13 @@
             <div class="well well-md">            
                 <section class="row">
                 <div class="title-box"><h1 class="block-title">
+                <span class="bb-top-left"></span>
+                <span class="bb-bottom-left"></span>
                 REGISTRATION FORM
+                <span class="bb-top-right"></span>
+                <span class="bb-bottom-right"></span>
                 </h1></div>
-                </section>
+            </section>
                 <form id="reg_machine" method="POST" action="register.php">
                     <input name="event_name" value="machine" class="hidden">
                     <div class="row">
@@ -239,7 +235,8 @@
                         <input type="text" class="form-control" id="college" name="college" placeholder="Enter your college">
                     </fieldset>
                     </div>
-                    <h4> Team member details : </h4><br>
+                    <br>
+                    <h4> Team member details : </h4>
                     <h5>Team representative :</h5>
                     <div class="row">
                     <fieldset class="form-group">            
@@ -280,15 +277,9 @@
         <div id="paper" class="tab-pane fade">
             <br>
             <!-- ***************************** Content *************************** -->
-            <section class="row">
-                <div class="title-box"><h1 class="block-title">
-                <span class="bb-top-left"></span>
-                <span class="bb-bottom-left"></span>
-                INSTRUCTIONS
-                <span class="bb-top-right"></span>
-                <span class="bb-bottom-right"></span>
-                </h1></div>
-            </section>
+            <div class="container"><h4>
+                INSTRUCTIONS :-
+                </h4></div>
             <div class="container">
                 <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
                 <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -299,9 +290,13 @@
             <div class="well well-md">            
                 <section class="row">
                 <div class="title-box"><h1 class="block-title">
+                <span class="bb-top-left"></span>
+                <span class="bb-bottom-left"></span>
                 REGISTRATION FORM
+                <span class="bb-top-right"></span>
+                <span class="bb-bottom-right"></span>
                 </h1></div>
-                </section>
+            </section>
                 <form id="reg_paper" method="POST" action="register.php">
                     <input name="event_name" value="paper" class="hidden">
                     <div class="row">
@@ -316,7 +311,8 @@
                         <input type="text" class="form-control" id="college" name="college" placeholder="Enter your college">
                     </fieldset>
                     </div>
-                    <h4> Team member details : </h4><br>
+                    <br>
+                    <h4> Team member details : </h4>
                     <h5>Team Representative :</h5>
                     <div class="row">
                     <fieldset class="form-group">            
@@ -357,15 +353,9 @@
         <div id="simulim" class="tab-pane fade">
             <br>
             <!-- ***************************** Content *************************** -->
-            <section class="row">
-                <div class="title-box"><h1 class="block-title">
-                <span class="bb-top-left"></span>
-                <span class="bb-bottom-left"></span>
-                INSTRUCTIONS
-                <span class="bb-top-right"></span>
-                <span class="bb-bottom-right"></span>
-                </h1></div>
-            </section>
+            <div class="container"><h4>
+                INSTRUCTIONS :-
+                </h4></div>
             <div class="container">
                 <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
                 <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -378,9 +368,13 @@
             <div class="well well-md">            
                 <section class="row">
                 <div class="title-box"><h1 class="block-title">
+                <span class="bb-top-left"></span>
+                <span class="bb-bottom-left"></span>
                 REGISTRATION FORM
+                <span class="bb-top-right"></span>
+                <span class="bb-bottom-right"></span>
                 </h1></div>
-                </section>
+            </section>
                 <form id="reg_simulim" method="POST" action="register.php">
                     <input name="event_name" value="simulim" class="hidden">
                     <div class="row">
@@ -395,7 +389,8 @@
                         <input type="text" class="form-control" id="college" name="college" placeholder="Enter your college">
                     </fieldset>
                     </div>
-                    <h4> Team member details : </h4><br>
+                    <br>
+                    <h4> Team member details : </h4>
                     <h5>Team Representative :</h5>
                     <div class="row">
                     <fieldset class="form-group">            
@@ -436,15 +431,9 @@
         <div id="sos" class="tab-pane fade">
             <br>
             <!-- ***************************** Content *************************** -->
-            <section class="row">
-                <div class="title-box"><h1 class="block-title">
-                <span class="bb-top-left"></span>
-                <span class="bb-bottom-left"></span>
-                INSTRUCTIONS
-                <span class="bb-top-right"></span>
-                <span class="bb-bottom-right"></span>
-                </h1></div>
-            </section>
+            <div class="container"><h4>
+                INSTRUCTIONS :-
+                </h4></div>
             <div class="container">
                 <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
                 <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -454,9 +443,13 @@
             <div class="well well-md">            
                 <section class="row">
                 <div class="title-box"><h1 class="block-title">
+                <span class="bb-top-left"></span>
+                <span class="bb-bottom-left"></span>
                 REGISTRATION FORM
+                <span class="bb-top-right"></span>
+                <span class="bb-bottom-right"></span>
                 </h1></div>
-                </section>
+            </section>
                 <form id="reg_sos" method="POST" action="register.php">
                     <input name="event_name" value="sos" class="hidden">
                     <div class="row">
@@ -471,7 +464,8 @@
                         <input type="text" class="form-control" id="college" name="college" placeholder="Enter your college" required>
                     </fieldset>
                     </div>
-                    <h4> Team member details : </h4><br>
+                    <br>
+                    <h4> Team member details : </h4>
                     <h5>Team Representative :</h5>
                     <div class="row">
                     <fieldset class="form-group">            

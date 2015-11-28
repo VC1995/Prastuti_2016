@@ -61,7 +61,7 @@ div.container {
 #success_text {
     position: relative;
     top: 25%;
-    color : #00967f;
+    color : green;
     font-size: 4em;
 }
 
@@ -69,4 +69,8 @@ div.container {
     position: relative;
     top: 25%;
     font-size: 1.5em;
+}
+#redirection>a:hover
+{
+    text-decoration: none;
 }
