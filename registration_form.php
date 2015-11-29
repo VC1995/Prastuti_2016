@@ -21,14 +21,11 @@
     <![endif]-->
 </head>
 <body id="home">
-
     <!-- ****************************** Preloader ************************** -->
-
-    <div id="preloader"></div>
 <div id="content" class="container">
     <!-- ****************************** Header ***************************** -->
     <header>
-        <section >
+        <section>
         <div id="animated_div"><a href="index.php">PRASTUTI'16</a></div>
         </section>
         <br>

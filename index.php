@@ -165,7 +165,7 @@
                         }
                     ?>
                     <br>
-                    <div style="text-align:center;"><a id="view_all" href="#">View All</a></div>
+                    <div style="text-align:center;"><a id="view_all" href="updates.php">View All</a></div>
                 </div>
             </section>
         </section>

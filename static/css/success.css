@@ -14,7 +14,13 @@
 /* ///////////////////////////////////////////////////////////////////// 
 //  02 - Global 
 /////////////////////////////////////////////////////////////////////*/
-
+::-webkit-scrollbar,-moz-scrollbar,-o-scrollbar,scrollbar { 
+    display: none; 
+}
+*
+{
+    -ms-overflow-style:none;
+}
 * {
     outline: none !important;
 }
