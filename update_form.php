@@ -28,10 +28,6 @@
     <![endif]-->
 </head>
 <body id="home">
-
-    <!-- ****************************** Preloader ************************** -->
-
-    <div id="preloader"></div>
     <div class="container">
     <h1 class="text-center"> Updates </h1>
     <p class='row pull-right'><a href='update_logout.php'>Logout</a></p>

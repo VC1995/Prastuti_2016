@@ -21,7 +21,6 @@
     <![endif]-->
 </head>
 <body id="home">
-    <!-- ****************************** Preloader ************************** -->
 <div id="content" class="container">
     <!-- ****************************** Header ***************************** -->
     <header>
@@ -55,7 +54,7 @@
             <br>
             <div class="well well-md">                
                 <section class="row">
-                <div class="title-box"><h1 class="block-title">
+                <div class="title-box"><h1 class="block-title wow animated rollIn">
                 <span class="bb-top-left"></span>
                 <span class="bb-bottom-left"></span>
                 REGISTRATION FORM
@@ -507,6 +506,8 @@
 
     <script src="static/js/jquery-2.1.3.min.js"></script>
     <script src="static/js/bootstrap.min.js"></script>
+     <script src="static/js/wow.min.js"></script>
+    <script src="static/js/owl.carousel.js"></script>
     <script src="includes/jquery-validation-1.14.0/dist/jquery.validate.js"></script>
     <script src="static/js/registration_form.js"></script>   
 </body>

@@ -22,10 +22,6 @@
     <![endif]-->
 </head>
 <body id="home">
-
-    <!-- ****************************** Preloader ************************** -->
-
-    <div id="preloader"></div>
     <div id="content" class="container">
         <!-- ****************************** Content **************************** -->
         <div id="tick" class="text-center row">

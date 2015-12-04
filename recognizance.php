@@ -11,7 +11,7 @@
                     <li style="padding-left: 1em"><a class="nav_menu_item" href="#features"><i class="ion-play"></i><span class="hidden-sm"> Introduction</span></a></li>
                     <li style="padding-left: 1em"><a class="nav_menu_item" href="#gallery"><i class="ion-gear-a"></i><span class="hidden-sm"> Event Structure</span></a></li>
                     <li style="padding-left: 1em"><a class="nav_menu_item" href="#rules"><i class="ion-android-checkbox-outline"></i><span class="hidden-sm"> Rules & Guidlines</span></a></li>
-                    <li style="padding-left: 1em"><a class="nav_menu_item" href="#team"><i class="ion-android-call"></i><span class="hidden-sm"> Contact Us</span></a></li>
+                    <li style="padding-left: 1em"><a class="nav_menu_item" href="#team"><i class="ion-android-call"></i><span class="hidden-sm"> Coordinators</span></a></li>
                     <li style="padding-left: 1em;position:relative;">
                         <div class="dropdown">
                         <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" data-hover="dropdown" aria-haspopup="true" aria-expanded="true" style="background:rgba(0,0,0,.7);border:2px solid white;color:white;font-size:16px;">
@@ -19,7 +19,7 @@
                         <span class="caret"></span>
                         </button>
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
-                        <li><a href="codeniche.php">Code Niche</a></li>
+                        <li><a href="bizcraft.php">BIZCRAFT</a></li>
                         <li><a href="envisage.php">Envisage</a></li>
                         <li><a href="idp.php">IDP</a></li>
                         <li><a href="jaribio.php">Jaribio</a></li>
@@ -46,7 +46,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">RECOGNIZANCE</h1>
-                        <p class="wow animated fadeInLeft" style="background:rgba(0,0,0,.7);">Image processing has come a long way from the old days, when taking a photograph took an hour, to the present, when handwriting recognition is widely available</p>
+                        <p class="wow animated fadeInLeft" style="background:rgba(0,0,0,.7);">Let's give our machines a 'vision'.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div style="background:rgba(0,0,0,.7);">
@@ -81,7 +81,7 @@
             </section>
             
             <section class="row" style="text-align:center;">
-                <p>At present, artificial intelligence techniques are so numerous and pervasive that frequently, when an AI technique becomes mainstream, it stops being considered artificial intelligence (This is known as the AI effect). One major subfield of AI is machine learning, which is, simply put, the science of making computers perform tasks for which they are not explicitly programmed. Machine learning has given us adaptive websites, speech recognition, effective search engines and countless other technologies that enrich our day-to-day lives. One of the various fields implementing machine learning techniques is image processing. It is a rapidly advancing technology which has a variety of applications including remote sensing, medical imaging, driverless car navigation and maybe more familiarly, line-following robots. Image processing has come a long way from the old days, when taking a photograph took an hour, to the present, when handwriting recognition is widely available. If you have an interest in machine learning or image processing, Recognizance will supply you with some hands-on experience in the field of machine learning, applied to image processing.</p>
+                <p>Computer Vision is an important field in Artificial Intelligence and Robotics. Computer Vision has come a long way from the old days, when taking a photograph took an hour, to the present, when handwriting recognition is widely available. If you have an interest in Machine learning or Computer Vision, Recognizance will supply you with some hands-on experience in the field of machine learning, applied to Computer Vision. One of the biggest hurdles Computer Vision faces at present day is recognition of objects invariant to occlusion, scaling, rotation and blur. This event aims to tackle this problem and provide a platform to build accurate models to solve this issue. </p>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -100,19 +100,11 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
-            <section class="row" style="color:white;text-align:left;background:rgba(0,0,0,.7);padding:10px;">The theme of this event is development of Face Recognition System using Eigenvectors approach in MATLAB. The task here is to recognize a given face image. Initially the machine would be trained by a set of training images. The machine would then use training data to recognize faces. It would require basic knowledge of algorithms of Machine Learning for which we would organize five workshops. This event would consist of following modules:<br>
+            <section class="row" style="color:white;text-align:left;background:rgba(0,0,0,.7);padding:10px;">The event consists of two levels as described below :<br>
 
                 <ol>
-                    <li>Development of Principal Component Analysis (PCA) procedure.</li>
-                    <li>Formation of best Eigenspace using best Eigenvectors.</li>
-                    <li>Implementation of Neural Network Algorithm to train the machine.</li>
-                </ol>
-                <h2 style="color:white;text-align:center;">Judging Criteria</h2>
-                <ol>
-                    <li>The submission of the respective teams for each round will contribute to the final scores.</li>
-                    <li>Each round will have a different weightage depending upon the complexity of the task.</li>
-                    <li>Late submission will lead to deduction of scores.</li>
-                    <li>In case of a tie, conceptual understanding of the Machine Learning Algorithms will be evaluated.</li>
+                    <li> The first level is relatively simple and evaluates the performance of the software built by the respective teams on the MNIST digit recognition dataset. The evaluation metric is relatively simple and is evaluated based on the classification accuracy. </li>
+                    <li> The second level confronts a relatively difficult problem. The participants in this level are expected to build a software to classify 10 different classes of objects. The objects classes are taken from the CIFAR – 10 dataset. The software is supposed to make top two predictions and if any of those predictions match the correct answer the test image would be considered correctly labelled but preference would be given to the implementation providing the correct label as its most likely choice.</li>
                 </ol>
             </section>
         </section>
@@ -130,14 +122,7 @@
                 <span class="bb-bottom-right"></span>
                 </h1></div>
             </section>
-            <ol>
-                <li>Teams of at most 3 students are allowed.</li>
-                <li>Participants should be registered graduate/undergraduate students of an accredited institute. Participants from different institutes can be part of a single team.</li>
-                <li>Participants should on the Prastuti '16 website before submission.</li>
-                <li>Participants are required to carry their own laptop and peripherals as required. (Power supply and charging points will be provided during the event).</li>
-                <li>Organizers are not responsible for the failure of devices during display and no benefits/relaxations will be provided in such circumstances.</li>
-                <li>The decision of the organizers and judges will be final and binding for all. No arguments will be entertained.</li>
-            </ol>
+            <p>Each team should have a team-name and should consist maximum of 3 students each. Only codes written in MATLAB will be accepted. There shouldn't be any attempts of plagiarism or copying of code from any source, else if found, would lead to disqualification straightaway. The decisions of the event coordinators should abide and be final in any situation whatsoever.</p>
             <section class="row">
             </section>
             <div class="clearfix"></div>
@@ -152,7 +137,7 @@
                 <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
-                Contact Us
+                Coordinators
                 <span class="bb-top-right" style="border-color: #fff; "></span>
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
@@ -160,26 +145,31 @@
             <section class="row" style="color:white;text-align:center;">
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
+                        <img src="static/img/PrakarshSaxena.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Prakarsh Saxena</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                            <i class="ion-android-call"></i> : +91 9582281456<br>
+                                <i class="ion-android-mail"></i> : prakarsh.saxena.eee13@iitbhu.ac.in
+                        </p>
+                    </div>
+                </section>
+                <section class="col-md-4 col-sm-6">
+                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
+                        <img src="static/img/GSwaminathan.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">G.Swaminathan</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                            <i class="ion-android-call"></i> : +91 8572938422<br>
+                            <i class="ion-android-mail"></i> : g.swaminathan.eee13@iitbhu.ac.in
+                        </p>
+                    </div>
+                </section>
+                <section class="col-md-4 col-sm-6">
+                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/dev-1.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
-                </section>
-                <section class="col-md-4 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/dev-2.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
-                </section>
-                <section class="col-md-4 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/dev-3.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Nitesh Kumar</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+
+                        </p>
                     </div>
                 </section>
             </section>

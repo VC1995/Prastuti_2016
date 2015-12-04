@@ -4,7 +4,7 @@
         <section class="container">
             <section class="row" id="logo_menu" role="navigation">                  
                 <div class="col-md-3 col-sm-8 col-xs-2 navbar-brand">
-                    <a class="logo" href=""><i class="ion-ios-home hidden-md hidden-lg"></i><span class="hidden-sm hidden-xs" style="letter-spacing:2px;font-weight:bold;">SOS</span></a>
+                    <a class="logo" href=""><i class="ion-ios-home hidden-md hidden-lg"></i><span class="hidden-sm hidden-xs" style="letter-spacing:2px;font-weight:bold;">BIZCRAFT</span></a>
                 </div>
                 <div class="collapse navbar-collapse" style="padding-top:1em;width:auto;" id="nav_menu">
                 <ul id="nav_menu" class="nav navbar-nav navbar-right" style="overflow-y: visible; overflow-x: visible">                 
@@ -19,13 +19,13 @@
                         <span class="caret"></span>
                         </button>
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
-                        <li><a href="bizcraft.php">BIZCRAFT</a></li>
                         <li><a href="envisage.php">Envisage</a></li>
                         <li><a href="idp.php">IDP</a></li>
                         <li><a href="jaribio.php">Jaribio</a></li>
                         <li><a href="morse.php">Morse Mystery</a></li>
                         <li><a href="ppt.php">Paper Presentation</a></li>
                         <li><a href="recognizance.php">Recognizance</a></li>
+                        <li><a href="sos.php">SOS</a></li>
                         <li><a href="index.php">HOME</a></li>
                         </ul>
                         </div>
@@ -45,8 +45,8 @@
             <section class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
-                        <h1 class="wow animated fadeInDown">Solution On Spot</h1>
-                        <p class="wow animated fadeInLeft" style="background:rgba(0,0,0,.7);">Technology has advanced at startling rates, in the era of technological development speed is the need of the hour</p>
+                        <h1 class="wow animated fadeInDown">BIZCRAFT</h1>
+                        <p class="wow animated fadeInLeft" style="background:rgba(0,0,0,.7);">If you think you have a businessman in you, come test yourself.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div style="background:rgba(0,0,0,.7);">
@@ -82,7 +82,7 @@
             
             <section class="row" style="text-align:center;">
                 <p>
-            We are all strangers to our hidden potential until we confront problems that reveal our capabilities. Prastuti is a long held tradition at IIT-BHU. Started at the dawn of the new millennium in 2001, the emphasis of Prastuti has always been on "Technology in the Service of Mankind". Today, technology has revolutionized all aspects of traditional life in the world. A decade ago, we had to stand in endless queues to make a simple phone call. Today India has more than 950 million mobile connections that have enabled us to make video calls through handheld devices (complex enough to run an entire satellite) at uber-fast speed. These pivotal technologies have developed at startling rates. In the era of technological development speed is the need of the hour. Yet in this race for faster, stronger, better technologies we are unable to impart the students the importance of reliability, consistency of the solution. In most of the cases the solutions falter in incorporating these characteristics in them.</p>
+            If you have a large appetite for numbers or even winning “The time is right”. In keeping with our tradition, this PRASTUTI’16  brings to you bizCraft ,The business event , to test and nourish the business skills in you  in team work, handling pressure, keeping up with time, taking right decisions and maintaining cool in difficult situations.  And to put it in a line - If you think you have a businessman in you, come test yourself in the tides of uncertain economic empires. Come, play and win.</p>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -101,7 +101,14 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
-            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);">In the spirit of this speed-with-consistency idea, SOLUTION-ON-SPOT(S.O.S.) has been designed to empower the fast thought-out solutions with efficiency. S.O.S. is a platform for tomorrow's tech-leaders to bring out the 'Einstein' in them. The main aim of this event is to come up with efficient solutions for a given real life problem and all this while the 'clock is ticking'. This event will help the candidates in understanding the intricate and pivotal role technology plays in the real-life. In this event the participants have to be well-equipped in their technical know-how & also should be able to come up with an effective solution. All this should be accomplished while racing against the clock.
+            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);">
+                <h3>ROUND 1 (Quiz)</h3>
+            There'll be an informal quiz focusing primarily on Business related questions with 30 points weightage which will be added as bonus points for selection cut-off in final shortlist of Round 3. The quiz round is only for internal participants. 
+                <h3>ROUND 2 (Case study – Online Event)</h3>
+            This round will consist of a business case study which teams will have to analyze and present a solution to it. The Case study will be uploaded online and the teams will have to deliver the solution (Abstract only clearly briefing your key points) before the given deadline. It’s a 70 points weightage round. Teams will be shortlisted for Round 3 based on the combined points of Round 1+2.
+                <h3>ROUND 3 (Case Representation – Offline Main Event)</h3>
+            The top teams will be asked to prepare a presentation on the proposed case study or a new case study.
+            Scoring and judgement will be computerized to avoid any sort of discrepancy. But, the final judgement of the ultimate individual winners of the event will be up to the judges (as it is a team game in final round), who'll evaluate all the contestants throughout the event.
             </section>
         </section>
     </section>
@@ -118,12 +125,19 @@
                 <span class="bb-bottom-right"></span>
                 </h1></div>
             </section>
-            <ol>
-                <li>Participating teams will have to register themselves through the online form made available on the Prastuti website. The teams arriving from other colleges will also have the option of on-the-spot registration.</li>
-                <li>The teams can have a max. of 4 members. Teams can consist members from different colleges.</li>
-                <li>Groups will be provided a fixed number of cases/scenarios. The scenarios will be provided one after another and there will be a fixed time limit for solving each question. They will have to propose a rough solution of the cases within the time. The time limit will be decided according to the difficulty level of the particular question.The professor will select the qualifying solutions for every question. For every question attempted, the teams will receive points & for every question selected for the next round the corresponding team will receive some more points. Ultimatum Round</li>
-                <li>The teams shortlisted based on their performance in the first round shall be called for the ultimatum round. They will be informed a day prior to this round. If for a team multiple solutions are selected, the team will have the choice of choosing the final solutions (for a maximum of 2 cases) that they will present.The teams will have to present a complete solution in a detailed presentation for where they shall be judged by a panel of professors. Points will be given for the teams for their final presentation.</li>
-            </ol>
+            The team may contain a maximum of <strong>3 members.</strong>
+            <h4>Registration Details :</h4>
+            Team Name<br>
+            Member 1 Name,
+            Member 1 Phone Number,
+            Member 1 Email id<br>
+            Member 2 Name,
+            Member 2 Phone Number,
+            Member 2 Email id<br>
+            Member 3 Name,
+            Member 3 Phone Number,
+            Member 3 Email id<br>
+            College
             <section class="row">
             </section>
             <div class="clearfix"></div>
@@ -147,25 +161,26 @@
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/dev-1.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Abhishek Zigyasu</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                        <i class="ion-android-call"></i> : +91 8960384177<br>
+                        </p>
                     </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/dev-2.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Sunidhi Singh</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                        <i class="ion-android-call"></i> : +91 8417898218<br>
+                        </p>
                     </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/dev-3.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);"></p>
                     </div>
                 </section>
             </section>

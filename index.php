@@ -73,8 +73,8 @@
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-android-laptop" style="color:#9b59b6;"></i>
-                        <h2><a href="codeniche.php">Code Niche</a></h2>
-                        <p>In today’s era ….. Those who code ….. Have The Power!!</p>
+                        <h2><a href="bizcraft.php">BIZCRAFT</a></h2>
+                        <p>If you think you have a businessman in you, come test yourself.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
