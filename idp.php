@@ -20,7 +20,7 @@
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
                         <li><a href="bizcraft.php">BIZCRAFT</a></li>
                         <li><a href="envisage.php">Envisage</a></li>
-                        <li><a href="jaribio.php">Jaribio</a></li>
+                        <li><a href="simulim.php">Simulim</a></li>
                         <li><a href="morse.php">Morse Mystery</a></li>
                         <li><a href="ppt.php">Paper Presentation</a></li>
                         <li><a href="recognizance.php">Recognizance</a></li>
@@ -80,7 +80,7 @@
             </section>
             
             <section class="row" style="text-align:center;">
-                <p>Welcome to the real world; full of flaws, bottlenecks and troubles everywhere. Burgeoning problems constantly bother today's industry and innovators and research personnel are always at their toes to solve them, in their hot pursuit for pronouncing elegant answers to complex questions. A lot of money gets into research and product development, hunting for novel and creative solutions that cater to the ever-evolving industrial scenario. About the event In IDP, we give you the perfect podium to showcase that Einstein inside you, where you have to exhibit your engineering skills using the power of your grey cells. Innovation, with great deal of practicality is the central backbone of the event. It is an event to collaborate our academic brilliance to real life Industrial problem; a platform to put our imagination at work; a challenge to innovate and find solutions. Forming a link between academia and industry, this event touches almost every aspect of engineering study- from depth of scientific thought to feasibility of the solution. The event serves as an excellent platform for engineering students to apply the skills and knowledge they possess and come up with creative and original solutions to problems posed by the industry.</p>
+                <p>Welcome to the real world; full of flaws, bottlenecks and troubles everywhere. Burgeoning problems constantly bother today's industry and innovators and research personnel are always at their toes to solve them, in their hot pursuit for pronouncing elegant answers to complex questions. IDP is an event in which we are looking for fresh ideas and concepts put together in creative way to present elegant designs and solutions to problems posed. It is a perfect platform to exhibit the 'Einstein' in you , where you have to show your engineering skills innovatively depicting the power of your grey matter.</p>
             </section>
             <div class="clearfix"></div>
         </section>

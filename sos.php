@@ -22,7 +22,7 @@
                         <li><a href="bizcraft.php">BIZCRAFT</a></li>
                         <li><a href="envisage.php">Envisage</a></li>
                         <li><a href="idp.php">IDP</a></li>
-                        <li><a href="jaribio.php">Jaribio</a></li>
+                        <li><a href="simulim.php">Simulim</a></li>
                         <li><a href="morse.php">Morse Mystery</a></li>
                         <li><a href="ppt.php">Paper Presentation</a></li>
                         <li><a href="recognizance.php">Recognizance</a></li>

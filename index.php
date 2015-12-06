@@ -73,7 +73,7 @@
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-android-laptop" style="color:#9b59b6;"></i>
-                        <h2><a href="bizcraft.php">BIZCRAFT</a></h2>
+                        <h2><a href="bizcraft.php">Bizcraft</a></h2>
                         <p>If you think you have a businessman in you, come test yourself.</p>
                     </div>
                 </div>
@@ -94,8 +94,8 @@
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-mic-b" style="color:#9b59b6;"></i>
-                        <h2><a href="jaribio.php">Jaribio</a></h2>
-                        <p>Speaking is a skill and a good way to hone your articulation proficiency is a good GD session and PI, which is brought to you by the event JARIBIO</p>
+                        <h2><a href="simulim.php">Simulim</a></h2>
+                        <p>Get ready for Electrical Simulations!!!<br><br><br></p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
