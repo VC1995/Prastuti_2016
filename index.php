@@ -18,6 +18,7 @@
                         <li style="padding-left: 2em"><a class="nav_menu_item" href="#features"><i class="ion-ribbon-a"></i><span class="hidden-sm"> Events</span></a></li>
                         <li style="padding-left: 2em"><a class="nav_menu_item" href="#gallery"><i class="ion-ios-mic"></i><span class="hidden-sm"> Updates</span></a></li>
                         <li style="padding-left: 2em"><a class="nav_menu_item" href="#team"><i class="ion-android-call"></i><span class="hidden-sm"> Contact us</span></a></li>
+                        <li style="padding-left: 2em"><a class="nav_menu_item" href="team.php"><i class="ion-android-people"></i><span class="hidden-sm"> Team</span></a></li>
                         <li style="padding-left: 2em"><a class="nav_menu_item" href="registration_form.php"><i class="ion-android-checkbox-outline"></i><span class="hidden-sm"> Register</span></a></li>                   
                     </ul>   
                     </div>          
@@ -189,9 +190,9 @@
                 </div>
             </section>
             <section class="row">
-                <section class="col-md-3 col-sm-6">
+                <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-                        <img src="static/img/dev-1.jpg" class="img_res team-pic">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -203,9 +204,9 @@
                         </ul>
                     </div>
                 </section>
-                <section class="col-md-3 col-sm-6">
+                <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-                        <img src="static/img/dev-2.jpg" class="img_res team-pic">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -217,23 +218,9 @@
                         </ul>
                     </div>
                 </section>
-                <section class="col-md-3 col-sm-6">
+                <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-                        <img src="static/img/dev-3.jpg" class="img_res team-pic">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
-                        <ul class="team-social">
-                            <li class="wow animated fadeInLeft facebook"><a href="#"><i class="ion-social-facebook"></i></a></li>
-                            <li class="wow animated fadeInLeft linkedin"><a href="#"><i class="ion-social-linkedin"></i></a></li>
-                            <li class="wow animated fadeInRight googleplus"><a href="#"><i class="ion-social-googleplus-outline"></i></a></li>
-                            <li class="wow animated fadeInRight github"><a href="#"><i class="ion-social-github"></i></a></li>
-                        </ul>
-                    </div>
-                </section>
-                <section class="col-md-3 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-                        <img src="static/img/dev-4.jpg" class="img_res team-pic">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua.</p>
