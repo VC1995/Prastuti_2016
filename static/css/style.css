@@ -138,12 +138,12 @@ a:focus{
 
 Section
 {
-    font-size: 16px;
+    font-size: 15px;
 }
 
 span[class="hidden-sm"]
 {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .block {
@@ -345,6 +345,9 @@ span[class="hidden-sm"]
     max-width: 360px;
     margin: 0 auto;
 }
+.feature-box:hover {
+    border: solid 1px #00ceb8;
+}
 .feature-box i {
     font-size: 7em;
     line-height: 0 !important;
@@ -367,7 +370,7 @@ span[class="hidden-sm"]
 .feature-box h2 a:hover,
 .feature-box h2 a:focus{
     text-decoration: none;
-    color: #00ceb8;
+    color: #00ceb8;    
 }
 
 

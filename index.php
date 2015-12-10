@@ -35,8 +35,8 @@
             <section class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
-                        <h1 class="wow animated fadeInDown" style="background:rgba(0,0,0,.7);">ALL INDIA PAPER PRESENTATION</h1>
-                        <p class="wow animated fadeInLeft" style="background:rgba(0,0,0,.7);">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                        <h1 class="wow animated fadeInDown" >ALL INDIA PAPER PRESENTATION</h1>
+                        <p class="wow animated fadeInLeft">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div style="background:rgba(0,0,0,.7);">
@@ -70,18 +70,19 @@
                 </h1></div>
             </section>
             
-            <section class="row">
+            <section >
+                <div class="row">
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-android-laptop" style="color:#9b59b6;"></i>
-                        <h2><a href="bizcraft.php">Bizcraft</a></h2>
+                        <h2><a href="bizcraft.php">biZcraft</a></h2>
                         <p>If you think you have a businessman in you, come test yourself.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-erlenmeyer-flask" style="color:#9b59b6;"></i>
-                        <h2><a href="envisage.php">Envisage</a></h2>
+                        <h2><a href="envisage.php">Consilium</a></h2>
                         <p>It invites all the valuable minds to scream out their ideas and learning</p>
                     </div>
                 </div>
@@ -89,44 +90,46 @@
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-briefcase" style="color:#9b59b6;"></i>
                         <h2><a href="idp.php">IDP</a></h2>
-                        <p>A platform to put our imagination at work; a challenge to innovate and find solutions</p>
+                        <p>Redefining industry by defining its problems.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-mic-b" style="color:#9b59b6;"></i>
-                        <h2><a href="simulim.php">Simulim</a></h2>
-                        <p>Get ready for Electrical Simulations!!!<br><br><br></p>
+                        <h2><a href="simulim.php">Paper Presentation</a></h2>
+                        <p>Tagline here<br><br><br></p>
                     </div>
                 </div>
+                </div>
+                <div class="row">
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-android-more-horizontal" style="color:#9b59b6;"></i>
-                        <h2><a href="morse.php">Morse Mystery</a></h2>
-                        <p>Have you ever tried to encrypt or decrypt some code? Try decoding this:<br>
-                        .--. .-. .- ... - ..- - ..</p>
+                        <h2><a href="morse.php">Poster Presentation</a></h2>
+                        <p>Tagline here </p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-compose" style="color:#9b59b6;"></i>
-                        <h2><a href="ppt.php">Paper Presentation</a></h2>
-                        <p>This event will be an excellent platform to showcase your original ideas and comprehensive technical research</p>
+                        <h2><a href="ppt.php">Recognizance</a></h2>
+                        <p>Let's give our machines a 'vision'.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-load-a" style="color:#9b59b6;"></i>
-                        <h2><a href="recognizance.php">Recognizance</a></h2>
-                        <p>Image processing has come a long way from the old days, when taking a photograph took an hour, to the present, when handwriting recognition is widely available</p>
+                        <h2><a href="recognizance.php">Simulim</a></h2>
+                        <p>Tagline here</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-ios-lightbulb" style="color:#9b59b6;"></i>
                         <h2><a href="sos.php">SOS</a></h2>
-                        <p>Technology has advanced at startling rates, in the era of technological development speed is the need of the hour</p>
+                        <p>Tagline here</p>
                     </div>
+                </div>
                 </div>
             </section>
             <div class="clearfix"></div>
@@ -147,7 +150,7 @@
                 </h1></div>
             </section>
             <section class="row">
-                <div class="col-xs-12" style="background:rgba(0,0,0,.7);">
+                <div class="col-xs-12">
                     <?php
                     include 'includes/general_functions.php';
                         $db= connect_to_database();
@@ -165,8 +168,8 @@
                             }
                         }
                     ?>
-                    <br>
-                    <div style="text-align:center;"><a id="view_all" href="updates.php">View All</a></div>
+                    <br/>
+                    <div style="text-align:center;"><a id="view_all" href="updates.php" style="background:rgba(0,0,0,.7);">View All</a></div>
                 </div>
             </section>
         </section>
@@ -190,10 +193,10 @@
                 </div>
             </section>
             <section class="row">
-                <section class="col-md-4 col-sm-6">
+                <section class="col-md-6 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Anvesh reddy</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua.</p>
                         <ul class="team-social">
@@ -204,24 +207,10 @@
                         </ul>
                     </div>
                 </section>
-                <section class="col-md-4 col-sm-6">
+                <section class="col-md-6 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
-                        <ul class="team-social">
-                            <li class="wow animated fadeInLeft facebook"><a href="#"><i class="ion-social-facebook"></i></a></li>
-                            <li class="wow animated fadeInLeft linkedin"><a href="#"><i class="ion-social-linkedin"></i></a></li>
-                            <li class="wow animated fadeInRight googleplus"><a href="#"><i class="ion-social-googleplus-outline"></i></a></li>
-                            <li class="wow animated fadeInRight github"><a href="#"><i class="ion-social-github"></i></a></li>
-                        </ul>
-                    </div>
-                </section>
-                <section class="col-md-4 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Shubham Goel</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua.</p>
                         <ul class="team-social">

@@ -56,7 +56,7 @@
 body {
     font-family: 'Lato', Calibri, Arial, sans-serif;
     color: #222;
-    background: url(../img/gallery-bg.png) repeat;
+    background: url(../img/registration-bg.jpg) repeat;
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -142,7 +142,7 @@ height:46px;
 position: relative;
 left:50%;
 margin-left:-79px;
-color: green;
+color: g#337ab7;
 font-size: 1.6em;
 font-weight:bold;
 padding:10px;
@@ -156,7 +156,7 @@ border-radius:5px;
 
 #animated_div a{
     text-decoration: none;
-    color:#5cb85c;
+    color:#337ab7;
 }
 
 #event_chooser li a {
