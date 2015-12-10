@@ -1,6 +1,7 @@
 <?php
- 
- $db= new mysqli('127.0.0.1','root','','prastuti16');
+ include 'includes/general_functions.php';
+
+ $db= connect_to_database();
  if($db->connect_error){
     echo $db->connect_error;
     die('Sorry, we\'re having some problems');
@@ -52,8 +53,8 @@
         // close query and db
         $query->close();
         $db->close();
-        echo "Registered!";
-        header('Location: success.php');
+        //echo "Registered!";
+        redirect('success.php');
     }else{
         $query->close();
         $db->close();

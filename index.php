@@ -149,8 +149,8 @@
             <section class="row">
                 <div class="col-xs-12" style="background:rgba(0,0,0,.7);">
                     <?php
-
-                        $db= new mysqli('127.0.0.1','root','','prastuti16');
+                    include 'includes/general_functions.php';
+                        $db= connect_to_database();
                         if($db->connect_error){
                         echo "<p> 'Sorry, we\'re having some problems' </p>";
                         }else{

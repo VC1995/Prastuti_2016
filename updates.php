@@ -54,8 +54,8 @@ body
                 <span class="bb-bottom-right"></span>
                 </h1></div>
                     <?php
-
-                        $db= new mysqli('127.0.0.1','root','','prastuti16');
+                    include 'includes/general_functions.php';
+                        $db= connect_to_database();
                         if($db->connect_error){
                         echo "<p> 'Sorry, we\'re having some problems' </p>";
                         }else{
