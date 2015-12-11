@@ -141,7 +141,8 @@
     <section id="gallery" class="block">
         <section class="container">
             <section class="row">
-                <div class="title-box" style="color:#fff;animation: vibrate 2s 3s infinite;-moz-animation: vibrate 2s 3s infinite;-webkit-animation: vibrate 2s 3s infinite;-o-animation: vibrate 2s 3s infinite;"><h1 class="block-title ">
+                <div class="title-box" style="color:#fff;animation: vibrate 2s 3s infinite;-moz-animation: vibrate 2s 3s infinite;-webkit-animation: vibrate 2s 3s infinite;-o-animation: vibrate 2s 3s infinite;">
+                <h1 class="block-title " style="background:rgba(0,0,0,.7);">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
                 Updates

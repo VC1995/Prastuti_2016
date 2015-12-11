@@ -46,11 +46,11 @@
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">BIZCRAFT</h1>
-                        <p class="wow animated fadeInLeft" style="background:rgba(0,0,0,.7);">If you think you have a businessman in you, come test yourself.</p>
+                        <p class="wow animated fadeInLeft" >If you think you have a businessman in you, come test yourself.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div style="background:rgba(0,0,0,.7);">
-                                    <a href="registration_form.php#biZcraft" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
+                                    <a href="registration_form.php#business" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
                                 </div>
                             </div>
                             <div class="col-xs-6 col-sm-6 col-md-5">
