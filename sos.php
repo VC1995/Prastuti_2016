@@ -19,13 +19,13 @@
                         <span class="caret"></span>
                         </button>
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
-                        <li><a href="bizcraft.php">BIZCRAFT</a></li>
-                        <li><a href="envisage.php">Envisage</a></li>
+                        <li><a href="bizcraft.php">biZcraft</a></li>
+                        <li><a href="consilium.php">Consilium</a></li>
                         <li><a href="idp.php">IDP</a></li>
-                        <li><a href="simulim.php">Simulim</a></li>
-                        <li><a href="morse.php">Morse Mystery</a></li>
                         <li><a href="ppt.php">Paper Presentation</a></li>
+                        <li><a href="poster.php">Poster Presentation</a></li>
                         <li><a href="recognizance.php">Recognizance</a></li>
+                        <li><a href="simulim.php">Simulim</a></li>
                         <li><a href="index.php">HOME</a></li>
                         </ul>
                         </div>
@@ -46,7 +46,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">Solution On Spot</h1>
-                        <p class="wow animated fadeInLeft" style="background:rgba(0,0,0,.7);">Technology has advanced at startling rates, in the era of technological development speed is the need of the hour</p>
+                        <p class="wow animated fadeInLeft">Technology has advanced at startling rates, in the era of technological development speed is the need of the hour</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div style="background:rgba(0,0,0,.7);">
@@ -81,8 +81,14 @@
             </section>
             
             <section class="row" style="text-align:center;">
-                <p>
-            We are all strangers to our hidden potential until we confront problems that reveal our capabilities. Prastuti is a long held tradition at IIT-BHU. Started at the dawn of the new millennium in 2001, the emphasis of Prastuti has always been on "Technology in the Service of Mankind". Today, technology has revolutionized all aspects of traditional life in the world. A decade ago, we had to stand in endless queues to make a simple phone call. Today India has more than 950 million mobile connections that have enabled us to make video calls through handheld devices (complex enough to run an entire satellite) at uber-fast speed. These pivotal technologies have developed at startling rates. In the era of technological development speed is the need of the hour. Yet in this race for faster, stronger, better technologies we are unable to impart the students the importance of reliability, consistency of the solution. In most of the cases the solutions falter in incorporating these characteristics in them.</p>
+            <p>
+                In the era of fast technological advancement, the problem solving capabilities of an engineer
+                is bound only to their labs and projects. This is the great platform for the tomorrow’s tech 
+                leaders to experience real-life problem scenarios and their complications. The main aim of 
+                this event is to come up with thought provoking ideas while clock is ticking. This event will 
+                also help the candidates in understanding the intricate and pivotal role technology plays in 
+                the real-life
+            </p>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -101,7 +107,11 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
-            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);">In the spirit of this speed-with-consistency idea, SOLUTION-ON-SPOT(S.O.S.) has been designed to empower the fast thought-out solutions with efficiency. S.O.S. is a platform for tomorrow's tech-leaders to bring out the 'Einstein' in them. The main aim of this event is to come up with efficient solutions for a given real life problem and all this while the 'clock is ticking'. This event will help the candidates in understanding the intricate and pivotal role technology plays in the real-life. In this event the participants have to be well-equipped in their technical know-how & also should be able to come up with an effective solution. All this should be accomplished while racing against the clock.
+            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);"><p>
+                Participants will be given three problems at the time of event and they have to give a brief
+                ideas of their solution within limited time (15 minutes per question). Top ideas will be 
+                selected for second round where they have to present their exact solution in front of judge 
+                and winner will be decided as marks given by judge panel.</p>
             </section>
         </section>
     </section>
@@ -119,10 +129,8 @@
                 </h1></div>
             </section>
             <ol>
-                <li>Participating teams will have to register themselves through the online form made available on the Prastuti website. The teams arriving from other colleges will also have the option of on-the-spot registration.</li>
-                <li>The teams can have a max. of 4 members. Teams can consist members from different colleges.</li>
-                <li>Groups will be provided a fixed number of cases/scenarios. The scenarios will be provided one after another and there will be a fixed time limit for solving each question. They will have to propose a rough solution of the cases within the time. The time limit will be decided according to the difficulty level of the particular question.The professor will select the qualifying solutions for every question. For every question attempted, the teams will receive points & for every question selected for the next round the corresponding team will receive some more points. Ultimatum Round</li>
-                <li>The teams shortlisted based on their performance in the first round shall be called for the ultimatum round. They will be informed a day prior to this round. If for a team multiple solutions are selected, the team will have the choice of choosing the final solutions (for a maximum of 2 cases) that they will present.The teams will have to present a complete solution in a detailed presentation for where they shall be judged by a panel of professors. Points will be given for the teams for their final presentation.</li>
+                <li>There will be maximum 4 members in the team.</li>
+                <li>Participant have to register on the website and on spot registration is also allowed before half an hour of the event.</li>
             </ol>
             <section class="row">
             </section>
@@ -144,28 +152,24 @@
                 </h1></div>
             </section>
             <section class="row" style="color:white;text-align:center;">
-                <section class="col-md-4 col-sm-6">
+                <section class="col-md-6 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Aritro Maji</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                        <i class="ion-android-call"></i> : +91 9628211130<br>
+                        <i class="ion-android-mail"></i> : aritro.maji.eee13@itbhu.ac.in
+                        </p>
                     </div>
                 </section>
-                <section class="col-md-4 col-sm-6">
+                <section class="col-md-6 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
-                </section>
-                <section class="col-md-4 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Ravi Kumar</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                        <i class="ion-android-call"></i> : +91 7408843343<br>
+                        <i class="ion-android-mail"></i> : ravi.kumar.eee13@itbhu.ac.in
+                        </p>
                     </div>
                 </section>
             </section>

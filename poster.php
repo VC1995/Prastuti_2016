@@ -4,14 +4,14 @@
         <section class="container">
             <section class="row" id="logo_menu" role="navigation">                  
                 <div class="col-md-3 col-sm-8 col-xs-2 navbar-brand">
-                    <a class="logo" href=""><i class="ion-ios-home hidden-md hidden-lg"></i><span class="hidden-sm hidden-xs" style="letter-spacing:2px;font-weight:bold;">biZcraft</span></a>
+                    <a class="logo" href=""><i class="ion-ios-home hidden-md hidden-lg"></i><span class="hidden-sm hidden-xs" style="letter-spacing:2px;font-weight:bold;font-size:21px;">POSTER PRESENTATION</span></a>
                 </div>
                 <div class="collapse navbar-collapse" style="padding-top:1em;width:auto;" id="nav_menu">
                 <ul id="nav_menu" class="nav navbar-nav navbar-right" style="overflow-y: visible; overflow-x: visible">                 
                     <li style="padding-left: 1em"><a class="nav_menu_item" href="#features"><i class="ion-play"></i><span class="hidden-sm"> Introduction</span></a></li>
                     <li style="padding-left: 1em"><a class="nav_menu_item" href="#gallery"><i class="ion-gear-a"></i><span class="hidden-sm"> Event Structure</span></a></li>
                     <li style="padding-left: 1em"><a class="nav_menu_item" href="#rules"><i class="ion-android-checkbox-outline"></i><span class="hidden-sm"> Rules & Guidlines</span></a></li>
-                    <li style="padding-left: 1em"><a class="nav_menu_item" href="#team"><i class="ion-android-call"></i><span class="hidden-sm"> Contact Us</span></a></li>
+                    <li style="padding-left: 1em"><a class="nav_menu_item" href="#team"><i class="ion-android-call"></i><span class="hidden-sm"> Coordinators</span></a></li>
                     <li style="padding-left: 1em;position:relative;">
                         <div class="dropdown">
                         <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" data-hover="dropdown" aria-haspopup="true" aria-expanded="true" style="background:rgba(0,0,0,.7);border:2px solid white;color:white;font-size:16px;">
@@ -19,10 +19,10 @@
                         <span class="caret"></span>
                         </button>
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
+                        <li><a href="bizcraft.php">biZcraft</a></li>
                         <li><a href="consilium.php">Consilium</a></li>
                         <li><a href="idp.php">IDP</a></li>
-                        <li><a href="ppt.php">Paper Presentation</a></li>
-                        <li><a href="poster.php">Paper Presentation</a></li>
+                        <li><a href="ppt.php">Paper Presenntation</a></li>
                         <li><a href="recognizance.php">Recognizance</a></li>
                         <li><a href="simulim.php">Simulim</a></li>
                         <li><a href="sos.php">SOS</a></li>
@@ -45,12 +45,12 @@
             <section class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
-                        <h1 class="wow animated fadeInDown">biZcraft</h1>
-                        <p class="wow animated fadeInLeft" >If you think you have a businessman in you, come test yourself.</p>
+                        <h1 class="wow animated fadeInDown">POSTER PRESENTATION</h1>
+                        <p class="wow animated fadeInLeft">Tagline btao !</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div style="background:rgba(0,0,0,.7);">
-                                    <a href="registration_form.php#business" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
+                                    <a href="registration_form.php#poster" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
                                 </div>
                             </div>
                             <div class="col-xs-6 col-sm-6 col-md-5">
@@ -81,8 +81,11 @@
             </section>
             
             <section class="row" style="text-align:center;">
-                <p>
-            If you have a large appetite for numbers or even winning “The time is right”. In keeping with our tradition, this PRASTUTI’16  brings to you bizCraft ,The business event , to test and nourish the business skills in you  in team work, handling pressure, keeping up with time, taking right decisions and maintaining cool in difficult situations.  And to put it in a line - If you think you have a businessman in you, come test yourself in the tides of uncertain economic empires. Come, play and win.</p>
+                <p>Posters are widely used in the academic community, and most conferences include poster presentations 
+                in their program.  Research posters summarize information or research concisely and attractively to help 
+                publicize it and generate discussion.  The poster is usually a mixture of a brief text mixed with tables, 
+                graphs, pictures, and other presentation formats. At a conference, the researcher stands by the poster 
+                display while other participants can come and view the presentation and interact with the author.</p>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -101,14 +104,9 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
-            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);">
-                <h3>ROUND 1 (Quiz)</h3>
-            There'll be an informal quiz focusing primarily on Business related questions with 30 points weightage which will be added as bonus points for selection cut-off in final shortlist of Round 3. The quiz round is only for internal participants. 
-                <h3>ROUND 2 (Case study – Online Event)</h3>
-            This round will consist of a business case study which teams will have to analyze and present a solution to it. The Case study will be uploaded online and the teams will have to deliver the solution (Abstract only clearly briefing your key points) before the given deadline. It’s a 70 points weightage round. Teams will be shortlisted for Round 3 based on the combined points of Round 1+2.
-                <h3>ROUND 3 (Case Representation – Offline Main Event)</h3>
-            The top teams will be asked to prepare a presentation on the proposed case study or a new case study.
-            Scoring and judgement will be computerized to avoid any sort of discrepancy. But, the final judgement of the ultimate individual winners of the event will be up to the judges (as it is a team game in final round), who'll evaluate all the contestants throughout the event.
+            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);padding:10px;text-align:left;"><p>Poster Presentation is a new event organized by IIT(BHU) Varanasi. It gives you the chance to present
+                your research work on a poster which will help you to be more effective in conveying your message 
+                across as many people as possible.</p>
             </section>
         </section>
     </section>
@@ -125,20 +123,19 @@
                 <span class="bb-bottom-right"></span>
                 </h1></div>
             </section>
-            The team may contain a maximum of <strong>3 members.</strong>
-            <h4>Registration Details :</h4>
-            Team Name<br>
-            Member 1 Name,
-            Member 1 Phone Number,
-            Member 1 Email id<br>
-            Member 2 Name,
-            Member 2 Phone Number,
-            Member 2 Email id<br>
-            Member 3 Name,
-            Member 3 Phone Number,
-            Member 3 Email id<br>
-            College
             <section class="row">
+                <ol>
+                <li> The poster should be limited to 1m in height and 1m in width.</li>
+                <li> The poster should be printed on a flex of the above dimensions.</li>
+                <li> We welcome any topic related to electrical engineering for the presentation. </li>
+                <li> The presenting team should not consist of more than three participants.</li>
+                <li> The participants should hand over the posters in the very beginning of the day before the start of the event. Any submissions after the start of event won’t be entertained.</li>
+                <li> The poster must contain the title, author names, and the institution where the work was conducted, in large letters centered at the top of the poster.</li>
+                <li> No computers or extra aids may be used during the poster presentation.</li>
+                <li> The time allotted for poster presentation is ~8-10 minutes per visitor/judge.</li>
+                <li> Presenters should stimulate discussion, not give a long monotonous presentation.</li>
+                <li> Participants are advised to use standard formats.</li>
+            </ol>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -152,29 +149,34 @@
                 <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
-                Contact Us
+                Coordinators
                 <span class="bb-top-right" style="border-color: #fff; "></span>
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
             <section class="row" style="color:white;text-align:center;">
-                <section class="col-md-6 col-sm-6">
+                <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Abhishek Zigyasu</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
-                        <i class="ion-android-call"></i> : +91 8960384177<br>
-                        </p>
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua.</p>
                     </div>
                 </section>
-                <section class="col-md-6 col-sm-6">
+                <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/sunidhi.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Sunidhi Singh</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
-                        <i class="ion-android-call"></i> : +91 8417898218<br>
-                        <i class="ion-android-mail"></i> : sunidhi.singh.eee13@iitbhu.ac.in
-                        </p>
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                    </div>
+                </section>
+                <section class="col-md-4 col-sm-6">
+                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua.</p>
                     </div>
                 </section>
             </section>

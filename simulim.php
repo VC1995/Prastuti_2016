@@ -19,11 +19,11 @@
                         <span class="caret"></span>
                         </button>
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
-                        <li><a href="bizcraft.php">Bizcraft</a></li>
-                        <li><a href="envisage.php">Envisage</a></li>
+                        <li><a href="bizcraft.php">biZcraft</a></li>
+                        <li><a href="consilium.php">Consilium</a></li>
                         <li><a href="idp.php">IDP</a></li>
-                        <li><a href="morse.php">Morse Mystery</a></li>
                         <li><a href="ppt.php">Paper Presentation</a></li>
+                        <li><a href="poster.php">Poster Presentation</a></li>
                         <li><a href="recognizance.php">Recognizance</a></li>
                         <li><a href="sos.php">SOS</a></li>
                         <li><a href="index.php">HOME</a></li>
@@ -46,7 +46,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">SIMULIM</h1>
-                        <p class="wow animated fadeInLeft" style="background:rgba(0,0,0,.7);">
+                        <p class="wow animated fadeInLeft">
                             Get ready for Electrical Simulations!!!
                         </p>
                         <div class="row">
@@ -102,10 +102,10 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
-            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);">
+            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);"><p>
             <strong>1. Assignments: </strong><br> There will be three workshops conducted for the event. At the end of each workshop, questions will be posted either on website or on Facebook page, answers to which are to be submitted in a fixed duration.<br>
             <strong>2. Finale: </strong><br> On the day of event, participants have to simulate some problem using MATLAB and a quiz will be conducted related to general understanding of simulation and MATLAB.<br>
-            <strong>3. Winners will be decided on the basis of successive evaluation of assignments and finale.</strong>
+            <strong>3. Winners will be decided on the basis of successive evaluation of assignments and finale.</strong></p>
             </section>
         </section>
     </section>
@@ -122,8 +122,8 @@
                 <span class="bb-bottom-right"></span>
                 </h1></div>
             </section>
-            <section class="row">
-                Maximum of <strong>TWO</strong> members are allowed per team.
+            <section class="row"><p>
+                Maximum of <strong>TWO</strong> members are allowed per team.</p>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -148,7 +148,7 @@
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Harsh Kumar Kedia</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
-                            <i class="ion-android-call"></i> : +91 9973355735<br>
+                            <i class="ion-android-call"></i> : +91 8564866913<br>
                         </p>
                     </div>
                 </section>

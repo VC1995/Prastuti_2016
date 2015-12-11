@@ -19,12 +19,12 @@
                         <span class="caret"></span>
                         </button>
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
-                        <li><a href="bizcraft.php">BIZCRAFT</a></li>
-                        <li><a href="envisage.php">Envisage</a></li>
+                        <li><a href="bizcraft.php">biZcraft</a></li>
+                        <li><a href="envisage.php">Consilium</a></li>
                         <li><a href="idp.php">IDP</a></li>
-                        <li><a href="simulim.php">Simulim</a></li>
-                        <li><a href="morse.php">Morse Mystery</a></li>
                         <li><a href="ppt.php">Paper Presentation</a></li>
+                        <li><a href="poster.php">Poster Presentation</a></li>
+                        <li><a href="simulim.php">Simulim</a></li>
                         <li><a href="sos.php">SOS</a></li>
                         <li><a href="index.php">HOME</a></li>
                         </ul>
@@ -46,7 +46,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">RECOGNIZANCE</h1>
-                        <p class="wow animated fadeInLeft" style="background:rgba(0,0,0,.7);">Let's give our machines a 'vision'.</p>
+                        <p class="wow animated fadeInLeft">Let's give our machines a 'vision'.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div style="background:rgba(0,0,0,.7);">
@@ -165,10 +165,11 @@
                 </section>
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
+                        <img src="static/img/nitesh.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Nitesh Kumar</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
-
+                            <i class="ion-android-call"></i> : +91-9680891895<br>
+                            <i class="ion-android-mail"></i> : nitesh.kumar.eee13@iitbhu.ac.in
                         </p>
                     </div>
                 </section>
