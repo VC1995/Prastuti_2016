@@ -76,7 +76,7 @@
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-social-bitcoin" style="color:#9b59b6;"></i>
                         <h2><a href="bizcraft.php">biZcraft</a></h2>
-                        <p>If you think you have a businessman in you, come test yourself.</p>
+                        <p>Winners don't make excuses when the other side plays their game. Which side are you on ?</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
@@ -95,7 +95,7 @@
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-mic-b" style="color:#9b59b6;"></i>
+                        <i class="ion-ios-copy" style="color:#9b59b6;"></i>
                         <h2><a href="ppt.php">Paper Presentation</a></h2>
                         <p>Come, chill out the hearts of the people with your innovative presentation.</p>
                     </div>
@@ -104,7 +104,7 @@
                 <div class="row">
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-android-more-horizontal" style="color:#9b59b6;"></i>
+                        <i class="ion-image" style="color:#9b59b6;"></i>
                         <h2><a href="poster.php">Poster Presentation</a></h2>
                         <p>Come and speak informally to interested audience through this visual communication art.</p>
                     </div>
@@ -118,14 +118,14 @@
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-load-a" style="color:#9b59b6;"></i>
+                        <i class="ion-playstation" style="color:#9b59b6;"></i>
                         <h2><a href="simulim.php">Simulim</a></h2>
                         <p>Tagline here</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-ios-lightbulb" style="color:#9b59b6;"></i>
+                        <i class="ion-android-bulb" style="color:#9b59b6;"></i>
                         <h2><a href="sos.php">SOS</a></h2>
                         <p>Tagline here</p>
                     </div>
@@ -200,7 +200,7 @@
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Anvesh reddy</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 7309859041<br>
-                        <i class="ion-android-mail"></i> : anvesh.reddy.eee13@itbhu.ac.in
+                        <i class="ion-android-mail"></i> : banvesh.kumar.eee12@iitbhu.ac.in
                         </p>
                     </div>
                 </section>
@@ -210,7 +210,7 @@
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Shubham Goel</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 8417893863<br>
-                        <i class="ion-android-mail"></i> : shubham.goel.eee13@itbhu.ac.in
+                        <i class="ion-android-mail"></i> : shubham.goel.eee13@iitbhu.ac.in
                         </p>
                     </div>
                 </section>

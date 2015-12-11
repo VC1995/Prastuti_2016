@@ -46,7 +46,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">biZcraft</h1>
-                        <p class="wow animated fadeInLeft" >If you think you have a businessman in you, come test yourself.</p>
+                        <p class="wow animated fadeInLeft" >Winners don't make excuses when the other side plays their game. Which side are you on ?</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div style="background:rgba(0,0,0,.7);">
@@ -177,7 +177,7 @@
                         <img src="static/img/sunidhi.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Sunidhi Singh</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
-                        <i class="ion-android-call"></i> : +91 8417898218<br>
+                        <i class="ion-android-call"></i> : +91 8960506756<br>
                         <i class="ion-android-mail"></i> : sunidhi.singh.eee13@iitbhu.ac.in
                         </p>
                     </div>

@@ -146,11 +146,24 @@
                 </h1></div>
             </section>
             <section class="row text-center" style="color:white;text-align:center;">
-                <section class="col-md-12 col-sm-12">
+                <section class="col-md-6 col-sm-12">
+                    <div class="team-member text-center wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
+                        <img src="static/img/mittal.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Aman Mittal</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                        <i class="ion-android-call"></i> : +91 9760390690<br>
+                        <i class="ion-android-mail"></i> : aman.mittal.eee13@iitbhu.ac.in
+                        </p>
+                    </div>
+                </section>
+                <section class="col-md-6 col-sm-12">
                     <div class="team-member text-center wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Aman Mittal</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">+91-9151626941<br/>aman.mittal.eee13@itbhu.ac.in</p>
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Arpit Nagar</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                        <i class="ion-android-call"></i> : +91 7376147662<br>
+                        <i class="ion-android-mail"></i> : arpit.knagar.eee13@iitbhu.ac.in
+                        </p>
                     </div>
                 </section>
             </section>
