@@ -93,7 +93,7 @@
     <section id="gallery" class="block">
         <section class="container" style="max-width:65%;">
             <section class="row">
-                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
+                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn" style="background:rgba(0,0,0,.7);">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
                 Event Structure
@@ -149,7 +149,7 @@
     <section style="background: url(static/img/bg.jpg);background-size: cover;background-attachment: fixed;position: relative" id="team" class="block">
         <section class="container">
             <section class="row">
-                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
+                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn" style="background:rgba(0,0,0,.7);">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
                 Contact Us
@@ -160,7 +160,7 @@
             <section class="row" style="color:white;text-align:center;">
                 <section class="col-md-6 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Abhishek Zigyasu</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
                         <i class="ion-android-call"></i> : +91 8960384177<br>
@@ -169,7 +169,7 @@
                 </section>
                 <section class="col-md-6 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/sunidhi.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
+                        <img src="static/img/sunidhi.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Sunidhi Singh</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
                         <i class="ion-android-call"></i> : +91 8417898218<br>

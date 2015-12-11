@@ -81,7 +81,7 @@
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-erlenmeyer-flask" style="color:#9b59b6;"></i>
+                        <i class="ion-ios-bolt" style="color:#9b59b6;"></i>
                         <h2><a href="consilium.php">Consilium</a></h2>
                         <p>It invites all the valuable minds to scream out their ideas and learning</p>
                     </div>
@@ -183,20 +183,20 @@
             <section class="row">
                 <div class="col-md-12">
                     <div class="title-box">
-                        <h1 class="block-title wow animated rollIn">
+                        <h3 class="block-title wow animated rollIn">
                             <span class="bb-top-left"></span>
                             <span class="bb-bottom-left"></span>
                             Contact us
                             <span class="bb-top-right"></span>
                             <span class="bb-bottom-right"></span>
-                        </h1>
+                        </h3>
                     </div>
                 </div>
             </section>
             <section class="row">
                 <section class="col-md-6 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Anvesh reddy</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 7309859041<br>
@@ -206,7 +206,7 @@
                 </section>
                 <section class="col-md-6 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Shubham Goel</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 8417893863<br>
