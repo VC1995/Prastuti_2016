@@ -122,7 +122,7 @@
                 <span class="bb-bottom-right"></span>
                 </h1></div>
             </section>
-            <p>Each team should have a team-name and should consist maximum of 3 students each. Only codes written in MATLAB will be accepted. There shouldn't be any attempts of plagiarism or copying of code from any source, else if found, would lead to disqualification straightaway. The decisions of the event coordinators should abide and be final in any situation whatsoever.</p>
+            <p>Each team should have a team-name and should consist maximum of 3 students each. There shouldn't be any attempts of plagiarism or copying of code from any source, else if found, would lead to disqualification straightaway. The decisions of the event coordinators should abide and be final in any situation whatsoever.</p>
             <section class="row">
             </section>
             <div class="clearfix"></div>

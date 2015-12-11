@@ -46,7 +46,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">PAPER PRESENTATION</h1>
-                        <p class="wow animated fadeInLeft">This event will be an excellent platform to showcase your original ideas and comprehensive technical research</p>
+                        <p class="wow animated fadeInLeft">Come, chill out the hearts of the people with your innovative presentation.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div style="background:rgba(0,0,0,.7);">

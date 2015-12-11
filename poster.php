@@ -46,7 +46,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">POSTER PRESENTATION</h1>
-                        <p class="wow animated fadeInLeft">Tagline btao !</p>
+                        <p class="wow animated fadeInLeft">Come and speak informally to interested audience through this visual communication art.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div style="background:rgba(0,0,0,.7);">

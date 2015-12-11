@@ -74,7 +74,7 @@
                 <div class="row">
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-android-laptop" style="color:#9b59b6;"></i>
+                        <i class="ion-social-bitcoin" style="color:#9b59b6;"></i>
                         <h2><a href="bizcraft.php">biZcraft</a></h2>
                         <p>If you think you have a businessman in you, come test yourself.</p>
                     </div>
@@ -88,7 +88,7 @@
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-briefcase" style="color:#9b59b6;"></i>
+                        <i class="ion-arrow-graph-up-right" style="color:#9b59b6;"></i>
                         <h2><a href="idp.php">IDP</a></h2>
                         <p>Redefining industry by defining its problems.</p>
                     </div>
@@ -97,7 +97,7 @@
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-mic-b" style="color:#9b59b6;"></i>
                         <h2><a href="ppt.php">Paper Presentation</a></h2>
-                        <p>Tagline here<br><br><br></p>
+                        <p>Come, chill out the hearts of the people with your innovative presentation.</p>
                     </div>
                 </div>
                 </div>
@@ -106,12 +106,12 @@
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-android-more-horizontal" style="color:#9b59b6;"></i>
                         <h2><a href="poster.php">Poster Presentation</a></h2>
-                        <p>Tagline here </p>
+                        <p>Come and speak informally to interested audience through this visual communication art.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-compose" style="color:#9b59b6;"></i>
+                        <i class="ion-ios-glasses" style="color:#9b59b6;"></i>
                         <h2><a href="recognizance.php">Recognizance</a></h2>
                         <p>Let's give our machines a 'vision'.</p>
                     </div>
