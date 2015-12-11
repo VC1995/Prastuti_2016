@@ -25,13 +25,13 @@
                         <span class="caret"></span>
                         </button>
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
-                        <li><a href="codeniche.php">Code Niche</a></li>
-                        <li><a href="envisage.php">Envisage</a></li>
+                        <li><a href="biZcraft.php">biZcraft</a></li>
+                        <li><a href="consilium.php">Consilium</a></li>
                         <li><a href="idp.php">IDP</a></li>
-                        <li><a href="jaribio.php">Jaribio</a></li>
-                        <li><a href="morse.php">Morse Mystery</a></li>
                         <li><a href="ppt.php">Paper Presentation</a></li>
+                        <li><a href="poster.php">Poster Presentation</a></li>
                         <li><a href="recognizance.php">Recognizance</a></li>
+                        <li><a href="simulim.php">Simulim</a></li>
                         <li><a href="sos.php">SOS</a></li>
                         <li><a href="index.php">HOME</a></li>
                         </ul>
