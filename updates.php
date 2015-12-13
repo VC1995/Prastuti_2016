@@ -73,7 +73,7 @@ body
                     <br><div style="text-align:center;font-size:20px;">
                     <a href="index.php" style="color:#00967f;"><span class="ion-ios-home"></span> Home</a>
                     <br>
-                    <a href="registration_form.php" style="color:#00967f;"><span class="ion-android-checkbox-outline"></span> Registration</a>
+                    <a href="registration_form.php#business" style="color:#00967f;"><span class="ion-android-checkbox-outline"></span> Registration</a>
                 </div>
 </div>
 <script src="static/js/jquery-2.1.3.min.js"></script>

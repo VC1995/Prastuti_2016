@@ -20,10 +20,10 @@
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
                         <li><a href="bizcraft.php">BIZCRAFT</a></li>
                         <li><a href="idp.php">IDP</a></li>
-                        <li><a href="simulim.php">Simulim</a></li>
-                        <li><a href="morse.php">Morse Mystery</a></li>
                         <li><a href="ppt.php">Paper Presentation</a></li>
+                        <li><a href="poster.php">Poster Presentation</a></li>
                         <li><a href="recognizance.php">Recognizance</a></li>
+                        <li><a href="simulim.php">Simulim</a></li>
                         <li><a href="sos.php">SOS</a></li>
                         <li><a href="index.php">HOME</a></li>
                         </ul>
@@ -44,7 +44,7 @@
             <section class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
-                        <h1 class="wow animated fadeInDown">ENVISAGE</h1>
+                        <h1 class="wow animated fadeInDown">CONSILIUM</h1>
                         <p class="wow animated fadeInLeft" style="background:rgba(0,0,0,.7);">It invites all the valuable minds to scream out their ideas and learning</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
@@ -80,7 +80,13 @@
             </section>
             
             <section class="row" style="text-align:center;">
-                <p>Envisage is to contemplate or conceive of as a possibility or a desirable future event. It invites all the voluble minds to scream out their ideas and learning. Through Envisage we invite all such creative minds to make best of their intellect and present an optimized solution to a real time challenge.</p>
+                <p>Electrical Engineering is a vast field and requires an ensemble of qualities. Designing a
+circuit is perhaps one of the most important aspects of Electrical Engineering. But designing 
+is not a skill that can be learnt from textbooks. It needs to be learnt by experience and 
+wishful thinking. It requires proper ‘Consilium’ and a clear head for incisive planning. 
+Through our event, we plan to test a person’s ability to think on their feet and meticulously 
+design electric circuits with meagre resources, hence the name ‘CONSILIUM’. Apart from 
+this, the event also aims at testing one’s knowledge of electrical circuits and systems.</p>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -99,22 +105,30 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
-            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);text-align:left;padding:10px;"><h4>Round 1</h4>
-Participants need to submit a file containing the following abstract
-<ul><li>It should be a single word documents (.doc file).</li>
-<li>The document should not be more than ten pages with font size 11-12, otherwise the team will be disqualified.</li>
-<li>The full plan/idea should be presented in the abstract.</li></ul>
-<h4>Round 2</h4><ul>
-<li>Selected teams will be invited to IIT(BHU) for final presentation.</li>
-<li>The final strategy should be presented before a panel of judges in the form of a presentation.</li></ul>
+            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);text-align:left;padding:10px;"><h4>Round 1 (Basic Electrical Quiz)</h4>
+                This consists of a small quiz based on electrical and
+                electronics. This is not a qualifying round, though the points secured will be included 
+                in the final scoring.
+                <h4>Round 2</h4>
+                Teams will be provided with problems, along with the components
+                required. They are required to design an appropriate circuit according to the 
+                problem provided. This round will be of 30 minutes duration. After 30 minutes, 
+                scoring will be done depending on the progress of the teams. These scores will act as 
+                qualifying scores for Round 3.
+                <h4>Round 3</h4>
+                Teams will have to implement the circuit and provide the required output.
+                There might be a TWIST in this round, which (if any) would be introduced during the 
+                event. This round will be of 60 minutes duration. 
+                <p>After 3rd round, scoring shall be done and then the cumulated score of all three 
+                rounds will decide the winning teams.
+                Scoring will be done in the following manner:</p>
+                <ul>
+                    <li>Round 1 – 20 points</li>
+                    <li>Round 2 – 30 points</li>
+                    <li>Round 3 – 50 points</li>
+                </ul>
             </section>
-            <section class="row" style="color:white;text-align:center;text-align:left;padding:10px;background:rgba(0,0,0,.7);">
-            <h2 style="color:white;text-align:center;">Problem Statement</h2>
-                ENVISAGE is designed to disrupt the status-quo and enable the benefits of technology to be equally accessible to every corner of India. It is the platform for tomorrow’s entrepreneurs to think big and deliver even bigger results. We encourage innovative use of technology to bring about a huge IMPACT in our society.<ul>
-<li>Use your engineering talents along with your entrepreneurial skills to create sustainable solutions that will transform the lives.</li>
-<li>You are free to choose whichever problem you want to solve from any field, but it should prove beneficial to the human society directly or indirectly.</li>
-<li>Show understanding of the intricacies of technology which can promise to be a fun, educational experience.</li></ul>
-            </section>
+            
         </section>
     </section>
 
@@ -131,10 +145,10 @@ Participants need to submit a file containing the following abstract
                 </h1></div>
             </section>
             <ol>
-                <li>Participants should be registered graduate/undergraduate students of an accredited institute.</li>
+                <li>Participants should be registered graduate/undergraduate students of an accredited institute. The event is open only for 1st and 2nd year students.</li>
                 <li>Participants from different institutes can be part of a single team.</li>
-                <li>Please register yourself on the Prastuti website before submission.</li>
-                <li>The idea should be original. Plagiarism won't be tolerated and will lead to straight disqualification. (Multiple entries are not allowed.)</li>
+                <li>There can be maximum 3 and a minimum of 2 members in each team. The teams will have to register on the website along with all the team members.</li>
+                <li>No team is permitted the use of mobile phones or any other source of information. The teams shall design the circuit with their own brainwork and thinking. Any team found using any source may lead to disqualification.</li>
             </ol>
             <section class="row">
             </section>
@@ -159,25 +173,22 @@ Participants need to submit a file containing the following abstract
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Anchit Agarwal </h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">+91-7388840074<br/>anchit.agarwal.eee13@iitbhu.ac.in</p>
                     </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Amit Kalyan</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">+91-7860561611<br/>amit.kalyan.eee13@iitbhu.ac.in</p>
                     </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Anshul Mahawar</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">+91-8009752952<br/>anshul.mahawar.eee13@iitbhu.ac.in</p>
                     </div>
                 </section>
             </section>

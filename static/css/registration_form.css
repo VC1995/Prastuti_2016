@@ -42,13 +42,6 @@
 /* ///////////////////////////////////////////////////////////////////// 
 //  02 - Global 
 /////////////////////////////////////////////////////////////////////*/
-::-webkit-scrollbar,-moz-scrollbar,-o-scrollbar,scrollbar { 
-    display: none; 
-}
-*
-{
-    -ms-overflow-style:none;
-}
 * {
     outline: none !important;
 }
@@ -156,7 +149,7 @@ border-radius:5px;
 
 #animated_div a{
     text-decoration: none;
-    color:#337ab7;
+    color:#0B173B;
 }
 
 #event_chooser li a {

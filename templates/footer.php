@@ -7,7 +7,7 @@
                     <div class="col-sm-6">
                         <span>organised by</span>
                         <h1 class="footer-logo">
-                            <a href="https://iitbhu.ac.in/">Department of Electrical Engineering, IIT(BHU)</a>
+                            <a href="http://iitbhu.ac.in/">Department of Electrical Engineering, IIT(BHU)</a>
                         </h1>
                     </div>
                     <div class="col-sm-6">

@@ -30,7 +30,7 @@
         <br>
         <section>                                  
             <ul class="nav nav-pills nav-justified" id="event_chooser">
-                <li class="nav_menu_item active"><a data-toggle="tab" href="#business">biZcraft</a></li>
+                <li class="nav_menu_item"><a data-toggle="tab" href="#business">biZcraft</a></li>
                 <li class="nav_menu_item"><a data-toggle="tab" href="#consilium">Consilium</a></li>
                 <li class="nav_menu_item"><a data-toggle="tab" href="#idp">IDP</a></li>
                 <li class="nav_menu_item"><a data-toggle="tab" href="#paper">Paper Presentation</a></li>
@@ -176,11 +176,8 @@
                 INSTRUCTIONS :-
                 </h4></div>
             <div class="container">
-                <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-                <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-                <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-                <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-                <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                <p><span class="ion-arrow-right-c"></span> Each team should have a team-name. </p>
+                <p><span class="ion-arrow-right-c"></span> Each team can have maximum 3 members. </p>
             </div>
             <br>
             <!-- ***************************** Content *************************** -->
@@ -218,32 +215,20 @@
                         <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member1_number" name="member1_number" placeholder="mobile number"></div>     
                     </fieldset>
                     </div>
-                    <h5>Member 2 :</h5>
+                    <h5>Member 2 (optional) :</h5>
                     <div class="row">
                     <fieldset class="form-group">            
                         <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member2_name" name="member2_name" placeholder="Enter name"></div>    
                     </fieldset>
                     </div>
-                    <h5>Member 3 :</h5>
+                    <h5>Member 3 (optional) :</h5>
                     <div class="row">
                     <fieldset class="form-group">            
                         <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member3_name" name="member3_name" placeholder="Enter name"></div>    
                     </fieldset>
                     </div>
-                    <h5>Member 4 : (optional)</h5>
-                    <div class="row">
-                    <fieldset class="form-group">            
-                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member4_name" name="member4_name" placeholder="Enter name"></div>    
-                    </fieldset>
-                    </div>
-                    <h5>Member 5 : (optional)</h5>
-                    <div class="row">
-                    <fieldset class="form-group">            
-                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member5_name" name="member5_name" placeholder="Enter name"></div>    
-                    </fieldset>
-                    </div>
                     <br>
-                    <button type="submit" class="btn btn-lg btn-success" name="submit" value="submit">Register</button>
+                    <button type="submit" class="btn btn-lg btn-primary" name="submit" value="submit">Register</button>
                 </form>
             </div>
         </div>

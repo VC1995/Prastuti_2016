@@ -19,12 +19,20 @@
                         <span class="caret"></span>
                         </button>
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
+<<<<<<< HEAD
                         <li><a href="bizcraft.php">Bizcraft</a></li>
                         <li><a href="consilium.php">Consilium</a></li>
                         <li><a href="idp.php">IDP</a></li>
                         <li><a href="simulim.php">Simulim</a></li>
                         <li><a href="popt.php">Poster Presentation</a></li>
+=======
+                        <li><a href="bizcraft.php">biZcraft</a></li>
+                        <li><a href="consilium.php">Consilium</a></li>
+                        <li><a href="idp.php">IDP</a></li>
+                        <li><a href="poster.php">Poster Presentation</a></li>
+>>>>>>> 57631a765da98d5a49002a8a970e17dba15d0f9f
                         <li><a href="recognizance.php">Recognizance</a></li>
+                        <li><a href="simulim.php">Simulim</a></li>
                         <li><a href="sos.php">SOS</a></li>
                         <li><a href="index.php">HOME</a></li>
                         </ul>
@@ -46,11 +54,11 @@
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">PAPER PRESENTATION</h1>
-                        <p class="wow animated fadeInLeft" style="background:rgba(0,0,0,.7);">This event will be an excellent platform to showcase your original ideas and comprehensive technical research</p>
+                        <p class="wow animated fadeInLeft">Come, chill out the hearts of the people with your innovative presentation.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div style="background:rgba(0,0,0,.7);">
-                                    <a href="registration_form.php" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
+                                    <a href="registration_form.php#paper" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
                                 </div>
                             </div>
                             <div class="col-xs-6 col-sm-6 col-md-5">
@@ -92,7 +100,7 @@
     <section id="gallery" class="block">
         <section class="container" style="max-width:65%;">
             <section class="row">
-                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
+                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn" style="background:rgba(0,0,0,.7);">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
                 Event Structure
@@ -100,6 +108,7 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
+<<<<<<< HEAD
             <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);padding:10px;text-align:left;">
                 <strong>Abstract Submission</strong> : An abstract must be submitted online, defining the theme of the paper very concisely and should be limited to 150 words providing a clear outline of the paper.
 
@@ -120,6 +129,28 @@ Teams selected on the basis of their paper will have to give their presentation 
 Selected teams are required to send us a mail at prastuti@iitbhu.ac.in within a week of declaration of the result, consisting of the following -
 Acknowledgement that you are aware of being selected.<br>
 <strong>Details of all the team members:</strong> Names, Department, Phone numbers, College etc. in a tabular format.
+=======
+            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);padding:10px;text-align:left;"><p><strong>Abstract Submission :</strong><br> Abstract Submission : An abstract must be submitted online, defining the theme of the paper very concisely and should be limited to 150 words providing a clear outline of the paper.             
+<br>Abstracts are invited on any topic belong to any of the following fields:</p>
+<ul>
+<li>Electrical and electronics engineering.</li>
+<li>Computer Science and applied mathematics.</li>
+<li>Energy conservation and management.</li>
+</ul>
+<p>Please note that your abstract will be reviewed by our review committee. Therefore, you are requested to submit high quality version of your abstract. Any plagiarism will lead to disqualification. </p>
+                <p><br><strong>Paper Submission :</strong>
+                <br> The teams shortlisted on the basis of abstracts shall have to submit their paper. The paper must strictly conform to the standards of IEEE as mentioned in RULES AND GUIDELINES tab.
+                <br><br><strong>Final Round :</strong><br></p>
+                <ul>
+                    <li>Teams selected on the basis of their paper will have to give their presentation in Prastuti’16.</li>
+                    <li>Selected teams are required to send us a mail at prastuti@iitbhu.ac.in within a week of declaration of the result, consisting of the following -
+                        <ul>
+                            <li>Acknowledgement that you are aware of being selected.</li>
+                            <li>Details of all the team members: Names, Department, Phone numbers, College etc. in a tabular format.</li>
+                        </ul>
+                    </li>
+                </ul>
+>>>>>>> 57631a765da98d5a49002a8a970e17dba15d0f9f
             </section>
         </section>
     </section>
@@ -143,8 +174,13 @@ Acknowledgement that you are aware of being selected.<br>
                 <li>The paper should not contain more than 8 typed pages.</li>
                 <li>The submission should only be in pdf format.</li>
                 <li>Teams should mention their full details in the paper. (Name of the Authors, Departments, Phone numbers, College, etc,).</li>
+<<<<<<< HEAD
                 <li>The last date of abstract submission is ........</li>
                 <li>The last date of final submission is .......</li>
+=======
+                <li>The last date of abstract submission is .........</li>
+                <li>The last date of final submission is ........</li>
+>>>>>>> 57631a765da98d5a49002a8a970e17dba15d0f9f
             </ol>
             </section>
             <div class="clearfix"></div>
@@ -156,10 +192,10 @@ Acknowledgement that you are aware of being selected.<br>
     <section style="background: url(static/img/bg.jpg);background-size: cover;background-attachment: fixed;position: relative" id="team" class="block">
         <section class="container">
             <section class="row">
-                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
+                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn" style="background:rgba(0,0,0,.7);">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
-                Coordinators
+                Contact Us
                 <span class="bb-top-right" style="border-color: #fff; "></span>
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
@@ -167,26 +203,32 @@ Acknowledgement that you are aware of being selected.<br>
             <section class="row" style="color:white;text-align:center;">
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Akshay Paliwal</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                        <i class="ion-android-call"></i> : +91 8953838839<br>
+                        <i class="ion-android-mail"></i> : akshay.paliwal.eee13@iitbhu.ac.in
+                        </p>
                     </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Deepak Gautam</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                        <i class="ion-android-call"></i> : +91 idontknow<br>
+                        <i class="ion-android-mail"></i> : deepak.gautam.eee13@iitbhu.ac.in
+                        </p>
                     </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Akhil Adapa</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                        <i class="ion-android-call"></i> : +91 sobatadena<br>
+                        <i class="ion-android-mail"></i> : akhil.adapa.eee13@iitbhu.ac.in
+                        </p>
                     </div>
                 </section>
             </section>

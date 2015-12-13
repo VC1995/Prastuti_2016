@@ -17,6 +17,17 @@ $.validator.setDefaults({
 // Scrolls to the selected menu item on the page
 $(document).ready(function(){
   // code here
+  var url = document.location.toString();
+
+  if (url.match('#')) {
+    $('.nav-pills a[href=#'+url.split('#')[1]+']').tab('show') ;
+  } 
+
+  // Change hash for page-reload
+  $('.nav-pills a').on('shown.bs.tab', function (e) {
+    window.location.hash = e.target.hash;
+  })
+  
   // validate form on keyup and submit
   $("#reg_biZcraft").validate({
     rules: {

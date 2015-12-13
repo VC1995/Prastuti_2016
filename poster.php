@@ -4,7 +4,7 @@
         <section class="container">
             <section class="row" id="logo_menu" role="navigation">                  
                 <div class="col-md-3 col-sm-8 col-xs-2 navbar-brand">
-                    <a class="logo" href=""><i class="ion-ios-home hidden-md hidden-lg"></i><span class="hidden-sm hidden-xs" style="letter-spacing:2px;font-weight:bold;">MORSE MYSTERY</span></a>
+                    <a class="logo" href=""><i class="ion-ios-home hidden-md hidden-lg"></i><span class="hidden-sm hidden-xs" style="letter-spacing:2px;font-weight:bold;font-size:21px;">POSTER PRESENTATION</span></a>
                 </div>
                 <div class="collapse navbar-collapse" style="padding-top:1em;width:auto;" id="nav_menu">
                 <ul id="nav_menu" class="nav navbar-nav navbar-right" style="overflow-y: visible; overflow-x: visible">                 
@@ -19,12 +19,12 @@
                         <span class="caret"></span>
                         </button>
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
-                        <li><a href="bizcraft.php">BIZCRAFT</a></li>
-                        <li><a href="envisage.php">Envisage</a></li>
+                        <li><a href="bizcraft.php">biZcraft</a></li>
+                        <li><a href="consilium.php">Consilium</a></li>
                         <li><a href="idp.php">IDP</a></li>
-                        <li><a href="simulim.php">Simulim</a></li>
-                        <li><a href="ppt.php">Paper Presentation</a></li>
+                        <li><a href="ppt.php">Paper Presenntation</a></li>
                         <li><a href="recognizance.php">Recognizance</a></li>
+                        <li><a href="simulim.php">Simulim</a></li>
                         <li><a href="sos.php">SOS</a></li>
                         <li><a href="index.php">HOME</a></li>
                         </ul>
@@ -45,13 +45,12 @@
             <section class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
-                        <h1 class="wow animated fadeInDown">MORSE MYSTERY</h1>
-                        <p class="wow animated fadeInLeft" style="background:rgba(0,0,0,.8);">Have you ever tried to encrypt or decrypt some code? Try decoding this:<br>
-.--. .-. .- ... - ..- - ..</p>
+                        <h1 class="wow animated fadeInDown">POSTER PRESENTATION</h1>
+                        <p class="wow animated fadeInLeft">Come and speak informally to interested audience through this visual communication art.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div style="background:rgba(0,0,0,.7);">
-                                    <a href="registration_form.php" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
+                                    <a href="registration_form.php#poster" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
                                 </div>
                             </div>
                             <div class="col-xs-6 col-sm-6 col-md-5">
@@ -82,8 +81,11 @@
             </section>
             
             <section class="row" style="text-align:center;">
-                <p>
-                    Morse code is a method of transmitting text information as a series of on-off tones, lights, or clicks that can be directly understood by a skilled listener or observer without special equipment. In 1836, Samuel Morse demonstrated the ability of a telegraph system to transmit information over wires. The information was sent as a series of electrical signals. Short signals are referred to as dits (represented as dots). Long signals are referred to as dahs (represented as dashes). With the advent of radio communications, an international version of Morse code became widely used.</p>
+                <p>Posters are widely used in the academic community, and most conferences include poster presentations 
+                in their program.  Research posters summarize information or research concisely and attractively to help 
+                publicize it and generate discussion.  The poster is usually a mixture of a brief text mixed with tables, 
+                graphs, pictures, and other presentation formats. At a conference, the researcher stands by the poster 
+                display while other participants can come and view the presentation and interact with the author.</p>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -94,7 +96,7 @@
     <section id="gallery" class="block">
         <section class="container" style="max-width:65%;">
             <section class="row">
-                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
+                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn" style="background:rgba(0,0,0,.7);">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
                 Event Structure
@@ -102,17 +104,9 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
-            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);">PRASTUTI’ 15 introduces a new event to appreciate the importance of this code. The challenge would be to develop their own Telegram Machine working on the principle of MORSE CODE and wireless communications. This machine would include two modules, one for sending message in Morse Code and other for receiving the signals and displaying it in the form of Morse Code on LCD Display.
-                <h2 style="color:white;text-align:center;">Problem Statement</h2>
-                <section class="row" style="color:white;text-align:center;text-align:left;padding:10px;"><ul>
-<li>One participant from each team would be provided with a “Secret Message” on Sending End. This member has to send the message to other team members sitting on the Receiving End.</li>
-<li>Communication between two ends should be done using IR LEDs and TSOP Sensors.</li>
-<li>Sending End should have manual system to send Dots, Dashes and Spaces.</li>
-<li>Receiving End should have a audio/display to display deceived signal.</li>
-<li>Remaining team members have to decode the received signals</li>
-<li>Teams decoding the message correctly with minimum time would be declared as winner.</li>
-</ul>
-            </section>
+            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);padding:10px;text-align:left;"><p>Poster Presentation is a new event organized by IIT(BHU) Varanasi. It gives you the chance to present
+                your research work on a poster which will help you to be more effective in conveying your message 
+                across as many people as possible.</p>
             </section>
         </section>
     </section>
@@ -129,14 +123,19 @@
                 <span class="bb-bottom-right"></span>
                 </h1></div>
             </section>
-            <ol>
-                <li>Team strength should not exceed four.</li>
-                <li>Participants have to use INTERNATIONAL MORSE CODE only during the event.</li>
-                <li>Only basic ICs (4xxx and 7xxx) and 8-bit microcontrollers are allowed. Use of any other IC should be intimated to us and verified.</li>
-                <li>Using unfair means would result in disqualification of the team.</li>
-                <li>Judges decision shall be final and binding on all. The organizers reserve the rights to change any or all of the above rules as they deem fit. Change in rules, if any will be highlighted on the website and notified to the registered participants</li>
-            </ol>
             <section class="row">
+                <ol>
+                <li> The poster should be limited to 1m in height and 1m in width.</li>
+                <li> The poster should be printed on a flex of the above dimensions.</li>
+                <li> We welcome any topic related to electrical engineering for the presentation. </li>
+                <li> The presenting team should not consist of more than three participants.</li>
+                <li> The participants should hand over the posters in the very beginning of the day before the start of the event. Any submissions after the start of event won’t be entertained.</li>
+                <li> The poster must contain the title, author names, and the institution where the work was conducted, in large letters centered at the top of the poster.</li>
+                <li> No computers or extra aids may be used during the poster presentation.</li>
+                <li> The time allotted for poster presentation is ~8-10 minutes per visitor/judge.</li>
+                <li> Presenters should stimulate discussion, not give a long monotonous presentation.</li>
+                <li> Participants are advised to use standard formats.</li>
+            </ol>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -147,10 +146,10 @@
     <section style="background: url(static/img/bg.jpg);background-size: cover;background-attachment: fixed;position: relative" id="team" class="block">
         <section class="container">
             <section class="row">
-                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
+                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn" style="background:rgba(0,0,0,.7);">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
-                Coordinators
+                Contact Us
                 <span class="bb-top-right" style="border-color: #fff; "></span>
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
@@ -158,26 +157,32 @@
             <section class="row" style="color:white;text-align:center;">
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Akshay Paliwal</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                        <i class="ion-android-call"></i> : +91 8953838839<br>
+                        <i class="ion-android-mail"></i> : akshay.paliwal.eee13@iitbhu.ac.in
+                        </p>
                     </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Deepak Gautam</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                        <i class="ion-android-call"></i> : +91 idontknow<br>
+                        <i class="ion-android-mail"></i> : deepak.gautam.eee13@iitbhu.ac.in
+                        </p>
                     </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-150px;height:300px;width:300px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Akhil Adapa</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                        <i class="ion-android-call"></i> : +91 sobatadena<br>
+                        <i class="ion-android-mail"></i> : akhil.adapa.eee13@iitbhu.ac.in
+                        </p>
                     </div>
                 </section>
             </section>
