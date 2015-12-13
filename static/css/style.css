@@ -774,3 +774,9 @@ input:-moz-placeholder, textarea:-moz-placeholder {
     border:2px solid #00967f;
     text-decoration: none;
 }
+.legible
+{
+    background: rgba(0,0,0,.5);
+    padding: 10px;
+    -webkit-border-radius:7px;
+}

@@ -39,7 +39,7 @@
                         <p class="wow animated fadeInLeft">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
-                                <div style="background:rgba(0,0,0,.7);">
+                                <div>
                                     <a href="registration_form.php" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
                                 </div>
                             </div>
@@ -82,7 +82,7 @@
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-erlenmeyer-flask" style="color:#9b59b6;"></i>
-                        <h2><a href="envisage.php">Consilium</a></h2>
+                        <h2><a href="consilium.php">Consilium</a></h2>
                         <p>It invites all the valuable minds to scream out their ideas and learning</p>
                     </div>
                 </div>
@@ -96,7 +96,7 @@
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-mic-b" style="color:#9b59b6;"></i>
-                        <h2><a href="simulim.php">Paper Presentation</a></h2>
+                        <h2><a href="ppt.php">Paper Presentation</a></h2>
                         <p>Tagline here<br><br><br></p>
                     </div>
                 </div>
@@ -105,21 +105,21 @@
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-android-more-horizontal" style="color:#9b59b6;"></i>
-                        <h2><a href="morse.php">Poster Presentation</a></h2>
+                        <h2><a href="popt.php">Poster Presentation</a></h2>
                         <p>Tagline here </p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-compose" style="color:#9b59b6;"></i>
-                        <h2><a href="ppt.php">Recognizance</a></h2>
+                        <h2><a href="recognizance.php">Recognizance</a></h2>
                         <p>Let's give our machines a 'vision'.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                         <i class="ion-load-a" style="color:#9b59b6;"></i>
-                        <h2><a href="recognizance.php">Simulim</a></h2>
+                        <h2><a href="simulim.php">Simulim</a></h2>
                         <p>Tagline here</p>
                     </div>
                 </div>
@@ -150,7 +150,7 @@
                 </h1></div>
             </section>
             <section class="row">
-                <div class="col-xs-12">
+                <div class="col-xs-12 legible">
                     <?php
                     include 'includes/general_functions.php';
                         $db= connect_to_database();

@@ -19,11 +19,11 @@
                         <span class="caret"></span>
                         </button>
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
-                        <li><a href="bizcraft.php">BIZCRAFT</a></li>
-                        <li><a href="envisage.php">Envisage</a></li>
+                        <li><a href="bizcraft.php">Bizcraft</a></li>
+                        <li><a href="consilium.php">Consilium</a></li>
                         <li><a href="idp.php">IDP</a></li>
                         <li><a href="simulim.php">Simulim</a></li>
-                        <li><a href="morse.php">Morse Mystery</a></li>
+                        <li><a href="popt.php">Poster Presentation</a></li>
                         <li><a href="recognizance.php">Recognizance</a></li>
                         <li><a href="sos.php">SOS</a></li>
                         <li><a href="index.php">HOME</a></li>
@@ -81,7 +81,7 @@
             </section>
             
             <section class="row" style="text-align:center;">
-                <p>A lot of people may think up good ideas, but what they think usually ends up confined to themselves alone and they never get a real world evaluation of their innovative ideas which could lead them to a path of success and fame. Providing an opportunity for student researchers to disseminate their latest research results in various fields of engineering, we present the PRASTUTI’15 Paper Presentation event. This event will be an excellent platform to showcase your original ideas and comprehensive technical research and exchange views on the future research directions in various fields of science and engineering.</p>
+                <p>Paper Presentation is a National Level Competition Organized by IIT BHU..A lot of people may think up good ideas, but what they think usually ends up confined to themselves alone and they never get a real world evaluation of their innovative ideas which could lead them to a path of success and fame. Providing an opportunity for student researchers to disseminate their latest research results in various fields of engineering, we present the PRASTUTI’16 Paper Presentation event. This event will be an excellent platform to showcase your original ideas and comprehensive technical research and exchange views on the future research directions in various fields of science and engineering.</p>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -100,27 +100,26 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
-            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);padding:10px;text-align:left;"><strong>Abstract Submission :</strong><br> An abstract must be submitted online, defining the theme of the paper very concisely and should be limited to 150 words providing a clear outline of the paper. <br><br><strong>Paper Submission :</strong><br> The teams shortlisted on the basis of abstracts shall have to submit their paper. The paper must strictly conform to the standards of IEEE as mentioned in RULES AND GUIDELINES tab.<br><br> <strong>Final Round :</strong><br><br>
-                <ul>
-                    <li>Teams selected on the basis of their paper will have to give their presentation in Prastuti’15.</li>
-                    <li>Selected teams are required to send us a mail at prastuti@iitbhu.ac.in within a week of declaration of the result, consisting of the following -
-                        <ul>
-                            <li>Acknowledgement that you are aware of being selected.</li>
-                            <li>Details of all the team members: Names, Department, Phone numbers, College etc. in a tabular format.</li>
-                            <li>Confirmation of your arrival at Prastuti’15 for final presentation.</li>
-                        </ul>
-                    </li>
-                    <li>The format for the final presentation is given below:
-                        <ul>
-                            <li>The participants will have to give their final presentation in MS PowerPoint.</li>
-                            <li>Only picture clipping and graphs may be used.</li>
-                            <li>Recorded dialogues or movie clippings are not allowed.</li>
-                            <li>For presentation, computer will be provided by us.</li>
-                            <li>The teams will get 10 minutes to present their idea. This will be followed by a question and answer session by judges and/or students attending the Presentation for duration of 3 minutes. Marks will be deducted as per the time exceeding 10 minutes. All the members of the team should be present during the presentation.</li>
-                        </ul>
-                    </li>
-                    <li>The decision of the judges and the organizers shall be final and abiding.</li>   
-                </ul>
+            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);padding:10px;text-align:left;">
+                <strong>Abstract Submission</strong> : An abstract must be submitted online, defining the theme of the paper very concisely and should be limited to 150 words providing a clear outline of the paper.
+
+Abstracts are invited on any topic belong to any of the following fields:<br>
+
+1.Electrical and electronics engineering.<br>
+
+2.Computer Science and applied mathematics.<br>
+
+3.Energy conservation and management.<br>
+
+Please note that your abstract will be reviewed by our review committee. Therefore, you are requested to submit high quality version of your abstract. Any plagiarism will lead to disqualification.<br>
+
+ <strong>Paper Submission</strong> : The teams shortlisted on the basis of abstracts shall have to submit their paper. The paper must strictly conform to the standards of IEEE as mentioned in RULES AND GUIDELINES tab.<br>
+ <strong>Final Round :</strong>
+
+Teams selected on the basis of their paper will have to give their presentation in Prastuti’16.
+Selected teams are required to send us a mail at prastuti@iitbhu.ac.in within a week of declaration of the result, consisting of the following -
+Acknowledgement that you are aware of being selected.<br>
+<strong>Details of all the team members:</strong> Names, Department, Phone numbers, College etc. in a tabular format.
             </section>
         </section>
     </section>
@@ -144,9 +143,8 @@
                 <li>The paper should not contain more than 8 typed pages.</li>
                 <li>The submission should only be in pdf format.</li>
                 <li>Teams should mention their full details in the paper. (Name of the Authors, Departments, Phone numbers, College, etc,).</li>
-                <li>The last date of abstract submission is 10th December, 2014.</li>
-                <li>The last date of final submission is 5th January ,2015.</li>
-                <li>The format for submission of paper is given in this link http://goo.gl/Bo0wxF</li>
+                <li>The last date of abstract submission is ........</li>
+                <li>The last date of final submission is .......</li>
             </ol>
             </section>
             <div class="clearfix"></div>
