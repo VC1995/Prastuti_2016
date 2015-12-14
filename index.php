@@ -5,7 +5,7 @@
         <section class="container">
             <section class="row" id="logo_menu" role="navigation">                  
                 <div class="col-md-4 col-sm-8 col-xs-2 navbar-brand">
-                    <a class="logo" href=""><i class="ion-ios-home hidden-md hidden-lg"></i><span class="hidden-sm hidden-xs"><strong>P R A S T U T I '16</strong></span></a>
+                    <a class="logo" href=""><i class="ion-ios-home hidden-md hidden-lg"></i><span class="hidden-sm hidden-xs wow animated flip" data-wow-delay='0.5s'><strong>P R A S T U T I '16</strong></span></a>
                 </div>
                 <div class="col-md-8 col-sm-4 col-xs-10">
                     <div class="navbar-header">
@@ -35,12 +35,12 @@
             <section class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
-                        <h1 class="wow animated fadeInDown" >ALL INDIA PAPER PRESENTATION</h1>
-                        <p class="wow animated fadeInLeft">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                        <h1 class="wow animated fadeInDown" data-wow-delay='0.5s'>ALL INDIA PAPER PRESENTATION</h1>
+                        <p class="wow animated fadeInLeft" data-wow-delay='0.5s'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div style="background:rgba(0,0,0,.7);">
-                                    <a href="registration_form.php#business" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
+                                    <a href="registration_form.php#business" class="polo-btn store wow animated bounceInUp" data-wow-delay='0.5s'><i class="ion-android-checkbox-outline"></i> Register</a>
                                 </div>
                             </div>
                             <div class="col-xs-6 col-sm-6 col-md-5">
@@ -73,28 +73,28 @@
             <section >
                 <div class="row">
                 <div class="col-sm-6 col-md-3">
-                    <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
+                    <div class="feature-box wow animated bounceInLeft" data-wow-delay="0.3s">
                         <i class="ion-social-bitcoin" style="color:#210B61;"></i>
                         <h2><a href="bizcraft.php">biZcraft</a></h2>
                         <p>Winners don't make excuses when the other side plays their game. Which side are you on ?</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
-                    <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
+                    <div class="feature-box wow animated bounceInDown" data-wow-delay="0.3s">
                         <i class="ion-ios-bolt" style="color:#210B61;"></i>
                         <h2><a href="consilium.php">Consilium</a></h2>
                         <p>It invites all the valuable minds to scream out their ideas and learning</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
-                    <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
+                    <div class="feature-box wow animated bounceInDown" data-wow-delay="0.3s">
                         <i class="ion-arrow-graph-up-right" style="color:#210B61;"></i>
                         <h2><a href="idp.php">IDP</a></h2>
                         <p>Redefining industry by defining its problems.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
-                    <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
+                    <div class="feature-box wow animated bounceInRight" data-wow-delay="0.3s">
                         <i class="ion-ios-copy" style="color:#210B61;"></i>
                         <h2><a href="ppt.php">Paper Presentation</a></h2>
                         <p>Come, chill out the hearts of the people with your innovative presentation.</p>
@@ -103,28 +103,28 @@
                 </div>
                 <div class="row">
                 <div class="col-sm-6 col-md-3">
-                    <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
+                    <div class="feature-box wow animated bounceInLeft" data-wow-delay="0.3s">
                         <i class="ion-image" style="color:#210B61;"></i>
                         <h2><a href="poster.php">Poster Presentation</a></h2>
                         <p>Come and speak informally to interested audience through this visual communication art.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
-                    <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
+                    <div class="feature-box wow animated bounceInUp" data-wow-delay="0.3s">
                         <i class="ion-ios-glasses" style="color:#210B61;"></i>
                         <h2><a href="recognizance.php">Recognizance</a></h2>
                         <p>Let's give our machines a 'vision'.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
-                    <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
+                    <div class="feature-box wow animated bounceInUp" data-wow-delay="0.3s">
                         <i class="ion-playstation" style="color:#210B61;"></i>
                         <h2><a href="simulim.php">Simulim</a></h2>
                         <p>Tagline here</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
-                    <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
+                    <div class="feature-box wow animated bounceInRight" data-wow-delay="0.3s">
                         <i class="ion-android-bulb" style="color:#210B61;"></i>
                         <h2><a href="sos.php">SOS</a></h2>
                         <p>Tagline here</p>
@@ -164,8 +164,8 @@
                             }else
                             while($row = $result->fetch_object()){
                                 echo 
-                                "<span style='padding:5px;font-size:18px;word-wrap:break-word;'><span style='color:#00967f;font-size:16px;font-weight:bold;'>[".$row->date."]:</span>&nbsp&nbsp".$row->details."</span>
-                                <br/>";
+                                "<span style='padding:5px;font-size:18px;word-wrap:break-word;background:rgba(0,0,0,.7);'><span style='color:#00967f;font-size:16px;font-weight:bold;'>[".$row->date."]:</span>&nbsp&nbsp".$row->details."</span>
+                                <br/><br/>";
                             }
                         }
                     ?>
