@@ -1,6 +1,6 @@
 <?php include "templates/header.php" ?>
     <!-- ****************************** Header ************************** -->
-
+    <div id="preloader"></div>
     <header class="sticky" id="header">
         <section class="container">
             <section class="row" id="logo_menu" role="navigation">                  
@@ -18,7 +18,7 @@
                         <li style="padding-left: 2em"><a class="nav_menu_item" href="#features"><i class="ion-ribbon-a"></i><span class="hidden-sm"> Events</span></a></li>
                         <li style="padding-left: 2em"><a class="nav_menu_item" href="#gallery"><i class="ion-ios-mic"></i><span class="hidden-sm"> Updates</span></a></li>
                         <li style="padding-left: 2em"><a class="nav_menu_item" href="#team"><i class="ion-android-call"></i><span class="hidden-sm"> Contact us</span></a></li>
-                        <li style="padding-left: 2em"><a class="nav_menu_item" href="team.php"><i class="ion-android-people"></i><span class="hidden-sm"> Team</span></a></li>
+                        <!--- <li style="padding-left: 2em"><a class="nav_menu_item" href="team.php"><i class="ion-android-people"></i><span class="hidden-sm"> Team</span></a></li> -->
                         <li style="padding-left: 2em"><a class="nav_menu_item" href="registration_form.php#business"><i class="ion-android-checkbox-outline"></i><span class="hidden-sm"> Register</span></a></li>                   
                     </ul>   
                     </div>          
@@ -31,7 +31,7 @@
 
     <section id="banner" >
         <section class="container">
-            <a class="slidedown wow animated zoomIn" data-wow-delay="2s" href="#features"><i class="ion-ios-download-outline"></i></a>
+            <a class="slidedown wow animated zoomIn" data-wow-delay="1s" href="#features"><i class="ion-ios-download-outline" style='color: black'></i></a>
             <section class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
@@ -74,28 +74,28 @@
                 <div class="row">
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-social-bitcoin" style="color:#9b59b6;"></i>
+                        <i class="ion-social-bitcoin" style="color:#210B61;"></i>
                         <h2><a href="bizcraft.php">biZcraft</a></h2>
                         <p>Winners don't make excuses when the other side plays their game. Which side are you on ?</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-ios-bolt" style="color:#9b59b6;"></i>
+                        <i class="ion-ios-bolt" style="color:#210B61;"></i>
                         <h2><a href="consilium.php">Consilium</a></h2>
                         <p>It invites all the valuable minds to scream out their ideas and learning</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-arrow-graph-up-right" style="color:#9b59b6;"></i>
+                        <i class="ion-arrow-graph-up-right" style="color:#210B61;"></i>
                         <h2><a href="idp.php">IDP</a></h2>
                         <p>Redefining industry by defining its problems.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-ios-copy" style="color:#9b59b6;"></i>
+                        <i class="ion-ios-copy" style="color:#210B61;"></i>
                         <h2><a href="ppt.php">Paper Presentation</a></h2>
                         <p>Come, chill out the hearts of the people with your innovative presentation.</p>
                     </div>
@@ -104,28 +104,28 @@
                 <div class="row">
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-image" style="color:#9b59b6;"></i>
+                        <i class="ion-image" style="color:#210B61;"></i>
                         <h2><a href="poster.php">Poster Presentation</a></h2>
                         <p>Come and speak informally to interested audience through this visual communication art.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-ios-glasses" style="color:#9b59b6;"></i>
+                        <i class="ion-ios-glasses" style="color:#210B61;"></i>
                         <h2><a href="recognizance.php">Recognizance</a></h2>
                         <p>Let's give our machines a 'vision'.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-playstation" style="color:#9b59b6;"></i>
+                        <i class="ion-playstation" style="color:#210B61;"></i>
                         <h2><a href="simulim.php">Simulim</a></h2>
                         <p>Tagline here</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-android-bulb" style="color:#9b59b6;"></i>
+                        <i class="ion-android-bulb" style="color:#210B61;"></i>
                         <h2><a href="sos.php">SOS</a></h2>
                         <p>Tagline here</p>
                     </div>

@@ -22,6 +22,10 @@
     <![endif]-->
 </head>
 <body id="home">
+    <script>
+        var delay = 6000; //Your delay in milliseconds
+        setTimeout(function(){ window.location = 'index.php'; }, delay);
+    </script>
     <div id="content" class="container">
         <!-- ****************************** Content **************************** -->
         <div id="tick" class="text-center row">

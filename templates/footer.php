@@ -23,7 +23,6 @@
     <script src="static/js/jquery-2.1.3.min.js"></script>
     <script src="static/js/bootstrap.min.js"></script>
     <script src="static/js/wow.min.js"></script>
-    <script src="static/js/owl.carousel.js"></script>
     <script src="static/js/bootstrap-hover-dropdown.min.js"></script>
     <script src="static/js/script.js"></script>
     

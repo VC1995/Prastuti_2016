@@ -1,10 +1,11 @@
 <?php include "templates/header.php" ?>
  <!-- ****************************** Header ************************** -->
+    <div id="preloader"></div>
     <header class="sticky" id="header">
         <section class="container">
             <section class="row" id="logo_menu" role="navigation">                  
                 <div class="col-md-3 col-sm-8 col-xs-2 navbar-brand">
-                    <a class="logo" href=""><i class="ion-ios-home hidden-md hidden-lg"></i><span class="hidden-sm hidden-xs" style="letter-spacing:2px;font-weight:bold;font-size:21px;">POSTER PRESENTATION</span></a>
+                    <span style="font-size: 1.2em;letter-spacing:0.5px;font-weight:bold;"><a href="index.php"><i class="ion-ios-home" ></i></a> | </span><a class="logo" href=""><span class="hidden-sm hidden-xs" style="letter-spacing:0.5px;font-weight:bold;font-size:20px;">POSTER PRESENTATION</span></a>
                 </div>
                 <div class="collapse navbar-collapse" style="padding-top:1em;width:auto;" id="nav_menu">
                 <ul id="nav_menu" class="nav navbar-nav navbar-right" style="overflow-y: visible; overflow-x: visible">                 
@@ -26,7 +27,6 @@
                         <li><a href="recognizance.php">Recognizance</a></li>
                         <li><a href="simulim.php">Simulim</a></li>
                         <li><a href="sos.php">SOS</a></li>
-                        <li><a href="index.php">HOME</a></li>
                         </ul>
                         </div>
                     </li>            
@@ -41,7 +41,7 @@
 
     <section id="banner" >
         <section class="container">
-            <a class="slidedown wow animated zoomIn" data-wow-delay="2s" href="#features"><i class="ion-ios-download-outline"></i></a>
+            <a class="slidedown wow animated zoomIn" data-wow-delay="1s" href="#features"><i class="ion-ios-download-outline" style='color: black'></i></a>
             <section class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
@@ -157,7 +157,7 @@
             <section class="row" style="color:white;text-align:center;">
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <img src="static/img/akshay.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Akshay Paliwal</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
                         <i class="ion-android-call"></i> : +91 8953838839<br>
