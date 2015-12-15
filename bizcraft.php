@@ -21,13 +21,8 @@
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
                         <li><a href="consilium.php">Consilium</a></li>
                         <li><a href="idp.php">IDP</a></li>
-<<<<<<< HEAD
-                        <li><a href="simulim.php">Simulim</a></li>
-                        <li><a href="popt.php">Poster Presentation</a></li>
-=======
->>>>>>> 57631a765da98d5a49002a8a970e17dba15d0f9f
+                        <li><a href="poster.php">Poster Presentation</a></li>
                         <li><a href="ppt.php">Paper Presentation</a></li>
-                        <li><a href="poster.php">Paper Presentation</a></li>
                         <li><a href="recognizance.php">Recognizance</a></li>
                         <li><a href="simulim.php">Simulim</a></li>
                         <li><a href="sos.php">SOS</a></li>
@@ -54,8 +49,8 @@
                         <p class="wow animated fadeInLeft" >Winners don't make excuses when the other side plays their game. Which side are you on ?</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
-                                <div style="background:rgba(0,0,0,.7);">
-                                    <a href="registration_form.php#business" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
+                                <div>
+                                    <a href="registration_form.php#business"  style="background:rgba(0,0,0,.7);" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
                                 </div>
                             </div>
                             <div class="col-xs-6 col-sm-6 col-md-5">
@@ -98,7 +93,7 @@
     <section id="gallery" class="block">
         <section class="container" style="max-width:65%;">
             <section class="row">
-                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn" style="background:rgba(0,0,0,.7);">
+                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
                 Event Structure
@@ -106,12 +101,12 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
-            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);">
-                <h4>ROUND 1 (Quiz)</h4>
+            <section class="row legible" style="color:white;text-align:center;">
+                <strong><h4>ROUND 1 (Quiz)</h4></strong>
                 <p>There'll bean informal quiz focusing primarily on Business related questions. The quiz round is only for
                 internal participants. Though this is not a qualifying round, the points secured will be included in the final
                 score which will be the selection criteria for Round3.</p>
-                <h4>ROUND 2 (Case study – Online Event)</h4>
+                <strong><h4>ROUND 2 (Case study – Online Event)</h4></strong>
                 <p>A business case study will be provided to the teams which they will have to analyze and present a
                 solution to it. The Case study will be uploaded on line and the teams will have to deliver the solution
                 (Abstract only clearly briefing your key points) before the given deadline. This is the qualifying round and
@@ -121,7 +116,7 @@
                 <br>Round 1 – 30 points
                 <br>Round 2 – 70 pints
                 </p>
-                <h4>ROUND 3 (Case Representation – Offline Main Event)</h4>
+                <strong><h4>ROUND 3 (Case Representation – Offline Main Event)</h4></strong>
                 <p>The top teams will be asked to prepare a presentation on a new case study which will be mailed to the
                 them. Case representation will be in the campus on the main event day.
                 Scoring and judgement will be computerized to avoid any sort of discrepancy. But, the final judgement of
@@ -158,7 +153,7 @@
     <section style="background: url(static/img/bg.jpg);background-size: cover;background-attachment: fixed;position: relative" id="team" class="block">
         <section class="container">
             <section class="row">
-                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn" style="background:rgba(0,0,0,.7);">
+                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
                 Contact Us
@@ -168,20 +163,20 @@
             </section>
             <section class="row" style="color:white;text-align:center;">
                 <section class="col-md-6 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/zigyasu.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Abhishek Zigyasu</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                    <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
+                        <img src="static/img/zigyasu.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Abhishek Zigyasu</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 8960384177<br>
                         <i class="ion-android-mail"></i> : abhishek.zigyasu.eee13@iitbhu.ac.in
                         </p>
                     </div>
                 </section>
                 <section class="col-md-6 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/sunidhi.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Sunidhi Singh</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                    <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
+                        <img src="static/img/sunidhi.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Sunidhi Singh</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 8960506756<br>
                         <i class="ion-android-mail"></i> : sunidhi.singh.eee13@iitbhu.ac.in
                         </p>

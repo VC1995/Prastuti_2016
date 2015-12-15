@@ -39,13 +39,8 @@
                         <p class="wow animated fadeInLeft">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
-<<<<<<< HEAD
                                 <div>
-                                    <a href="registration_form.php" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
-=======
-                                <div style="background:rgba(0,0,0,.7);">
-                                    <a href="registration_form.php#business" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
->>>>>>> 57631a765da98d5a49002a8a970e17dba15d0f9f
+                                    <a href="registration_form.php" style="background:rgba(0,0,0,.7);" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
                                 </div>
                             </div>
                             <div class="col-xs-6 col-sm-6 col-md-5">
@@ -74,92 +69,69 @@
                 <span class="bb-bottom-right"></span>
                 </h1></div>
             </section>
-            
             <section >
                 <div class="row">
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-social-bitcoin" style="color:#9b59b6;"></i>
+                        <i class="ion-social-bitcoin" style="color:#470be0;"></i>
                         <h2><a href="bizcraft.php">biZcraft</a></h2>
                         <p>Winners don't make excuses when the other side plays their game. Which side are you on ?</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-<<<<<<< HEAD
-                        <i class="ion-erlenmeyer-flask" style="color:#9b59b6;"></i>
-=======
-                        <i class="ion-ios-bolt" style="color:#9b59b6;"></i>
->>>>>>> 57631a765da98d5a49002a8a970e17dba15d0f9f
+                        <i class="ion-ios-bolt" style="color:#470be0;"></i>
                         <h2><a href="consilium.php">Consilium</a></h2>
-                        <p>It invites all the valuable minds to scream out their ideas and learning</p>
+                        <p> Tagline Here</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-arrow-graph-up-right" style="color:#9b59b6;"></i>
+                        <i class="ion-arrow-graph-up-right" style="color:#470be0;"></i>
                         <h2><a href="idp.php">IDP</a></h2>
                         <p>Redefining industry by defining its problems.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-<<<<<<< HEAD
-                        <i class="ion-mic-b" style="color:#9b59b6;"></i>
-                        <h2><a href="ppt.php">Paper Presentation</a></h2>
-                        <p>Tagline here<br><br><br></p>
-=======
-                        <i class="ion-ios-copy" style="color:#9b59b6;"></i>
+                        <i class="ion-ios-copy" style="color:#470be0;"></i>
                         <h2><a href="ppt.php">Paper Presentation</a></h2>
                         <p>Come, chill out the hearts of the people with your innovative presentation.</p>
->>>>>>> 57631a765da98d5a49002a8a970e17dba15d0f9f
                     </div>
                 </div>
-                </div>
+        </div>
+        <div class="clearfix"></div>
                 <div class="row">
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-<<<<<<< HEAD
-                        <i class="ion-android-more-horizontal" style="color:#9b59b6;"></i>
-                        <h2><a href="popt.php">Poster Presentation</a></h2>
-                        <p>Tagline here </p>
-=======
-                        <i class="ion-image" style="color:#9b59b6;"></i>
+                        <i class="ion-image" style="color:#470be0;"></i>
                         <h2><a href="poster.php">Poster Presentation</a></h2>
                         <p>Come and speak informally to interested audience through this visual communication art.</p>
->>>>>>> 57631a765da98d5a49002a8a970e17dba15d0f9f
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-<<<<<<< HEAD
-                        <i class="ion-compose" style="color:#9b59b6;"></i>
-=======
-                        <i class="ion-ios-glasses" style="color:#9b59b6;"></i>
->>>>>>> 57631a765da98d5a49002a8a970e17dba15d0f9f
+                        <i class="ion-ios-glasses" style="color:#470be0;"></i>
                         <h2><a href="recognizance.php">Recognizance</a></h2>
                         <p>Let's give our machines a 'vision'.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-<<<<<<< HEAD
-                        <i class="ion-load-a" style="color:#9b59b6;"></i>
-=======
-                        <i class="ion-playstation" style="color:#9b59b6;"></i>
->>>>>>> 57631a765da98d5a49002a8a970e17dba15d0f9f
+                        <i class="ion-playstation" style="color:#470be0;"></i>
                         <h2><a href="simulim.php">Simulim</a></h2>
                         <p>Tagline here</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                        <i class="ion-android-bulb" style="color:#9b59b6;"></i>
+                        <i class="ion-android-bulb" style="color:#470be0;"></i>
                         <h2><a href="sos.php">SOS</a></h2>
                         <p>Tagline here</p>
                     </div>
                 </div>
                 </div>
+                <div class="clearfix"></div>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -171,7 +143,7 @@
         <section class="container">
             <section class="row">
                 <div class="title-box" style="color:#fff;animation: vibrate 2s 3s infinite;-moz-animation: vibrate 2s 3s infinite;-webkit-animation: vibrate 2s 3s infinite;-o-animation: vibrate 2s 3s infinite;">
-                <h1 class="block-title " style="background:rgba(0,0,0,.7);">
+                <h1 class="block-title ">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
                 Updates
@@ -199,7 +171,7 @@
                         }
                     ?>
                     <br/>
-                    <div style="text-align:center;"><a id="view_all" href="updates.php" style="background:rgba(0,0,0,.7);">View All</a></div>
+                    <div style="text-align:center;"><a id="view_all" style="background:rgba(0,0,0,.7);" href="updates.php">View All</a></div>
                 </div>
             </section>
         </section>

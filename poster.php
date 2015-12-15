@@ -49,8 +49,8 @@
                         <p class="wow animated fadeInLeft">Come and speak informally to interested audience through this visual communication art.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
-                                <div style="background:rgba(0,0,0,.7);">
-                                    <a href="registration_form.php#poster" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
+                                <div>
+                                    <a href="registration_form.php#poster" style="background:rgba(0,0,0,.7);" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
                                 </div>
                             </div>
                             <div class="col-xs-6 col-sm-6 col-md-5">
@@ -96,7 +96,7 @@
     <section id="gallery" class="block">
         <section class="container" style="max-width:65%;">
             <section class="row">
-                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn" style="background:rgba(0,0,0,.7);">
+                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
                 Event Structure
@@ -104,7 +104,7 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
-            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);padding:10px;text-align:left;"><p>Poster Presentation is a new event organized by IIT(BHU) Varanasi. It gives you the chance to present
+            <section class="row legible" style="color:white;text-align:center;padding:10px;text-align:left;"><p>Poster Presentation is a new event organized by IIT(BHU) Varanasi. It gives you the chance to present
                 your research work on a poster which will help you to be more effective in conveying your message 
                 across as many people as possible.</p>
             </section>
@@ -146,7 +146,7 @@
     <section style="background: url(static/img/bg.jpg);background-size: cover;background-attachment: fixed;position: relative" id="team" class="block">
         <section class="container">
             <section class="row">
-                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn" style="background:rgba(0,0,0,.7);">
+                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
                 Contact Us
@@ -156,30 +156,30 @@
             </section>
             <section class="row" style="color:white;text-align:center;">
                 <section class="col-md-4 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Akshay Paliwal</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                    <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Akshay Paliwal</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 8953838839<br>
                         <i class="ion-android-mail"></i> : akshay.paliwal.eee13@iitbhu.ac.in
                         </p>
                     </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Deepak Gautam</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                    <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Deepak Gautam</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 idontknow<br>
                         <i class="ion-android-mail"></i> : deepak.gautam.eee13@iitbhu.ac.in
                         </p>
                     </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Akhil Adapa</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                    <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Akhil Adapa</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 sobatadena<br>
                         <i class="ion-android-mail"></i> : akhil.adapa.eee13@iitbhu.ac.in
                         </p>
