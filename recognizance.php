@@ -20,12 +20,12 @@
                         <span class="caret"></span>
                         </button>
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
-                        <li><a href="bizcraft.php">biZcraft</a></li>
-                        <li><a href="envisage.php">Consilium</a></li>
+                        <li><a href="bizcraft.php">Bizcraft</a></li>
+                        <li><a href="consilium.php">Consilium</a></li>
                         <li><a href="idp.php">IDP</a></li>
+                        <li><a href="simulim.php">Simulim</a></li>
                         <li><a href="ppt.php">Paper Presentation</a></li>
                         <li><a href="poster.php">Poster Presentation</a></li>
-                        <li><a href="simulim.php">Simulim</a></li>
                         <li><a href="sos.php">SOS</a></li>
                         </ul>
                         </div>
@@ -49,8 +49,8 @@
                         <p class="wow animated fadeInLeft">Let's give our machines a 'vision'.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
-                                <div style="background:rgba(0,0,0,.7);">
-                                    <a href="registration_form.php#recog" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
+                                <div>
+                                    <a href="registration_form.php#recog" class="polo-btn store wow animated bounceInUp"  style="background:rgba(0,0,0,.7);"><i class="ion-android-checkbox-outline"></i> Register</a>
                                 </div>
                             </div>
                             <div class="col-xs-6 col-sm-6 col-md-5">
@@ -92,7 +92,7 @@
     <section id="gallery" class="block">
         <section class="container" style="max-width:65%;">
             <section class="row">
-                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn" style="background:rgba(0,0,0,.7);">
+                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
                 Event Structure
@@ -100,7 +100,7 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
-            <section class="row" style="color:white;text-align:left;background:rgba(0,0,0,.7);padding:10px;">The event consists of two levels as described below :<br>
+            <section class="row legible" style="color:white;text-align:left;padding:10px;">The event consists of two levels as described below :<br>
 
                 <ol>
                     <li> The first level is relatively simple and evaluates the performance of the software built by the respective teams on the MNIST digit recognition dataset. The evaluation metric is relatively simple and is evaluated based on the classification accuracy. </li>
@@ -134,7 +134,7 @@
     <section style="background: url(static/img/bg.jpg);background-size: cover;background-attachment: fixed;position: relative" id="team" class="block">
         <section class="container">
             <section class="row">
-                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn" style="background:rgba(0,0,0,.7);">
+                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
                 Contact Us
@@ -144,30 +144,30 @@
             </section>
             <section class="row" style="color:white;text-align:center;">
                 <section class="col-md-4 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/PrakarshSaxena.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Prakarsh Saxena</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                    <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
+                        <img src="static/img/PrakarshSaxena.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Prakarsh Saxena</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                             <i class="ion-android-call"></i> : +91 9582281456<br>
                                 <i class="ion-android-mail"></i> : prakarsh.saxena.eee13@iitbhu.ac.in
                         </p>
                     </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/GSwaminathan.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">G.Swaminathan</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                    <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
+                        <img src="static/img/GSwaminathan.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">G.Swaminathan</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                             <i class="ion-android-call"></i> : +91 8572938422<br>
                             <i class="ion-android-mail"></i> : g.swaminathan.eee13@iitbhu.ac.in
                         </p>
                     </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/nitesh.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Nitesh Kumar</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                    <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
+                        <img src="static/img/nitesh.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Nitesh Kumar</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                             <i class="ion-android-call"></i> : +91-9680891895<br>
                             <i class="ion-android-mail"></i> : nitesh.kumar.eee13@iitbhu.ac.in
                         </p>

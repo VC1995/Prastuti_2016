@@ -20,7 +20,7 @@
                         <span class="caret"></span>
                         </button>
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
-                        <li><a href="bizcraft.php">biZcraft</a></li>
+                        <li><a href="bizcraft.php">Bizcraft</a></li>
                         <li><a href="consilium.php">Consilium</a></li>
                         <li><a href="idp.php">IDP</a></li>
                         <li><a href="ppt.php">Paper Presentation</a></li>
@@ -49,8 +49,8 @@
                         <p class="wow animated fadeInLeft">Technology has advanced at startling rates, in the era of technological development speed is the need of the hour</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
-                                <div style="background:rgba(0,0,0,.7);">
-                                    <a href="registration_form.php#sos" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
+                                <div>
+                                    <a href="registration_form.php#sos" style="background:rgba(0,0,0,.7);" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
                                 </div>
                             </div>
                             <div class="col-xs-6 col-sm-6 col-md-5">
@@ -99,7 +99,7 @@
     <section id="gallery" class="block">
         <section class="container" style="max-width:65%;">
             <section class="row">
-                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn" style="background:rgba(0,0,0,.7);">
+                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
                 Event Structure
@@ -107,7 +107,7 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
-            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);"><p>
+            <section class="row legible" style="color:white;text-align:center;"><p>
                 Participants will be given three problems at the time of event and they have to give a brief
                 ideas of their solution within limited time (15 minutes per question). Top ideas will be 
                 selected for second round where they have to present their exact solution in front of judge 
@@ -143,7 +143,7 @@
     <section style="background: url(static/img/bg.jpg);background-size: cover;background-attachment: fixed;position: relative" id="team" class="block">
         <section class="container">
             <section class="row">
-                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn" style="background:rgba(0,0,0,.7);">
+                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
                 Contact Us
@@ -153,20 +153,20 @@
             </section>
             <section class="row" style="color:white;text-align:center;">
                 <section class="col-md-6 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Aritro Maji</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                    <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Aritro Maji</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 9628211130<br>
                         <i class="ion-android-mail"></i> : aritro.maji.eee13@itbhu.ac.in
                         </p>
                     </div>
                 </section>
                 <section class="col-md-6 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Ravi Kumar</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+                    <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Ravi Kumar</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 7408843343<br>
                         <i class="ion-android-mail"></i> : ravi.kumar.eee13@itbhu.ac.in
                         </p>

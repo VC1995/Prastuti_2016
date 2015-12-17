@@ -39,8 +39,8 @@
                         <p class="wow animated fadeInLeft" data-wow-delay='1s'>Tagline or short intro here !</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
-                                <div style="background:rgba(0,0,0,.7);">
-                                    <a href="registration_form.php#business" class="polo-btn store wow animated bounceInUp" data-wow-delay='0.8s'><i class="ion-android-checkbox-outline"></i> Register</a>
+                                <div>
+                                    <a href="registration_form.php#business" style="background:rgba(0,0,0,.7);" class="polo-btn store wow animated bounceInUp" data-wow-delay='0.5s'><i class="ion-android-checkbox-outline"></i> Register</a>
                                 </div>
                             </div>
                             <div class="col-xs-6 col-sm-6 col-md-5">
@@ -69,7 +69,6 @@
                 <span class="bb-bottom-right"></span>
                 </h1></div>
             </section>
-            
             <section >
                 <div class="row">
                 <div class="col-sm-6 col-md-3">
@@ -83,10 +82,11 @@
                     <div class="feature-box wow animated bounceInDown" data-wow-delay="0.3s">
                         <i class="ion-ios-bolt" style="color:#210B61;"></i>
                         <h2><a href="consilium.php">Consilium</a></h2>
-                        <p>It invites all the valuable minds to scream out their ideas and learning</p>
+                        <p> Tagline Here</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
+                    
                     <div class="feature-box wow animated bounceInDown" data-wow-delay="0.3s">
                         <i class="ion-arrow-graph-up-right" style="color:#210B61;"></i>
                         <h2><a href="idp.php">IDP</a></h2>
@@ -94,15 +94,18 @@
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
+                    
                     <div class="feature-box wow animated bounceInRight" data-wow-delay="0.3s">
                         <i class="ion-ios-copy" style="color:#210B61;"></i>
                         <h2><a href="ppt.php">Paper Presentation</a></h2>
                         <p>Come, chill out the hearts of the people with your innovative presentation.</p>
                     </div>
                 </div>
-                </div>
+        </div>
+        <div class="clearfix"></div>
                 <div class="row">
                 <div class="col-sm-6 col-md-3">
+                    
                     <div class="feature-box wow animated bounceInLeft" data-wow-delay="0.3s">
                         <i class="ion-image" style="color:#210B61;"></i>
                         <h2><a href="poster.php">Poster Presentation</a></h2>
@@ -110,6 +113,7 @@
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
+                    
                     <div class="feature-box wow animated bounceInUp" data-wow-delay="0.3s">
                         <i class="ion-ios-glasses" style="color:#210B61;"></i>
                         <h2><a href="recognizance.php">Recognizance</a></h2>
@@ -117,6 +121,7 @@
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
+                    
                     <div class="feature-box wow animated bounceInUp" data-wow-delay="0.3s">
                         <i class="ion-playstation" style="color:#210B61;"></i>
                         <h2><a href="simulim.php">Simulim</a></h2>
@@ -124,6 +129,7 @@
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
+                    
                     <div class="feature-box wow animated bounceInRight" data-wow-delay="0.3s">
                         <i class="ion-android-bulb" style="color:#210B61;"></i>
                         <h2><a href="sos.php">SOS</a></h2>
@@ -131,6 +137,7 @@
                     </div>
                 </div>
                 </div>
+                <div class="clearfix"></div>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -142,7 +149,7 @@
         <section class="container">
             <section class="row">
                 <div class="title-box" style="color:#fff;animation: vibrate 2s 3s infinite;-moz-animation: vibrate 2s 3s infinite;-webkit-animation: vibrate 2s 3s infinite;-o-animation: vibrate 2s 3s infinite;">
-                <h1 class="block-title " style="background:rgba(0,0,0,.7);">
+                <h1 class="block-title ">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
                 Updates
@@ -151,7 +158,7 @@
                 </h1></div>
             </section>
             <section class="row">
-                <div class="col-xs-12">
+                <div class="col-xs-12 legible">
                     <?php
                     include 'includes/general_functions.php';
                         $db= connect_to_database();
@@ -170,7 +177,7 @@
                         }
                     ?>
                     <br/>
-                    <div style="text-align:center;"><a id="view_all" href="updates.php" style="background:rgba(0,0,0,.7);">View All</a></div>
+                    <div style="text-align:center;"><a id="view_all" style="background:rgba(0,0,0,.7);" href="updates.php">View All</a></div>
                 </div>
             </section>
         </section>

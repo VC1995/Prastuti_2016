@@ -4,7 +4,7 @@
         <section class="container">
             <section class="row" id="logo_menu" role="navigation">                  
                 <div class="col-md-3 col-sm-8 col-xs-2 navbar-brand">
-                    <a class="logo" href=""><i class="ion-ios-home hidden-md hidden-lg"></i><span class="hidden-sm hidden-xs" style="letter-spacing:2px;font-weight:bold;">MORSE MYSTERY</span></a>
+                    <a class="logo" href=""><i class="ion-ios-home hidden-md hidden-lg"></i><span class="hidden-sm hidden-xs" style="letter-spacing:1px;font-weight:bold;font-size:20px;">POSTER PRESENTATION</a>
                 </div>
                 <div class="collapse navbar-collapse" style="padding-top:1em;width:auto;" id="nav_menu">
                 <ul id="nav_menu" class="nav navbar-nav navbar-right" style="overflow-y: visible; overflow-x: visible">                 
@@ -19,8 +19,8 @@
                         <span class="caret"></span>
                         </button>
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
-                        <li><a href="bizcraft.php">BIZCRAFT</a></li>
-                        <li><a href="envisage.php">Envisage</a></li>
+                        <li><a href="bizcraft.php">Bizcraft</a></li>
+                        <li><a href="consilium.php">Consilium</a></li>
                         <li><a href="idp.php">IDP</a></li>
                         <li><a href="simulim.php">Simulim</a></li>
                         <li><a href="ppt.php">Paper Presentation</a></li>
@@ -45,9 +45,10 @@
             <section class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
-                        <h1 class="wow animated fadeInDown">MORSE MYSTERY</h1>
-                        <p class="wow animated fadeInLeft" style="background:rgba(0,0,0,.8);">Have you ever tried to encrypt or decrypt some code? Try decoding this:<br>
-.--. .-. .- ... - ..- - ..</p>
+                        <h1 class="wow animated fadeInDown">POSTER PRESENTATION</h1>
+                        <p class="wow animated fadeInLeft" style="background:rgba(0,0,0,.8);">
+                            The chance to present your research work in a creative manner
+                        </p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div style="background:rgba(0,0,0,.7);">
@@ -83,7 +84,8 @@
             
             <section class="row" style="text-align:center;">
                 <p>
-                    Morse code is a method of transmitting text information as a series of on-off tones, lights, or clicks that can be directly understood by a skilled listener or observer without special equipment. In 1836, Samuel Morse demonstrated the ability of a telegraph system to transmit information over wires. The information was sent as a series of electrical signals. Short signals are referred to as dits (represented as dots). Long signals are referred to as dahs (represented as dashes). With the advent of radio communications, an international version of Morse code became widely used.</p>
+                    Posters are widely used in the academic community, and most conferences include poster presentations in their program.  Research posters summarize information or research concisely and attractively to help publicize it and generate discussion.  The poster is usually a mixture of a brief text mixed with tables, graphs, pictures, and other presentation formats. At a conference, the researcher stands by the poster display while other participants can come and view the presentation and interact with the author.
+                </p>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -102,16 +104,8 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
-            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);">PRASTUTI’ 15 introduces a new event to appreciate the importance of this code. The challenge would be to develop their own Telegram Machine working on the principle of MORSE CODE and wireless communications. This machine would include two modules, one for sending message in Morse Code and other for receiving the signals and displaying it in the form of Morse Code on LCD Display.
-                <h2 style="color:white;text-align:center;">Problem Statement</h2>
-                <section class="row" style="color:white;text-align:center;text-align:left;padding:10px;"><ul>
-<li>One participant from each team would be provided with a “Secret Message” on Sending End. This member has to send the message to other team members sitting on the Receiving End.</li>
-<li>Communication between two ends should be done using IR LEDs and TSOP Sensors.</li>
-<li>Sending End should have manual system to send Dots, Dashes and Spaces.</li>
-<li>Receiving End should have a audio/display to display deceived signal.</li>
-<li>Remaining team members have to decode the received signals</li>
-<li>Teams decoding the message correctly with minimum time would be declared as winner.</li>
-</ul>
+            <section class="row" style="color:white;text-align:center;background:rgba(0,0,0,.7);">
+                Poster Presentation is a new event organized by IIT(BHU) Varanasi. It gives you the chance to present your research work on a poster which will help you to be more effective in conveying your message across as many people as possible.
             </section>
             </section>
         </section>
@@ -129,13 +123,18 @@
                 <span class="bb-bottom-right"></span>
                 </h1></div>
             </section>
-            <ol>
-                <li>Team strength should not exceed four.</li>
-                <li>Participants have to use INTERNATIONAL MORSE CODE only during the event.</li>
-                <li>Only basic ICs (4xxx and 7xxx) and 8-bit microcontrollers are allowed. Use of any other IC should be intimated to us and verified.</li>
-                <li>Using unfair means would result in disqualification of the team.</li>
-                <li>Judges decision shall be final and binding on all. The organizers reserve the rights to change any or all of the above rules as they deem fit. Change in rules, if any will be highlighted on the website and notified to the registered participants</li>
-            </ol>
+            1. The poster should be limited to 1m in height and 1m in width.<br>
+2. The poster should be printed on a flex of the above dimensions.<br>
+3. We welcome any topic related to electrical engineering for the presentation.<br>
+4. The presenting team should not consist of more than three participants.<br>
+5.  The participants should hand over the posters in the very beginning of the day before the
+start of the event. Any submissions after the start of event won’t be entertained.<br>
+6.  The poster must contain the title, author names, and the institution where the work was
+conducted, in large letters centered at the top of the poster.<br>
+7.  No computers or extra aids may be used during the poster presentation.<br>
+8.  The time allotted for poster presentation is ~8-10 minutes per visitor/judge.<br>
+9.  Presenters should stimulate discussion, not give a long monotonous presentation.<br>
+10. Participants are advised to use standard formats.<br>
             <section class="row">
             </section>
             <div class="clearfix"></div>
