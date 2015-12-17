@@ -15,11 +15,11 @@
                     </div>         <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" style="padding-top: 1em" id="nav_menu">
                     <ul class="nav navbar-nav navbar-right" style="overflow-y: hidden; overflow-x: hidden">                 
-                        <li style="padding-left: 2em"><a class="nav_menu_item" href="#features"><i class="ion-ribbon-a"></i><span class="hidden-sm"> Events</span></a></li>
-                        <li style="padding-left: 2em"><a class="nav_menu_item" href="#gallery"><i class="ion-ios-mic"></i><span class="hidden-sm"> Updates</span></a></li>
-                        <li style="padding-left: 2em"><a class="nav_menu_item" href="#team"><i class="ion-android-call"></i><span class="hidden-sm"> Contact us</span></a></li>
+                        <li style="padding-left: 2em"  class="wow animated bounceInDown" data-wow-delay="0.7s"><a class="nav_menu_item" href="#features"><i class="ion-ribbon-a"></i><span class="hidden-sm"> Events</span></a></li>
+                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="0.9s"><a class="nav_menu_item" href="#gallery"><i class="ion-ios-mic"></i><span class="hidden-sm"> Updates</span></a></li>
+                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="1.1s"><a class="nav_menu_item" href="#team"><i class="ion-android-call"></i><span class="hidden-sm"> Contact us</span></a></li>
                         <!--- <li style="padding-left: 2em"><a class="nav_menu_item" href="team.php"><i class="ion-android-people"></i><span class="hidden-sm"> Team</span></a></li> -->
-                        <li style="padding-left: 2em"><a class="nav_menu_item" href="registration_form.php#business"><i class="ion-android-checkbox-outline"></i><span class="hidden-sm"> Register</span></a></li>                   
+                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="1.3s"><a class="nav_menu_item" href="registration_form.php#business"><i class="ion-android-checkbox-outline"></i><span class="hidden-sm"> Register</span></a></li>                   
                     </ul>   
                     </div>          
                 </div>  
@@ -35,12 +35,12 @@
             <section class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
-                        <h1 class="wow animated fadeInDown" data-wow-delay='0.5s'>ALL INDIA PAPER PRESENTATION</h1>
-                        <p class="wow animated fadeInLeft" data-wow-delay='0.5s'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                        <h1 class="wow animated fadeInDown" data-wow-delay='1s'>ALL INDIA PAPER PRESENTATION</h1>
+                        <p class="wow animated fadeInLeft" data-wow-delay='1s'>Tagline or short intro here !</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div style="background:rgba(0,0,0,.7);">
-                                    <a href="registration_form.php#business" class="polo-btn store wow animated bounceInUp" data-wow-delay='0.5s'><i class="ion-android-checkbox-outline"></i> Register</a>
+                                    <a href="registration_form.php#business" class="polo-btn store wow animated bounceInUp" data-wow-delay='0.8s'><i class="ion-android-checkbox-outline"></i> Register</a>
                                 </div>
                             </div>
                             <div class="col-xs-6 col-sm-6 col-md-5">
@@ -120,7 +120,7 @@
                     <div class="feature-box wow animated bounceInUp" data-wow-delay="0.3s">
                         <i class="ion-playstation" style="color:#210B61;"></i>
                         <h2><a href="simulim.php">Simulim</a></h2>
-                        <p>Tagline here</p>
+                        <p>Power to fabricate the reality</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">

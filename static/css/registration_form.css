@@ -73,26 +73,26 @@ a{
 .block-title {
     font-weight: 300;
     font-family: 'Roboto Condensed', sans-serif;
-    font-size: 1.8em;
+    font-size: 1.5em;
     padding: 0 40px;
     margin: 0;
-    line-height: 1.6;
+    line-height: 1.4;
     display: inline-block;
     position: relative;
     text-transform: uppercase;
 }
 .block {
-    padding: 80px 0px 50px 0px;
+    padding: 62px 0px 25px 0px;
     overflow: hidden;
 }
 .title-box{
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 .bb-top-left {
     position: absolute;
-    width: 15px;
-    height: 15px;
+    width: 10px;
+    height: 10px;
     top: 0;
     left: 0;
     border-top: 1px solid #000;
@@ -100,8 +100,8 @@ a{
 }
 .bb-bottom-left {
     position: absolute;
-    width: 15px;
-    height: 15px;
+    width: 10px;
+    height: 10px;
     bottom: 0;
     left: 0;
     border-bottom: 1px solid #000;
@@ -109,8 +109,8 @@ a{
 }
 .bb-top-right {
     position: absolute;
-    width: 15px;
-    height: 15px;
+    width: 10px;
+    height: 10px;
     top: 0;
     right: 0;
     border-top: 1px solid #000;
@@ -118,8 +118,8 @@ a{
 }
 .bb-bottom-right {
     position: absolute;
-    width: 15px;
-    height: 15px;
+    width: 10px;
+    height: 10px;
     bottom: 0;
     right: 0;
     border-bottom: 1px solid #000;
@@ -135,8 +135,8 @@ height:46px;
 position: relative;
 left:50%;
 margin-left:-79px;
-color: g#337ab7;
-font-size: 1.6em;
+color: #337ab7;
+font-size: 1.4em;
 font-weight:bold;
 padding:10px;
 /*animation:animated_div 5s 1.2s 1;
@@ -154,7 +154,7 @@ border-radius:5px;
 
 #event_chooser li a {
     color: #00ceb8;
-    font-size: 1.4em;
+    font-size: 1.2em;
 }
 #event_chooser li.active a,
 #event_chooser li a:active,
