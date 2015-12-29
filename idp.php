@@ -121,7 +121,7 @@
                 <li>The participants are required to prepare a presentation depicting the solution proposed by them for the problem statement provided.</li>
                 <li>The presentation has to be presented on the event date to a panel of judges.</li>
                 <li>The participants must be prepared for cross-questioning from judges as well as the audience.</li>
-                <li>The participants must be a registered graduate/undergraduate student of an accelerated institute.)</li>
+                <li>The participants must be a registered graduate/undergraduate student of an accelerated institute.</li>
                 <li>The participants have to register themselves on the Prastuti website.</li>
                 <li>Multiple registrations will not be entertained.</li>
                 <li>To get previous year problem statement click on the link.http://goo.gl/jCyNcx</li>
@@ -159,7 +159,7 @@
                 </section>
                 <section class="col-md-6 col-sm-12">
                     <div class="team-member text-center wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <img src="static/img/arpit.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Arpit Nagar</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 7376147662<br>

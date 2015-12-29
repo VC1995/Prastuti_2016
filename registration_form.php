@@ -433,11 +433,8 @@
                 INSTRUCTIONS :-
                 </h4></div>
             <div class="container">
-                <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-                <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-                <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-                <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-                <p><span class="ion-arrow-right-c"></span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                <p><span class="ion-arrow-right-c"></span> Each team should have a team name.</p>
+                <p><span class="ion-arrow-right-c"></span> Each team can have maximum 2 members. </p>
             </div>
             <br>
             <!-- ***************************** Content *************************** -->
@@ -475,28 +472,10 @@
                         <div class="col-lg-3 col-md-3 col-sm-3"><input type="text" class="form-control" id="member1_number" name="member1_number" placeholder="mobile number"></div>     
                     </fieldset>
                     </div>
-                    <h5>Member 2 :</h5>
+                    <h5>Member 2 (optional) :</h5>
                     <div class="row">
                     <fieldset class="form-group">            
                         <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member2_name" name="member2_name" placeholder="Enter name"></div>     
-                    </fieldset>
-                    </div>
-                    <h5>Member 3 :</h5>
-                    <div class="row">
-                    <fieldset class="form-group">            
-                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member3_name" name="member3_name" placeholder="Enter name"></div>    
-                    </fieldset>
-                    </div>
-                    <h5>Member 4 : (optional)</h5>
-                    <div class="row">
-                    <fieldset class="form-group">            
-                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member4_name" name="member4_name" placeholder="Enter name"></div>     
-                    </fieldset>
-                    </div>
-                    <h5>Member 5 : (optional)</h5>
-                    <div class="row">
-                    <fieldset class="form-group">            
-                        <div class="col-lg-4 col-md-4 col-sm-4"><input type="text" class="form-control" id="member5_name" name="member5_name" placeholder="Enter name"></div>    
                     </fieldset>
                     </div>
                     <br>

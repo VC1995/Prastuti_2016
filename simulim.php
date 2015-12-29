@@ -12,7 +12,7 @@
                     <li style="padding-left: 1em"><a class="nav_menu_item" href="#features"><i class="ion-play"></i><span class="hidden-sm"> Introduction</span></a></li>
                     <li style="padding-left: 1em"><a class="nav_menu_item" href="#gallery"><i class="ion-gear-a"></i><span class="hidden-sm"> Event Structure</span></a></li>
                     <li style="padding-left: 1em"><a class="nav_menu_item" href="#rules"><i class="ion-android-checkbox-outline"></i><span class="hidden-sm"> Rules & Guidlines</span></a></li>
-                    <li style="padding-left: 1em"><a class="nav_menu_item" href="#team"><i class="ion-android-call"></i><span class="hidden-sm"> Contact Us</span></a></li>
+                    <li style="padding-left: 1em"><a class="nav_menu_item" href="#team"><i class="ion-android-call"></i><span class="hidden-sm"> Coordinators</span></a></li>
                     <li style="padding-left: 1em;position:relative;">
                         <div class="dropdown">
                         <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" data-hover="dropdown" aria-haspopup="true" aria-expanded="true" style="background:rgba(0,0,0,.7);border:2px solid white;color:white;font-size:16px;">
@@ -47,7 +47,7 @@
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">SIMULIM</h1>
                         <p class="wow animated fadeInLeft">
-                            Get ready for Electrical Simulations!!!
+                            Power to fabricate the reality
                         </p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
@@ -83,7 +83,14 @@
             </section>
             
             <section class="row" style="text-align:center;">
-            <p>Simulim is an event in which various concepts of Simulink Library of MATLAB will be introduced and simulations of circuits and systems related to Electrical Engineering will be done using the same. </p>
+            <p>No scientific project goes to field without passing the Simulation Tests – whether it’s launch of a 
+            missile or the setup of oil refineries. For industries, the setup and tooling is expensive, and 
+            probing the behaviour of system output is extremely difficult. Simulation proves to be a 
+            powerful tool for analysing, designing, and operating complex systems. It helps in predicting the 
+            course of systems with various possibilities of modification and efficiency improvement.<br/>
+            Simulim, as an event, introduces participants to various concepts of Simulink Library of MATLAB 
+            and provides a platform to the budding technologists to prove their mettle in simulation and 
+            design of innovative solution to real-life industrial problems.</p>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -102,10 +109,19 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
-            <section class="row legible" style="color:white;text-align:center;"><p>
-            <strong>1. Assignments: </strong><br> There will be three workshops conducted for the event. At the end of each workshop, questions will be posted either on website or on Facebook page, answers to which are to be submitted in a fixed duration.<br>
-            <strong>2. Finale: </strong><br> On the day of event, participants have to simulate some problem using MATLAB and a quiz will be conducted related to general understanding of simulation and MATLAB.<br>
-            <strong>3. Winners will be decided on the basis of successive evaluation of assignments and finale.</strong></p>
+            <section class="row" style="color:white;text-align:center;">
+            <h4>1. Assignments: </h4><p> Three workshops will be conducted for the event. At the end of each
+            workshop, questions (along with workshop material) will be posted on the website and 
+            Facebook page, answers to which are to be submitted before the given deadline.</p>
+            <h4>2. Simulation project: </h4><p>A problem statement will be released after completion of
+            workshops. Participants will have to submit their simulations(using MATLAB) pertaining to the 
+            problem statement before the given deadline.</p>
+            <h4>3. On-spot event</h4><p>On the day of event, a quiz will be conducted to test participants’
+            general understanding of simulation. It will be followed by discussion and questioning session 
+            regarding the participants’ submissions of simulation project.
+            </p>
+            <p><strong>Winners will be decided on the basis of successive evaluation of assignments, simulation project 
+            and on-spot event.</strong></p>
             </section>
         </section>
     </section>
@@ -123,7 +139,15 @@
                 </h1></div>
             </section>
             <section class="row"><p>
-                Maximum of <strong>TWO</strong> members are allowed per team.</p>
+            <ol>
+                <li> Participants should be registered graduate/undergraduate students of an accredited institute. Participants from different institutes can be a part of a single team.</li>
+                <li> Maximum number of members allowed in a team is two. The teams will have to register on the website and should have a team name.</li>
+                <li> Participants are required to carry their own laptop and peripherals as required. (Power supply and charging points will be provided by the event co-ordinators).</li>
+                <li> Organizers are not responsible for the failure of devices during display and no benefits/relaxations will be provided in such circumstances.</li>
+                <li> The best answer to the problem is considered on the basis of speed and accuracy.</li>
+                <li> Organizers reserve all rights regarding the declaration of winner.  No objections in this regards will be entertained.</li>
+            </ol> 
+            </p>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -144,20 +168,36 @@
             </section>
             <section class="row" style="color:white;text-align:center;">
                 <section class="col-md-4 col-sm-6">
+<<<<<<< HEAD
+                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
+                        <img src="static/img/Harsh.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Harsh Kumar Kedia</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+=======
                     <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Harsh Kumar Kedia</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
+>>>>>>> a59c52366cbe094739b8d99fcc3bdbe89f901beb
                             <i class="ion-android-call"></i> : +91 8564866913<br>
+                        <i class="ion-android-mail"></i> : harsh.kkedia.eee13@iitbhu.ac.in
                         </p>
                     </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
+<<<<<<< HEAD
+                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
+                        <img src="static/img/rajat.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rajat Gupta</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
+=======
                     <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rajat Gupta</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
+>>>>>>> a59c52366cbe094739b8d99fcc3bdbe89f901beb
                             <i class="ion-android-call"></i> : +91 7668010319<br>
+                        <i class="ion-android-mail"></i> : rajat.gupta.eee13@iitbhu.ac.in
                         </p>
                     </div>
                 </section>
@@ -167,6 +207,7 @@
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Garlapati Manoj</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                             <i class="ion-android-call"></i> : +91 8960438496<br>
+                        <i class="ion-android-mail"></i> : garlapati.manoj.eee13@iitbhu.ac.in
                         </p>
                     </div>
                 </section>
