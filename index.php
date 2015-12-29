@@ -82,7 +82,7 @@
                     <div class="feature-box wow animated bounceInDown" data-wow-delay="0.3s">
                         <i class="ion-ios-bolt" style="color:#210B61;"></i>
                         <h2><a href="consilium.php">Consilium</a></h2>
-                        <p> Tagline Here</p>
+                        <p> THINK.DESIGN.WIN</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
@@ -125,7 +125,7 @@
                     <div class="feature-box wow animated bounceInUp" data-wow-delay="0.3s">
                         <i class="ion-playstation" style="color:#210B61;"></i>
                         <h2><a href="simulim.php">Simulim</a></h2>
-                        <p>Tagline here</p>
+                        <p>Get ready for Electrical Simulations!!!</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
@@ -133,7 +133,7 @@
                     <div class="feature-box wow animated bounceInRight" data-wow-delay="0.3s">
                         <i class="ion-android-bulb" style="color:#210B61;"></i>
                         <h2><a href="sos.php">SOS</a></h2>
-                        <p>Tagline here</p>
+                        <p>Technology has advanced at startling rates, in the era of technological development speed is the need of the hour</p>
                     </div>
                 </div>
                 </div>
