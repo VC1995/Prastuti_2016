@@ -82,7 +82,7 @@
                     <div class="feature-box wow animated bounceInDown" data-wow-delay="0.3s">
                         <i class="ion-ios-bolt" style="color:#210B61;"></i>
                         <h2><a href="consilium.php">Consilium</a></h2>
-                        <p> Tagline Here</p>
+                        <p> THINK.DESIGN.WIN</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
@@ -168,16 +168,18 @@
                             $result= $db->query("SELECT * FROM updates ORDER BY id DESC LIMIT 5");
                             if($result === false){
                                 echo "<p style='color: red'> Error occured</p>";
-                            }else
+                            }
+                            else{
                             while($row = $result->fetch_object()){
                                 echo 
                                 "<span style='padding:5px;font-size:18px;word-wrap:break-word;background:rgba(0,0,0,.7);'><span style='color:#00967f;font-size:16px;font-weight:bold;'>[".$row->date."]:</span>&nbsp&nbsp".$row->details."</span>
                                 <br/><br/>";
                             }
+                            echo '<br/>
+                    <div style="text-align:center;"><a id="view_all" style="background:rgba(0,0,0,.7);" href="updates.php">View All</a></div>';
                         }
+                    }
                     ?>
-                    <br/>
-                    <div style="text-align:center;"><a id="view_all" style="background:rgba(0,0,0,.7);" href="updates.php">View All</a></div>
                 </div>
             </section>
         </section>

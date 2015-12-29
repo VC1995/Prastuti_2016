@@ -46,6 +46,7 @@
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">CONSILIUM</h1>
                         <p class="wow animated fadeInLeft">
+                            THINK.DESIGN.WIN
                         </p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
@@ -162,16 +163,12 @@ Round 3 – 50 points
                 </section>
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <img src="static/img/amit.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Amit Kalyan</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                             <i class="ion-android-call"></i> : +91-7860561611<br>
                             <i class="ion-android-mail"></i> : amit.kalyan.eee13@iitbhu.ac.in
                         </p>
-                    <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/amit.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Amit Kalyan</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">+91-7860561611<br/>amit.kalyan.eee13@iitbhu.ac.in</p>
                     </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
