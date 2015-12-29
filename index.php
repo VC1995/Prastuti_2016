@@ -133,7 +133,7 @@
                     <div class="feature-box wow animated bounceInRight" data-wow-delay="0.3s">
                         <i class="ion-android-bulb" style="color:#210B61;"></i>
                         <h2><a href="sos.php">SOS</a></h2>
-                        <p>Tagline here</p>
+                        <p>No problem can withstand the assault of sustained thinking.</p>
                     </div>
                 </div>
                 </div>
