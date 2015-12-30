@@ -168,34 +168,20 @@
             </section>
             <section class="row" style="color:white;text-align:center;">
                 <section class="col-md-4 col-sm-6">
-<<<<<<< HEAD
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/Harsh.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Harsh Kumar Kedia</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
-=======
                     <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <img src="static/img/harsh.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Harsh Kumar Kedia</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
->>>>>>> a59c52366cbe094739b8d99fcc3bdbe89f901beb
                             <i class="ion-android-call"></i> : +91 8564866913<br>
                         <i class="ion-android-mail"></i> : harsh.kkedia.eee13@iitbhu.ac.in
                         </p>
                     </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
-<<<<<<< HEAD
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/rajat.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">Rajat Gupta</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s" style="background:rgba(0,0,0,.7);">
-=======
                     <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <img src="static/img/rajat.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rajat Gupta</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
->>>>>>> a59c52366cbe094739b8d99fcc3bdbe89f901beb
                             <i class="ion-android-call"></i> : +91 7668010319<br>
                         <i class="ion-android-mail"></i> : rajat.gupta.eee13@iitbhu.ac.in
                         </p>
