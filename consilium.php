@@ -46,7 +46,7 @@
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">CONSILIUM</h1>
                         <p class="wow animated fadeInLeft">
-                            Decipher. Design. Display
+                            THINK.DESIGN.WIN
                         </p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
@@ -169,6 +169,7 @@ Round 3 – 50 points
                             <i class="ion-android-call"></i> : +91-7860561611<br>
                             <i class="ion-android-mail"></i> : amit.kalyan.eee13@iitbhu.ac.in
                         </p>
+                    </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">

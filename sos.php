@@ -20,7 +20,7 @@
                         <span class="caret"></span>
                         </button>
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
-                        <li><a href="bizcraft.php">Bizcraft</a></li>
+                        <li><a href="bizcraft.php">biZcraft</a></li>
                         <li><a href="consilium.php">Consilium</a></li>
                         <li><a href="idp.php">IDP</a></li>
                         <li><a href="ppt.php">Paper Presentation</a></li>
@@ -46,7 +46,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">Solution On Spot</h1>
-                        <p class="wow animated fadeInLeft">Technology has advanced at startling rates, in the era of technological development speed is the need of the hour</p>
+                        <p class="wow animated fadeInLeft">No problem can withstand the assault of sustained thinking.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div>
@@ -87,7 +87,7 @@
                 leaders to experience real-life problem scenarios and their complications. The main aim of 
                 this event is to come up with thought provoking ideas while clock is ticking. This event will 
                 also help the candidates in understanding the intricate and pivotal role technology plays in 
-                the real-life
+                the real-life.
             </p>
             </section>
             <div class="clearfix"></div>
@@ -108,10 +108,17 @@
                 </h1></div>
             </section>
             <section class="row legible" style="color:white;text-align:center;"><p>
-                Participants will be given three problems at the time of event and they have to give a brief
-                ideas of their solution within limited time (15 minutes per question). Top ideas will be 
-                selected for second round where they have to present their exact solution in front of judge 
-                and winner will be decided as marks given by judge panel.</p>
+               <h3> Round-1(Written Test)</h3>
+
+This round mainly focuses on testing the problem solving abilities of the tech-minds. The written test
+comprises of few real-life problems. Participants have to give brief ideas of their solutions within limited time.
+
+<h3>Round-2(Presentation)</h3>
+
+Top ideas of Round-1 will be selected for Round-2. This round gives a platform to the participants to
+present their exact solution in front of the judges and audience. Each idea will have to be presented
+within 7 minutes, followed by 2 minutes of Q&A session both by judges and audience. Winners will be decided as marks given by the judges.
+                </p>
             </section>
         </section>
     </section>
@@ -131,6 +138,7 @@
             <ol>
                 <li>There will be maximum 4 members in the team.</li>
                 <li>Participant have to register on the website and on spot registration is also allowed before half an hour of the event.</li>
+                <li>No team is permitted to use mobile phones or any other source for information. Any team found using any source may lead to disqualification.</li>
             </ol>
             <section class="row">
             </section>

@@ -1,5 +1,5 @@
 <?php
-
+ini_set('display_errors','0');
 function redirect($url) {
     if(!headers_sent()) {
         //If headers not sent yet... then do php redirect

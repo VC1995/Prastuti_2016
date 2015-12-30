@@ -18,7 +18,7 @@
                         <span class="caret"></span>
                         </button>
                         <ul id="drop_ul" class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index:100;position:absolute;background:rgba(0,0,0,.7);">
-                        <li><a href="bizcraft.php">BIZCRAFT</a></li>
+                        <li><a href="bizcraft.php">biZcraft</a></li>
                         <li><a href="idp.php">IDP</a></li>
                         <li><a href="ppt.php">Paper Presentation</a></li>
                         <li><a href="poster.php">Poster Presentation</a></li>
