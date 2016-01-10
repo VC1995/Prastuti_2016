@@ -36,7 +36,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
                         <h1 class="wow animated fadeInDown" data-wow-delay='1s'>ALL INDIA PAPER PRESENTATION</h1>
-                        <p class="wow animated fadeInLeft" data-wow-delay='1s'>Tagline or short intro here !</p>
+                        <p class="wow animated fadeInLeft" data-wow-delay='1s'>Prastuti 2015 is a National level technical Symposium Organized by IIT BHU. Prastuti provides a platform to showcase and develop your ideas and technologies infront of our panel in a professional manner.</p>
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-5">
                                 <div>
@@ -82,7 +82,7 @@
                     <div class="feature-box wow animated bounceInDown" data-wow-delay="0.3s">
                         <i class="ion-ios-bolt" style="color:#210B61;"></i>
                         <h2><a href="consilium.php">Consilium</a></h2>
-                        <p> THINK.DESIGN.WIN</p>
+                        <p> Decipher. Design. Display</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
@@ -133,7 +133,7 @@
                     <div class="feature-box wow animated bounceInRight" data-wow-delay="0.3s">
                         <i class="ion-android-bulb" style="color:#210B61;"></i>
                         <h2><a href="sos.php">SOS</a></h2>
-                        <p>No problem can withstand the assault of sustained thinking.</p>
+                        <p>Tagline here</p>
                     </div>
                 </div>
                 </div>
@@ -168,18 +168,16 @@
                             $result= $db->query("SELECT * FROM updates ORDER BY id DESC LIMIT 5");
                             if($result === false){
                                 echo "<p style='color: red'> Error occured</p>";
-                            }
-                            else{
+                            }else
                             while($row = $result->fetch_object()){
                                 echo 
                                 "<span style='padding:5px;font-size:18px;word-wrap:break-word;background:rgba(0,0,0,.7);'><span style='color:#00967f;font-size:16px;font-weight:bold;'>[".$row->date."]:</span>&nbsp&nbsp".$row->details."</span>
                                 <br/><br/>";
                             }
-                            echo '<br/>
-                    <div style="text-align:center;"><a id="view_all" style="background:rgba(0,0,0,.7);" href="updates.php">View All</a></div>';
                         }
-                    }
                     ?>
+                    <br/>
+                    <div style="text-align:center;"><a id="view_all" style="background:rgba(0,0,0,.7);" href="updates.php">View All</a></div>
                 </div>
             </section>
         </section>

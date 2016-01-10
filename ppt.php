@@ -107,14 +107,14 @@
 <ul>
 <li>Electrical and electronics engineering.</li>
 <li>Computer Science and applied mathematics.</li>
-<li>Energy conservation and management.</li>
+<li>Energy effective solution and their management.</li>
 </ul>
 <p>Please note that your abstract will be reviewed by our review committee. Therefore, you are requested to submit high quality version of your abstract. Any plagiarism will lead to disqualification. </p>
                 <p><br><strong>Paper Submission :</strong>
                 <br> The teams shortlisted on the basis of abstracts shall have to submit their paper. The paper must strictly conform to the standards of IEEE as mentioned in RULES AND GUIDELINES tab.
                 <br><br><strong>Final Round :</strong><br></p>
                 <ul>
-                    <li>Teams selected on the basis of their paper will have to give their presentation in Prastuti’16.</li>
+                    <li>Teams selected on the basis of their paper will have to give their power point presentation on the day of Prastuti’16.</li>
                     <li>Selected teams are required to send us a mail at prastuti@iitbhu.ac.in within a week of declaration of the result, consisting of the following -
                         <ul>
                             <li>Acknowledgement that you are aware of being selected.</li>
@@ -146,8 +146,8 @@
                 <li>The submission should only be in pdf format.</li>
                 <li>Teams should mention their full details in the paper. (Name of the Authors, Departments, Phone numbers, College, etc,).</li>
 
-                <li>The last date of abstract submission is ........</li>
-                <li>The last date of final submission is .......</li>
+                <li>The last date of abstract submission is <strong>15 Feb '16</strong></li>
+                <li>The last date of final submission is <strong>5 March '16</strong></li>
             </ol>
             </section>
             <div class="clearfix"></div>
