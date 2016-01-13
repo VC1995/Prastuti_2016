@@ -5,7 +5,7 @@
         <section class="container">
             <section class="row" id="logo_menu" role="navigation">                  
                 <div class="col-md-4 col-sm-8 col-xs-2 navbar-brand">
-                    <a class="logo" href=""><i class="ion-ios-home hidden-md hidden-lg"></i><span class="hidden-sm hidden-xs wow animated flip" data-wow-delay='0.5s'><strong>P R A S T U T I '16</strong></span></a>
+                    <a class="logo" href=""><i class="ion-ios-home"></i></a>
                 </div>
                 <div class="col-md-8 col-sm-4 col-xs-10">
                     <div class="navbar-header">
@@ -34,17 +34,24 @@
             <a class="slidedown wow animated zoomIn" data-wow-delay="1s" href="#features"><i class="ion-ios-download-outline" style='color: black'></i></a>
             <section class="row">
                 <div class="col-md-8 col-md-offset-2">
-                    <div class="headings">
-                        <h1 class="wow animated fadeInDown" data-wow-delay='1s'>ALL INDIA PAPER PRESENTATION</h1>
-                        <p class="wow animated fadeInLeft" data-wow-delay='1s'>Prastuti 2015 is a National level technical Symposium Organized by IIT BHU. Prastuti provides a platform to showcase and develop your ideas and technologies infront of our panel in a professional manner.</p>
+                    <div class="headings">                        
+                        <p style="color: white; font-size: 4em; z-index: 2" class="col-sm-9 text-center"> &nbsp
+                            <span class="wow animated fadeInRight" data-wow-delay="1s">P </span> 
+                            <span class="wow animated fadeInRight" data-wow-delay="1.1s">R </span> 
+                            <span class="wow animated fadeInRight" data-wow-delay="1.2s">A </span> 
+                            <span class="wow animated fadeInRight" data-wow-delay="1.3s">&nbsp<i class="ion-ios-bolt-outline" style="font-size: 3em; color: #FFD700; z-index: 2;position: absolute;left: 40%; top:-15%"></i>&nbsp &nbsp</span> 
+                            <span class="wow animated fadeInRight" data-wow-delay="1.4s">T </span> 
+                            <span class="wow animated fadeInRight" data-wow-delay="1.5s">U </span> 
+                            <span class="wow animated fadeInRight" data-wow-delay="1.6s">T </span> 
+                            <span class="wow animated fadeInRight" data-wow-delay="1.7s">I </span> 
+                            <span class="wow animated bounceIn" data-wow-delay="1.9s"> &nbsp &nbsp 2016</span>
+                        </p>
+                        <p class="wow animated fadeInLeft" data-wow-delay='1s'><img src="static/img/logo_img.jpg" style="width: 10em"></p>
                         <div class="row">
-                            <div class="col-xs-6 col-sm-6 col-md-5">
-                                <div>
-                                    <a href="registration_form.php#business" style="background:rgba(0,0,0,.7);" class="polo-btn store wow animated bounceInUp" data-wow-delay='0.5s'><i class="ion-android-checkbox-outline"></i> Register</a>
+                            <div class="col-xs-6 col-sm-6 col-md-6 col-md-offset-3">
+                                <div class="text-center">
+                                    <p style="color: white; font-size: 3em; background: rgba(0,0,0,.5); padding: 0" class="wow animated bounceInUp" data-wow-delay='0.5s'>2<sup>nd</sup> - 4<sup>th</sup> April</p>
                                 </div>
-                            </div>
-                            <div class="col-xs-6 col-sm-6 col-md-5">
-                                <!-- if you want any button -->
                             </div>
                         </div>
                     </div>
