@@ -80,14 +80,14 @@
                 <div class="row">
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated bounceInLeft" data-wow-delay="0.3s">
-                        <i class="ion-social-bitcoin" style="color:#210B61;"></i>
+                        <img src="static/img/bizcraft.jpg" style="width: 8em">
                         <h2><a href="bizcraft.php">biZcraft</a></h2>
                         <p>Winners don't make excuses when the other side plays their game. Which side are you on ?</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated bounceInDown" data-wow-delay="0.3s">
-                        <i class="ion-ios-bolt" style="color:#210B61;"></i>
+                        <img src="static/img/consilium.jpg" style="width: 8em">
                         <h2><a href="consilium.php">Consilium</a></h2>
                         <p> Decipher. Design. Display</p>
                     </div>
@@ -95,7 +95,7 @@
                 <div class="col-sm-6 col-md-3">
                     
                     <div class="feature-box wow animated bounceInDown" data-wow-delay="0.3s">
-                        <i class="ion-arrow-graph-up-right" style="color:#210B61;"></i>
+                        <img src="static/img/idp.jpg" style="width: 8em">
                         <h2><a href="idp.php">IDP</a></h2>
                         <p>Redefining industry by defining its problems.</p>
                     </div>
@@ -103,7 +103,7 @@
                 <div class="col-sm-6 col-md-3">
                     
                     <div class="feature-box wow animated bounceInRight" data-wow-delay="0.3s">
-                        <i class="ion-ios-copy" style="color:#210B61;"></i>
+                        <img src="static/img/paper.jpg" style="width: 7em">
                         <h2><a href="ppt.php">Paper Presentation</a></h2>
                         <p>Come, chill out the hearts of the people with your innovative presentation.</p>
                     </div>
@@ -114,7 +114,7 @@
                 <div class="col-sm-6 col-md-3">
                     
                     <div class="feature-box wow animated bounceInLeft" data-wow-delay="0.3s">
-                        <i class="ion-image" style="color:#210B61;"></i>
+                        <img src="static/img/poster.jpg" style="width: 8em">
                         <h2><a href="poster.php">Poster Presentation</a></h2>
                         <p>Come and speak informally to interested audience through this visual communication art.</p>
                     </div>
@@ -122,7 +122,7 @@
                 <div class="col-sm-6 col-md-3">
                     
                     <div class="feature-box wow animated bounceInUp" data-wow-delay="0.3s">
-                        <i class="ion-ios-glasses" style="color:#210B61;"></i>
+                        <img src="static/img/reognizance.jpg" style="width: 8em">
                         <h2><a href="recognizance.php">Recognizance</a></h2>
                         <p>Let's give our machines a 'vision'.</p>
                     </div>
@@ -130,7 +130,7 @@
                 <div class="col-sm-6 col-md-3">
                     
                     <div class="feature-box wow animated bounceInUp" data-wow-delay="0.3s">
-                        <i class="ion-playstation" style="color:#210B61;"></i>
+                        <img src="static/img/simulim.jpg" style="width: 8em">
                         <h2><a href="simulim.php">Simulim</a></h2>
                         <p>Power to fabricate the reality</p>
                     </div>
@@ -138,7 +138,7 @@
                 <div class="col-sm-6 col-md-3">
                     
                     <div class="feature-box wow animated bounceInRight" data-wow-delay="0.3s">
-                        <i class="ion-android-bulb" style="color:#210B61;"></i>
+                        <img src="static/img/sos.jpg" style="width: 8em">
                         <h2><a href="sos.php">SOS</a></h2>
                         <p>Tagline here</p>
                     </div>
