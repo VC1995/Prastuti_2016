@@ -32,7 +32,7 @@ new WOW().init();
 // carousel
 
 $(document).ready(function() {
- 
+  
   var owl = $("#screenshots");
  
   owl.owlCarousel({
@@ -66,6 +66,12 @@ $(window).scroll(function(){
 
   if (scroll >= 100) sticky.addClass('fixed');
   else sticky.removeClass('fixed');
+});
+
+//get to top on refreshing
+$(document).ready(function(){
+    $('html').animate({scrollTop:0}, 1);
+    $('body').animate({scrollTop:0}, 1);
 });
 
 // Team overlay

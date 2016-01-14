@@ -1,5 +1,10 @@
 <?php include "templates/header.php" ?>
- <!-- ****************************** Header ************************** -->
+
+<!-- ***************************** Register button ****************** -->
+    <div id="registerButton">
+    <a href="registration_form.php#paper" class="btn btn-primary wow animated bounceInDown" data-wow-delay="1.5s" style="position: fixed; right: 3%; bottom: 3%;font-size: 2em;background: orange;z-index: 5;">Register Now <i class="ion-log-in"></i></a>
+    </div>
+<!-- ****************************** Header ************************** -->
     <div id="preloader"></div>
     <header class="sticky" id="header">
         <section class="container">
@@ -47,17 +52,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">PAPER PRESENTATION</h1>
-                        <p class="wow animated fadeInLeft">Come, chill out the hearts of the people with your innovative presentation.</p>
-                        <div class="row">
-                            <div class="col-xs-6 col-sm-6 col-md-5">
-                                <div>
-                                    <a href="registration_form.php#paper"  style="background:rgba(0,0,0,.7);" class="polo-btn store wow animated bounceInUp"><i class="ion-android-checkbox-outline"></i> Register</a>
-                                </div>
-                            </div>
-                            <div class="col-xs-6 col-sm-6 col-md-5">
-                                <!-- if you want any button -->
-                            </div>
-                        </div>
+                        <p class="wow animated fadeInLeft">Come, chill out the hearts of the people with your innovative presentation.</p>                        
                     </div>
                 </div>
                 <div class="col-md-2 hidden-xs hidden-sm">
@@ -171,7 +166,7 @@
                 <section class="col-md-4 col-sm-6">
 
                     <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:125px;width:125px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Akshay Paliwal</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 8953838839<br>
@@ -181,7 +176,7 @@
                 </section>
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:125px;width:125px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Deepak Gautam</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 idontknow<br>
@@ -191,7 +186,7 @@
                 </section>
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-125px;height:250px;width:250px;">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:125px;width:125px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Akhil Adapa</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 sobatadena<br>
