@@ -29,6 +29,29 @@ $(function() {
 
 new WOW().init();
 
+// carousel
+
+$(document).ready(function() {
+ 
+  var owl = $("#screenshots");
+ 
+  owl.owlCarousel({
+    autoPlay: false,
+    pagination: false,
+    stopOnHover: true,
+  });
+ 
+  // Custom Navigation Events
+  $(".next").click(function(){
+    owl.trigger('owl.next');
+  })
+  $(".prev").click(function(){
+    owl.trigger('owl.prev');
+  })
+ 
+});
+
+
 $(document).ready(function(){
   $('.feature-box').on('click',function(e){
     $(this).find('a')[0].click();

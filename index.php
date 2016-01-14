@@ -1,6 +1,12 @@
 <?php include "templates/header.php" ?>
-    <!-- ****************************** Header ************************** -->
     <div id="preloader"></div>
+
+    <!-- ***************************** Register button ****************** -->
+    <div id="registerButton">
+    <a href="registration_form.php#business" class="btn btn-primary wow animated bounceInDown" data-wow-delay="3s" style="position: fixed; right: 3%; bottom: 3%;font-size: 2em;background: orange;z-index: 5;">Register Now <i class="ion-log-in"></i></a>
+    </div>
+    <!-- ****************************** Header ************************** -->
+    
     <header class="sticky" id="header">
         <section class="container">
             <section class="row" id="logo_menu" role="navigation">                  
@@ -15,11 +21,12 @@
                     </div>         <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" style="padding-top: 1em" id="nav_menu">
                     <ul class="nav navbar-nav navbar-right" style="overflow-y: hidden; overflow-x: hidden">                 
-                        <li style="padding-left: 2em"  class="wow animated bounceInDown" data-wow-delay="0.7s"><a class="nav_menu_item" href="#features"><i class="ion-ribbon-a"></i><span class="hidden-sm"> Events</span></a></li>
-                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="0.9s"><a class="nav_menu_item" href="#gallery"><i class="ion-ios-mic"></i><span class="hidden-sm"> Updates</span></a></li>
-                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="1.1s"><a class="nav_menu_item" href="#team"><i class="ion-android-call"></i><span class="hidden-sm"> Contact us</span></a></li>
-                        <!--- <li style="padding-left: 2em"><a class="nav_menu_item" href="team.php"><i class="ion-android-people"></i><span class="hidden-sm"> Team</span></a></li> -->
-                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="1.3s"><a class="nav_menu_item" href="registration_form.php#business"><i class="ion-android-checkbox-outline"></i><span class="hidden-sm"> Register</span></a></li>                   
+                        <li style="padding-left: 2em"  class="wow animated bounceInDown" data-wow-delay="0.7s"><a class="nav_menu_item" href="#features" style="font-size: 1.2em"> E<i class="ion-ribbon-a"></i>ents</a></li>
+                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="0.9s"><a class="nav_menu_item" href="#gallery" style="font-size: 1.2em"> Gues<i class="ion-mic-b"></i> Lectures</a></li>
+                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="0.9s"><a class="nav_menu_item" href="#updates" style="font-size: 1.2em"> Upda<i class="ion-ios-mic"></i>es</a></li>
+                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="0.9s"><a class="nav_menu_item" href="#sponsors" style="font-size: 1.2em"> <i class="ion-social-usd"></i>ponsors</a></li>
+                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="1.1s"><a class="nav_menu_item" href="team.php" style="font-size: 1.2em"> T<i class="ion-android-call"></i>am</a></li>
+                        <!--- <li style="padding-left: 2em"><a class="nav_menu_item" href="team.php"><i class="ion-android-people"></i><span class="hidden-sm"> Team</span></a></li> -->               
                     </ul>   
                     </div>          
                 </div>  
@@ -80,14 +87,14 @@
                 <div class="row">
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated bounceInLeft" data-wow-delay="0.3s">
-                        <img src="static/img/bizcraft.jpg" style="width: 8em">
+                        <img src="static/img/bizcraft.jpg" style="width: 10em">
                         <h2><a href="bizcraft.php">biZcraft</a></h2>
                         <p>Winners don't make excuses when the other side plays their game. Which side are you on ?</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
                     <div class="feature-box wow animated bounceInDown" data-wow-delay="0.3s">
-                        <img src="static/img/consilium.jpg" style="width: 8em">
+                        <img src="static/img/consilium.jpg" style="width: 10em">
                         <h2><a href="consilium.php">Consilium</a></h2>
                         <p> Decipher. Design. Display</p>
                     </div>
@@ -95,7 +102,7 @@
                 <div class="col-sm-6 col-md-3">
                     
                     <div class="feature-box wow animated bounceInDown" data-wow-delay="0.3s">
-                        <img src="static/img/idp.jpg" style="width: 8em">
+                        <img src="static/img/idp.jpg" style="width: 10em">
                         <h2><a href="idp.php">IDP</a></h2>
                         <p>Redefining industry by defining its problems.</p>
                     </div>
@@ -103,7 +110,7 @@
                 <div class="col-sm-6 col-md-3">
                     
                     <div class="feature-box wow animated bounceInRight" data-wow-delay="0.3s">
-                        <img src="static/img/paper.jpg" style="width: 7em">
+                        <img src="static/img/paper.jpg" style="width: 10em">
                         <h2><a href="ppt.php">Paper Presentation</a></h2>
                         <p>Come, chill out the hearts of the people with your innovative presentation.</p>
                     </div>
@@ -114,7 +121,7 @@
                 <div class="col-sm-6 col-md-3">
                     
                     <div class="feature-box wow animated bounceInLeft" data-wow-delay="0.3s">
-                        <img src="static/img/poster.jpg" style="width: 8em">
+                        <img src="static/img/poster.jpg" style="width: 10em">
                         <h2><a href="poster.php">Poster Presentation</a></h2>
                         <p>Come and speak informally to interested audience through this visual communication art.</p>
                     </div>
@@ -122,7 +129,7 @@
                 <div class="col-sm-6 col-md-3">
                     
                     <div class="feature-box wow animated bounceInUp" data-wow-delay="0.3s">
-                        <img src="static/img/reognizance.jpg" style="width: 8em">
+                        <img src="static/img/recognizance.jpg" style="width: 10em">
                         <h2><a href="recognizance.php">Recognizance</a></h2>
                         <p>Let's give our machines a 'vision'.</p>
                     </div>
@@ -130,7 +137,7 @@
                 <div class="col-sm-6 col-md-3">
                     
                     <div class="feature-box wow animated bounceInUp" data-wow-delay="0.3s">
-                        <img src="static/img/simulim.jpg" style="width: 8em">
+                        <img src="static/img/simulim.jpg" style="width: 10em">
                         <h2><a href="simulim.php">Simulim</a></h2>
                         <p>Power to fabricate the reality</p>
                     </div>
@@ -138,9 +145,9 @@
                 <div class="col-sm-6 col-md-3">
                     
                     <div class="feature-box wow animated bounceInRight" data-wow-delay="0.3s">
-                        <img src="static/img/sos.jpg" style="width: 8em">
+                        <img src="static/img/sos.jpg" style="width: 10em">
                         <h2><a href="sos.php">SOS</a></h2>
-                        <p>Tagline here</p>
+                        <p>No problem can withstand the assault of sustained thinking</p>
                     </div>
                 </div>
                 </div>
@@ -150,22 +157,58 @@
         </section>
     </section>
 
-    <!-- ****************************** Gallery Section ************************** -->
+        <!-- ****************************** Gallery Section ************************** -->
 
     <section id="gallery" class="block">
         <section class="container">
             <section class="row">
-                <div class="title-box" style="color:#fff;animation: vibrate 2s 3s infinite;-moz-animation: vibrate 2s 3s infinite;-webkit-animation: vibrate 2s 3s infinite;-o-animation: vibrate 2s 3s infinite;">
-                <h1 class="block-title ">
+                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
                 <span class="bb-top-left" style="border-color: #fff; "></span>
                 <span class="bb-bottom-left" style="border-color: #fff; "></span>
-                Updates
+                Guest Lectures
                 <span class="bb-top-right" style="border-color: #fff; "></span>
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
             <section class="row">
-                <div class="col-xs-12 legible">
+                <div class="col-xs-12">
+                    <div id="screenshots" class="owl-carousel owl-theme">
+                      <div class="item"><img src="static/img/gl.jpg" class="img_res wow animated zoomIn"></div>
+                      <div class="item"><img src="static/img/gl.jpg" class="img_res wow animated zoomIn"></div>
+                      <div class="item"><img src="static/img/gl.jpg" class="img_res wow animated zoomIn"></div>
+                      <div class="item"><img src="static/img/gl.jpg" class="img_res wow animated zoomIn"></div>
+                      <div class="item"><img src="static/img/gl.jpg" class="img_res wow animated zoomIn"></div>
+                      <div class="item"><img src="static/img/gl.jpg" class="img_res wow animated zoomIn"></div>
+                      <div class="item"><img src="static/img/gl.jpg" class="img_res wow animated zoomIn"></div>
+                      <div class="item"><img src="static/img/gl.jpg" class="img_res wow animated zoomIn"></div>
+                      <div class="item"><img src="static/img/gl.jpg" class="img_res wow animated zoomIn"></div>
+                      <div class="item"><img src="static/img/gl.jpg" class="img_res wow animated zoomIn"></div>
+                    </div>
+                     <div class="customNavigation">
+                      <a class="btn prev gallery-nav wow animated bounceInLeft" style="background:rgba(0,0,0,.7);"><i class="ion-ios-arrow-left"></i></a> 
+                      <a class="btn next gallery-nav wow animated bounceInRight" style="background:rgba(0,0,0,.7);"><i class="ion-ios-arrow-right"></i></a>
+                    </div>
+                </div>
+            </section>
+        </section>
+    </section>
+
+    <!-- ****************************** Updates Section ************************** -->
+
+    <section id="updates" class="block">
+        <section class="container">
+            <section class="row">
+                <div class="title-box" style="animation: vibrate 2s 3s infinite;-moz-animation: vibrate 2s 3s infinite;-webkit-animation: vibrate 2s 3s infinite;-o-animation: vibrate 2s 3s infinite;">
+                <h1 class="block-title ">
+                <span class="bb-top-left"></span>
+                <span class="bb-bottom-left"></span>
+                Updates
+                <span class="bb-top-right"></span>
+                <span class="bb-bottom-right"></span>
+                </h1></div>
+            </section>
+            <section class="row">
+                <div class="col-xs-12">
                     <?php
                     include 'includes/general_functions.php';
                         $db= connect_to_database();
@@ -178,36 +221,41 @@
                             }else
                             while($row = $result->fetch_object()){
                                 echo 
-                                "<span style='padding:5px;font-size:18px;word-wrap:break-word;background:rgba(0,0,0,.7);'><span style='color:#00967f;font-size:16px;font-weight:bold;'>[".$row->date."]:</span>&nbsp&nbsp".$row->details."</span>
+                                "<span style='padding:5px;font-size:18px;word-wrap:break-word;'><span style='color:#00967f;font-size:16px;font-weight:bold;'>[".$row->date."]:</span>&nbsp&nbsp".$row->details."</span>
                                 <br/><br/>";
                             }
                         }
                     ?>
                     <br/>
-                    <div style="text-align:center;"><a id="view_all" style="background:rgba(0,0,0,.7);" href="updates.php">View All</a></div>
+                    <div style="text-align:center;"><a class="btn btn-primary" href="updates.php">View All</a></div>
                 </div>
             </section>
         </section>
     </section>
 
-    <!-- ****************************** Contact Section ************************** -->
+    
 
-        <section id="team" class="block">
+    <!-- ****************************** Sponsors Section ************************** -->
+
+
+        <section id="sponsors" class="block" style="background: url(static/img/bg.jpg)">
         <section class="container">
             <section class="row">
-                <div class="col-md-12">
-                    <div class="title-box">
-                        <h3 class="block-title wow animated rollIn">
-                            <span class="bb-top-left"></span>
-                            <span class="bb-bottom-left"></span>
-                            Contact us
-                            <span class="bb-top-right"></span>
-                            <span class="bb-bottom-right"></span>
-                        </h3>
-                    </div>
-                </div>
-            </section>
-            <section class="row">
+                <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
+                <span class="bb-top-left" style="border-color: #fff; "></span>
+                <span class="bb-bottom-left" style="border-color: #fff; "></span>
+                Sponsors
+                <span class="bb-top-right" style="border-color: #fff; "></span>
+                <span class="bb-bottom-right" style="border-color: #fff; "></span>
+                </h1></div>
+            </section>            
+            <div class="col-sm-8 col-sm-offset-2 legible">
+                <p style="color:#fff"> We're currentle looking for sponsors ... Sponsor us !</p>
+            </div>
+        </section>
+    </section>
+    <!-- 
+    <section class="row">
                 <section class="col-md-6 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
@@ -229,6 +277,5 @@
                     </div>
                 </section>
             </section>
-        </section>
-    </section>
+    -->
 <?php include "templates/footer.php" ?>

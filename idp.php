@@ -100,7 +100,7 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
-            <section class="row legible" style="color:white;text-align:center;">It is a group event in which teams of 3-4 members are allowed to participate. A company is invited to provide a technical problem encountered by the company ranging from process engineering to environmental concerns. In this event, we are looking for fresh ideas and concepts put together in creative ways to present elegant designs and solutions to the problems posed. Each team will be provided with a fixed time of 10 minutes to present their vision.
+            <section class="row legible" style="color:white;text-align:center;"> A technical problem encountered by the company ranging from process engineering to environmental concerns will be provided. In this event, we are looking for fresh ideas and concepts put together in creative ways to present elegant designs and solutions to the problems posed. Each team will be provided with a fixed time of 10 minutes to present their vision.
             </section>
         </section>
     </section>
@@ -118,14 +118,15 @@
                 </h1></div>
             </section>
             <ol>
+                <li>It is a group event in which teams of 3-4 members are allowed to participate.</li>
                 <li>The participants are required to prepare a presentation depicting the solution proposed by them for the problem statement provided.</li>
                 <li>The presentation has to be presented on the event date to a panel of judges.</li>
                 <li>The participants must be prepared for cross-questioning from judges as well as the audience.</li>
                 <li>The participants must be a registered graduate/undergraduate student of an accelerated institute.</li>
                 <li>The participants have to register themselves on the Prastuti website.</li>
                 <li>Multiple registrations will not be entertained.</li>
-                <li>To get previous year problem statement click on the link.http://goo.gl/jCyNcx</li>
-                <li><strong>To get this year problem statement click on the link.http://goo.gl/218NWs</strong></li>
+                <li>To get previous year problem statement click on the link: <a href="http://goo.gl/jCyNcx">http://goo.gl/jCyNcx</a></li>
+                <li><strong>To get this year problem statement click on the link: <a href="http://goo.gl/218NWs">http://goo.gl/218NWs</a></strong></li>
             </ol>
             <section class="row">
             </section>
