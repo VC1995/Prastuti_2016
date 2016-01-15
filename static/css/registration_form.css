@@ -47,6 +47,9 @@
 }
 
 body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
     font-family: 'Lato', Calibri, Arial, sans-serif;
     color: #222;
     background: url(../img/registration-bg.jpg) repeat;
@@ -67,6 +70,7 @@ a{
     margin: -.5em;
 }
 #content{
+    flex: 1 0 auto;
     background-color: #f8f8ff;
 }
 
