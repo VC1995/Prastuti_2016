@@ -238,7 +238,7 @@
     <!-- ****************************** Sponsors Section ************************** -->
 
 
-        <section id="sponsors" class="block" style="background: url(static/img/bg.jpg)">
+        <section id="sponsors" class="block" style="background: url(static/img/bg.jpg) no-repeat;background-size: cover;color: #fff;background-attachment: fixed;">
         <section class="container">
             <section class="row">
                 <div class="title-box" style="color:#fff;"><h1 class="block-title wow animated rollIn">
