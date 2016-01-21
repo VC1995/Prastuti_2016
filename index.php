@@ -11,7 +11,7 @@
         <section class="container">
             <section class="row" id="logo_menu" role="navigation">                  
                 <div class="col-md-4 col-sm-8 col-xs-2 navbar-brand">
-                    <a class="logo" href=""><i class="ion-ios-home"></i></a>
+                    <a class="logo" href=""><i class="ion-ios-home" ></i></a>
                 </div>
                 <div class="col-md-8 col-sm-4 col-xs-10">
                     <div class="navbar-header">
@@ -21,11 +21,11 @@
                     </div>         <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" style="padding-top: 1em" id="nav_menu">
                     <ul class="nav navbar-nav navbar-right" style="overflow-y: hidden; overflow-x: hidden">                 
-                        <li style="padding-left: 2em"  class="wow animated bounceInDown" data-wow-delay="0.7s"><a class="nav_menu_item" href="#features" style="font-size: 1.2em"> E<i class="ion-ribbon-a"></i>ents</a></li>
-                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="0.9s"><a class="nav_menu_item" href="#gallery" style="font-size: 1.2em"> Gues<i class="ion-mic-b"></i> Lectures</a></li>
-                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="0.9s"><a class="nav_menu_item" href="#updates" style="font-size: 1.2em"> Upda<i class="ion-ios-mic"></i>es</a></li>
-                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="0.9s"><a class="nav_menu_item" href="#sponsors" style="font-size: 1.2em"> <i class="ion-social-usd"></i>ponsors</a></li>
-                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="1.1s"><a class="nav_menu_item" href="team.php" style="font-size: 1.2em"> T<i class="ion-android-call"></i>am</a></li>
+                        <li style="padding-left: 2em"  class="wow animated bounceInDown" data-wow-delay="0.7s"><a class="nav_menu_item" href="#features" style="font-size: 1.2em"> E<i class="ion-ribbon-a" style="color:yellow"></i>ents</a></li>
+                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="0.9s"><a class="nav_menu_item" href="#gallery" style="font-size: 1.2em"> Gues<i class="ion-mic-b" style="color:yellow"></i> Lectures</a></li>
+                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="0.9s"><a class="nav_menu_item" href="#updates" style="font-size: 1.2em"> Upda<i class="ion-ios-mic" style="color:yellow"></i>es</a></li>
+                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="0.9s"><a class="nav_menu_item" href="#sponsors" style="font-size: 1.2em"> <i class="ion-social-usd" style="color:yellow"></i>ponsors</a></li>
+                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="1.1s"><a class="nav_menu_item" href="team.php" style="font-size: 1.2em"> T<i class="ion-android-call" style="color:yellow"></i>am</a></li>
                         <!--- <li style="padding-left: 2em"><a class="nav_menu_item" href="team.php"><i class="ion-android-people"></i><span class="hidden-sm"> Team</span></a></li> -->               
                     </ul>   
                     </div>          
@@ -40,13 +40,15 @@
         <section class="container">
             <a class="slidedown wow animated zoomIn" data-wow-delay="1s" href="#features"><i class="ion-ios-download-outline" style='color: black'></i></a>
             <section class="row">
+                <p style="color: white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;font-size: 2em;padding: 10% 0 0 0;z-index: 2" class="col-sm-12 text-center">Electrical Engineering Society, Department of Electrical Engineering, IIT(BHU), Varanasi<br/>presents </p>
                 <div class="col-md-8 col-md-offset-2">
-                    <div class="headings">                        
-                        <p style="color: white; font-size: 4em; z-index: 2" class="col-sm-9 text-center"> &nbsp
+                    <div class="headings">                                                
+                        <p style="color: yellow; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;font-size: 4em; z-index: 2" class="col-sm-9 text-center"> &nbsp
                             <span class="wow animated fadeInRight" data-wow-delay="1s">P </span> 
                             <span class="wow animated fadeInRight" data-wow-delay="1.1s">R </span> 
                             <span class="wow animated fadeInRight" data-wow-delay="1.2s">A </span> 
-                            <span class="wow animated fadeInRight" data-wow-delay="1.3s">&nbsp<i class="ion-ios-bolt-outline" style="font-size: 3em; color: #FFD700; z-index: 2;position: absolute;left: 40%; top:-15%"></i>&nbsp &nbsp</span> 
+                            <!-- <span class="wow animated fadeInRight" data-wow-delay="1.3s">&nbsp<i class="ion-ios-bolt-outline" style="font-size: 3em; color: #FFD700; z-index: 2;position: absolute;left: 40%; top:-15%"></i>&nbsp &nbsp</span> -->
+                            <span class="wow animated fadeInRight" data-wow-delay="1.3s">S </span> 
                             <span class="wow animated fadeInRight" data-wow-delay="1.4s">T </span> 
                             <span class="wow animated fadeInRight" data-wow-delay="1.5s">U </span> 
                             <span class="wow animated fadeInRight" data-wow-delay="1.6s">T </span> 
@@ -55,12 +57,12 @@
                         </p>
                         <p class="wow animated fadeInLeft" data-wow-delay='1s'><img src="static/img/logo_img.jpg" style="width: 10em"></p>
                         <div class="row">
-                            <div class="col-xs-6 col-sm-6 col-md-6 col-md-offset-3">
+                            <div class="col-xs-6 col-sm-6 col-md-6 col-md-offset-1">
                                 <div class="text-center">
-                                    <p style="color: white; font-size: 3em; background: rgba(0,0,0,.5); padding: 0" class="wow animated bounceInUp" data-wow-delay='0.5s'>2<sup>nd</sup> - 4<sup>th</sup> April</p>
+                                    <p style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;font-size: 3em; padding: 0" class="wow animated bounceInUp" data-wow-delay='0.5s'>&nbsp &nbsp &nbsp 2<sup>nd</sup> - 4<sup>th</sup> April</p>
                                 </div>
                             </div>
-                        </div>
+                        </div>  
                     </div>
                 </div>
                 <div class="col-md-2 hidden-xs hidden-sm">
@@ -104,7 +106,7 @@
                     <div class="feature-box wow animated bounceInDown" data-wow-delay="0.3s">
                         <img src="static/img/idp.jpg" style="width: 10em">
                         <h2><a href="idp.php">IDP</a></h2>
-                        <p>Redefining industry by defining its problems.</p>
+                        <p>Redefining industry by defining its problems</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
@@ -112,7 +114,7 @@
                     <div class="feature-box wow animated bounceInRight" data-wow-delay="0.3s">
                         <img src="static/img/paper.jpg" style="width: 10em">
                         <h2><a href="ppt.php">Paper Presentation</a></h2>
-                        <p>Come, chill out the hearts of the people with your innovative presentation.</p>
+                        <p>Imagination is the highest form of research</p>
                     </div>
                 </div>
         </div>
@@ -123,7 +125,7 @@
                     <div class="feature-box wow animated bounceInLeft" data-wow-delay="0.3s">
                         <img src="static/img/poster.jpg" style="width: 10em">
                         <h2><a href="poster.php">Poster Presentation</a></h2>
-                        <p>Come and speak informally to interested audience through this visual communication art.</p>
+                        <p>Simplicity is the ultimate sophistication</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
@@ -131,7 +133,7 @@
                     <div class="feature-box wow animated bounceInUp" data-wow-delay="0.3s">
                         <img src="static/img/recognizance.jpg" style="width: 10em">
                         <h2><a href="recognizance.php">Recognizance</a></h2>
-                        <p>Let's give our machines a 'vision'.</p>
+                        <p>Let's give our machines a 'vision'</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">

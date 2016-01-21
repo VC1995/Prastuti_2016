@@ -52,7 +52,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">PAPER PRESENTATION</h1>
-                        <p class="wow animated fadeInLeft">Come, chill out the hearts of the people with your innovative presentation.</p>                        
+                        <p class="wow animated fadeInLeft">Imagination is the highest form of research</p>                        
                     </div>
                 </div>
                 <div class="col-md-2 hidden-xs hidden-sm">
@@ -179,7 +179,7 @@
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:125px;width:125px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Deepak Gautam</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
-                        <i class="ion-android-call"></i> : +91 idontknow<br>
+                        <i class="ion-android-call"></i> : +91 7754942019<br>
                         <i class="ion-android-mail"></i> : deepak.gautam.eee13@iitbhu.ac.in
                         </p>
                     </div>
@@ -187,10 +187,10 @@
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:125px;width:125px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Akhil Adapa</h2>
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Adapa Akhil</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
-                        <i class="ion-android-call"></i> : +91 sobatadena<br>
-                        <i class="ion-android-mail"></i> : akhil.adapa.eee13@iitbhu.ac.in
+                        <i class="ion-android-call"></i> : +91 8416944497<br>
+                        <i class="ion-android-mail"></i> : adapa.akhil.eee13@iitbhu.ac.in
                         </p>
                     </div>
                 </section>

@@ -51,7 +51,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <div class="headings">
                         <h1 class="wow animated fadeInDown">POSTER PRESENTATION</h1>
-                        <p class="wow animated fadeInLeft">Come and speak informally to interested audience through this visual communication art.</p>                        
+                        <p class="wow animated fadeInLeft">Simplicity is the ultimate sophistication</p>                        
                     </div>
                 </div>
                 <div class="col-md-2 hidden-xs hidden-sm">
@@ -99,13 +99,23 @@
                 <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1></div>
             </section>
-            <section class="row legible" style="color:white;text-align:center;padding:10px;text-align:left;"><p>Poster Presentation is a new event organized by IIT(BHU) Varanasi. It gives you the chance to present
-                your research work on a poster which will help you to be more effective in conveying your message 
-                across as many people as possible.</p>
+            <section class="row legible" style="color:white;text-align:center;padding:10px;text-align:left;">
+                <h4>Abstract Submission : </h4>
+                <p>An abstract must be submitted online, defining the theme of the poster very concisely and should be limited to 150 words providing a clear outline of the poster.</p>
+                <p>Abstracts are invited on any topic belonging to discrete fields namely<strong> ELECTRICAL ,ELECTRONICS ,COMPUTER SCIENCE Engineering’s and ENERGY EFFECTIVE SOLUTIONS.</strong></p>
+                <h4>Poster Submission : </h4>
+                <p>Selected teams on the basis of abstract are required to send us a mail at prastuti@iitbhu.ac.in within due date as mentioned in RULES AND GUIDELINES tab, consisting of the following : </p>
+                <ul>
+                    <li>Digital form of your poster</li>
+                    <li>Details of all the team members: Names, Department, Phone numbers, College etc. in a tabular format</li>
+                </ul>
+                <h4>Final Presentation : </h4>
+                <ul>
+                    <li>Selected teamswill have to bring their own poster and give a presentation of it on the concise date of  Prastuti’16</li>
+                </ul>
             </section>
         </section>
-    </section>
-
+    </section> 
 
     <section id="rules" class="block">
         <section class="container" style="max-width:65%;">
@@ -119,17 +129,16 @@
                 </h1></div>
             </section>
             <section class="row">
-                <ol>
-                <li> The poster should be limited to 1m in height and 1m in width.</li>
+            <ol>
+                <li> Team participating in both paper presentation and poster presentation must select distinct topics.</li>
+                <li> The poster should be limited to 3ft in height and 4ft in width.</li>
                 <li> The poster should be printed on a flex of the above dimensions.</li>
-                <li> We welcome any topic related to electrical engineering for the presentation. </li>
                 <li> The presenting team should not consist of more than three participants.</li>
                 <li> The participants should hand over the posters in the very beginning of the day before the start of the event. Any submissions after the start of event won’t be entertained.</li>
                 <li> The poster must contain the title, author names, and the institution where the work was conducted, in large letters centered at the top of the poster.</li>
-                <li> No computers or extra aids may be used during the poster presentation.</li>
-                <li> The time allotted for poster presentation is ~8-10 minutes per visitor/judge.</li>
-                <li> Presenters should stimulate discussion, not give a long monotonous presentation.</li>
-                <li> Participants are advised to use standard formats.</li>
+                <li> The time allotted for poster presentation is about 10 minutes per visitor/judge.</li>
+                <li> The abstract submission date is 15th February 2016.</li>
+                <li> The final date of submission of digital form of poster is 5th March 2016.</li>
             </ol>
             </section>
             <div class="clearfix"></div>
@@ -151,11 +160,11 @@
             </section>
             <section class="row" style="color:white;text-align:center;">
                 <section class="col-md-4 col-sm-6">
+
                     <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:125px;width:125px;">
                         <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Akshay Paliwal</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
-
                         <i class="ion-android-call"></i> : +91 8953838839<br>
                         <i class="ion-android-mail"></i> : akshay.paliwal.eee13@iitbhu.ac.in
                         </p>
