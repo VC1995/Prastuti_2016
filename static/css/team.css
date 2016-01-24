@@ -120,11 +120,73 @@ span[class="hidden-sm"]
 {
     font-size: 18px;
 }
-
+.block-title {
+    font-weight: 300;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 2.2em;
+    padding: 0 40px;
+    margin: 0;
+    line-height: 1.6;
+    display: inline-block;
+    position: relative;
+    text-transform: uppercase;
+}
 .block {
+    padding: 62px 0px 25px 0px;
     overflow: hidden;
 }
 
+.title-box{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.bb-top-left {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 0;
+    left: 0;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+}
+.bb-bottom-left {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    bottom: 0;
+    left: 0;
+    border-bottom: 1px solid #000;
+    border-left: 1px solid #000;
+}
+.bb-top-right {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 0;
+    right: 0;
+    border-top: 1px solid #000;
+    border-right: 1px solid #000;
+}
+.bb-bottom-right {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    bottom: 0;
+    right: 0;
+    border-bottom: 1px solid #000;
+    border-right: 1px solid #000;
+}
+.polo-btn {
+    display: block;
+    color: #fff;
+    border: 1px solid;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 15px 0px;
+    margin: 0px 0px 20px 0px;
+    transition: 0.4s ease all;
+}
 /* ///////////////////////////////////////////////////////////////////// 
 //  05 - Header
 /////////////////////////////////////////////////////////////////////*/
@@ -191,6 +253,9 @@ span[class="hidden-sm"]
 }
 .team-member h2 {
     font-size: 20px;
+}
+.team-member h3 {
+    font-size: 18px;
 }
 .team-social li a i {
     border: 1px solid;

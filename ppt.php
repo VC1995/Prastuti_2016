@@ -77,7 +77,27 @@
             </section>
             
             <section class="row" style="text-align:center;">
-                <p>Paper Presentation is a National Level Competition Organized by IIT BHU..A lot of people may think up good ideas, but what they think usually ends up confined to themselves alone and they never get a real world evaluation of their innovative ideas which could lead them to a path of success and fame. Providing an opportunity for student researchers to disseminate their latest research results in various fields of engineering, we present the PRASTUTI’16 Paper Presentation event. This event will be an excellent platform to showcase your original ideas and comprehensive technical research and exchange views on the future research directions in various fields of science and engineering.</p>
+                <p><strong>"Innovation distinguishes between a leader and a follower." - Steve Jobs</strong><br/>
+
+For all the innovators and barnstormers’ out there, Prastuti brings to you a national-level Paper 
+
+Presentation event. In this fast-paced world, where competition is intense to be just another to join the 
+
+herd, it is the big idea that stands out. A single brilliant idea, sufficiently researched and properly 
+
+presented, can go miles to bring about the change you want the world to witness. Many a time, we 
+
+come across some exciting and path breaking ideas, but the lack of a proper platform and insufficiency 
+
+of resources cause these to wither away. Prastuti therefore, provides the researcher in you the 
+
+opportunity to come forward with your research paper and wow the audience with your musings across 
+
+the fields of engineering and science. Paper Presentation at Prastuti '16 will be an ideal platform to 
+
+showcase your original ideas and comprehensive research, and exchange views with other budding 
+
+leaders of tomorrow.</p>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -167,20 +187,20 @@
 
                     <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:125px;width:125px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Akshay Paliwal</h2>
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Sonal Arora</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
-                        <i class="ion-android-call"></i> : +91 8953838839<br>
-                        <i class="ion-android-mail"></i> : akshay.paliwal.eee13@iitbhu.ac.in
+                        <i class="ion-android-call"></i> : +91 7587452311<br>
+                        <i class="ion-android-mail"></i> : sonal.arora.eee14@iitbhu.ac.in
                         </p>
                     </div>
                 </section>
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:125px;width:125px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Deepak Gautam</h2>
+                        <img src="static/img/mudita.JPG" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:125px;width:125px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Mudita Juneja</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
-                        <i class="ion-android-call"></i> : +91 7754942019<br>
-                        <i class="ion-android-mail"></i> : deepak.gautam.eee13@iitbhu.ac.in
+                        <i class="ion-android-call"></i> : +91 9005154666<br>
+                        <i class="ion-android-mail"></i> : mjuneja.rs.eee14@iitbhu.ac.in
                         </p>
                     </div>
                 </section>

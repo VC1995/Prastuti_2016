@@ -76,11 +76,17 @@
             </section>
             
             <section class="row" style="text-align:center;">
-                <p>Posters are widely used in the academic community, and most conferences include poster presentations 
-                in their program.  Research posters summarize information or research concisely and attractively to help 
-                publicize it and generate discussion.  The poster is usually a mixture of a brief text mixed with tables, 
-                graphs, pictures, and other presentation formats. At a conference, the researcher stands by the poster 
-                display while other participants can come and view the presentation and interact with the author.</p>
+                <p>Posters do much more than simply please the eyes of the viewer. In the academic community, posters 
+
+play an important role in explaining an academic concept or a research idea through a craftily composed 
+
+summary, such that they can educate the audience in little time, as well as help generate their interest 
+
+in the subject matter. Go creative with tables, graphs, images, and drive your idea home to the curious 
+
+viewer at the poster demonstration. You will know you have succeeded when you see the eyes brighten 
+
+up in front of you.</p>
             </section>
             <div class="clearfix"></div>
         </section>
@@ -183,10 +189,9 @@
                 <section class="col-md-4 col-sm-6">
                     <div class="team-member wow animated fadeIn legible" data-wow-delay=="0.3s" style="position:relative;">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:125px;width:125px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Adapa Akhil</h2>
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Shiv Kumar</h2>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
-                        <i class="ion-android-call"></i> : +91 8416944497<br>
-                        <i class="ion-android-mail"></i> : adapa.akhil.eee13@iitbhu.ac.in
+                        <i class="ion-android-mail"></i> : kvs.ramakrishna.eee14@itbhu.ac.in
                         </p>
                     </div>
                 </section>

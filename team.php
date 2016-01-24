@@ -30,7 +30,7 @@
         <section class="container">
             <section class="row" id="logo_menu" role="navigation">                  
                 <div class="col-md-4 col-sm-8 col-xs-2 navbar-brand">
-                    <span style="font-size: 1.2em;letter-spacing:2px;font-weight:bold;"><a href="index.php"><i class="ion-ios-home" ></i></a> | </span><span class="hidden-sm hidden-xs" style="letter-spacing:4px;font-weight:bold;">CORE &nbspTEAM</span></a>
+                    <span style="font-size: 1.2em;letter-spacing:2px;font-weight:bold;"><a href="index.php"><i class="ion-ios-home" ></i></a> | </span><span class="hidden-sm hidden-xs" style="letter-spacing:4px;font-weight:bold;">OUR &nbspTEAM</span></a>
                 </div>
                 <div class="col-md-8 col-sm-4 col-xs-10">
                     <div class="navbar-header">
@@ -51,87 +51,178 @@
             <section class="row">
                 <section class="col-md-6 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <img src="static/img/sksingh.png" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Dr. S.K. Singh</h2>
+                        <h3 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="color:blue;">Organising Sec.</h3>
+                    </div>
+                </section>
+                <section class="col-md-6 col-sm-6">
+                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
+                        <img src="static/img/vnl.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Dr. V.N. Hal</h2>
+                        <h3 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="color:blue;">Co-organising Sec.</h3>
                         
+                    </div>
+                </section>
+            </section>
+            <div class="clearfix"></div>
+            <br/>
+            <section class="row">
+                <div class="title-box"><h1 class="block-title wow animated rollIn">
+                <span class="bb-top-left"></span>
+                <span class="bb-bottom-left"></span>
+                Conveners
+                <span class="bb-top-right"></span>
+                <span class="bb-bottom-right"></span>
+                </h1></div>
+            </section>
+            <section class="row">
+                <section class="col-md-4 col-sm-4">
+                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Anvesh Reddy</h2>
+                        <h3 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="color:blue;">Convener</h3>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
+                        <i class="ion-android-call"></i> : +91 7309859041<br>
+                        <i class="ion-android-mail"></i> : banvesh.kumar.eee12@iitbhu.ac.in
+                        </p>
+                    </div>
+                </section>
+                <section class="col-md-4 col-sm-4">
+                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Vaibhav Parekh</h2>
+                        <h3 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="color:blue;">Co-Convener</h3>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
+                        <i class="ion-android-call"></i> : +91 9670272626<br>
+                        <i class="ion-android-mail"></i> : vaibhav.parekh.eee12@iitbhu.ac.in
+                        </p>                        
+                    </div>
+                </section>
+                <section class="col-md-4 col-sm-4">
+                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Gaurav Sagar</h2>
+                        <h3 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="color:blue;">Co-Convener</h3>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
+                        <i class="ion-android-call"></i> : +91 8765120517<br>
+                        <i class="ion-android-mail"></i> : gaurav.sagar.eee12@itbhu.ac.in
+                        </p>                        
+                    </div>
+                </section>
+            </section>
+            <div class="clearfix"></div>
+            <br/>
+            <section class="row">
+                <div class="title-box"><h1 class="block-title wow animated rollIn">
+                <span class="bb-top-left"></span>
+                <span class="bb-bottom-left"></span>
+                Senior Advisors 
+                <span class="bb-top-right"></span>
+                <span class="bb-bottom-right"></span>
+                </h1></div>
+            </section>
+            <section class="row">
+                <section class="col-md-6 col-sm-6">
+                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Avneet Kumar</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
+                        <i class="ion-android-call"></i> : +91 8004969814<br>
+                        <i class="ion-android-mail"></i> : avneet.kumar.eee13@iitbhu.ac.in
+                        </p>
                     </div>
                 </section>
                 <section class="col-md-6 col-sm-6">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
-                        
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Abhishek Kumar</h2>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
+                        <i class="ion-android-call"></i> : +91 8858445884<br>
+                        <i class="ion-android-mail"></i> : abhishek.kumar.eee13@iitbhu.ac.in
+                        </p>
                     </div>
                 </section>
             </section>
             <div class="clearfix"></div>
-
+            <br/>
             <section class="row">
-                <section class="col-md-4 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
-                        
-                    </div>
-                </section>
-                <section class="col-md-4 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
-                        
-                    </div>
-                </section>
-                <section class="col-md-4 col-sm-6">
-                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
-                        
-                    </div>
-                </section>
+                <div class="title-box"><h1 class="block-title wow animated rollIn">
+                <span class="bb-top-left"></span>
+                <span class="bb-bottom-left"></span>
+                Core Team
+                <span class="bb-top-right"></span>
+                <span class="bb-bottom-right"></span>
+                </h1></div>
             </section>
-            <div class="clearfix"></div>
-
             <section class="row">
-                <section class="col-md-4 col-sm-6">
+                <section class="col-md-4 col-sm-4">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
-                        
+                        <img src="static/img/shubham.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Shubham Goel</h2>
+                        <h3 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="color:blue;">Publicity and P.R.</h3>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
+                        <i class="ion-android-call"></i> : +91 8417893863<br>
+                        <i class="ion-android-mail"></i> : shubham.goel.eee13@itbhu.ac.in
+                        </p>
                     </div>
                 </section>
-                <section class="col-md-4 col-sm-6">
+                <section class="col-md-4 col-sm-4">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
-                        
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Abhinav Gupta</h2>
+                        <h3 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="color:blue;">Events</h3>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
+                        <i class="ion-android-call"></i> : +91 8933051838<br>
+                        <i class="ion-android-mail"></i> : abhinav.gupta.eee13@itbhu.ac.in
+                        </p>                        
                     </div>
                 </section>
-                <section class="col-md-4 col-sm-6">
+                <section class="col-md-4 col-sm-4">
+                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
+                        <img src="static/img/kartik.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Kartik Singhla</h2>
+                        <h3 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="color:blue;">Marketing</h3>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
+                        <i class="ion-android-call"></i> : +91 8418950858<br>
+                        <i class="ion-android-mail"></i> : kartik.singhla.eee13@itbhu.ac.in
+                        </p>                        
+                    </div>
+                </section>
+            </section>
+            <section class="row">
+                <section class="col-md-4 col-sm-4">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
                         <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
-                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua.</p>
-                        
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Varshit</h2>
+                        <h3 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="color:blue;">Creative and Design</h3>
+                    </div>
+                </section>
+                <section class="col-md-4 col-sm-4">
+                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
+                        <img src="static/img/propic.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Vishesh Chauhan</h2>
+                        <h3 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="color:blue;">Website Developer</h3>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
+                        <i class="ion-android-call"></i> : +91 8874729310<br>
+                        <i class="ion-android-mail"></i> : vishesh.chauhan.eee13@itbhu.ac.in
+                        </p>                        
+                    </div>
+                </section>
+                <section class="col-md-4 col-sm-4">
+                    <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
+                        <img src="static/img/anshul.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Anshul Mahavar</h2>
+                        <h3 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="color:blue;">Technical</h3>
+                        <p class="wow animated fadeIn" data-wow-delay=="0.7s">
+                        <i class="ion-android-call"></i> : +91 9451423593<br>
+                        <i class="ion-android-mail"></i> : anshul.mahavar.eee13@itbhu.ac.in
+                        </p>                        
                     </div>
                 </section>
             </section>
             <div class="clearfix"></div>
-
+            <br/>
         </section>
     </section>
 

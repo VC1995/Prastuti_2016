@@ -22,9 +22,9 @@
                     <div class="collapse navbar-collapse" style="padding-top: 1em" id="nav_menu">
                     <ul class="nav navbar-nav navbar-right" style="overflow-y: hidden; overflow-x: hidden">                 
                         <li style="padding-left: 2em"  class="wow animated bounceInDown" data-wow-delay="0.7s"><a class="nav_menu_item" href="#features" style="font-size: 1.2em"> E<i class="ion-ribbon-a" style="color:yellow"></i>ents</a></li>
-                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="0.9s"><a class="nav_menu_item" href="#gallery" style="font-size: 1.2em"> Gues<i class="ion-mic-b" style="color:yellow"></i> Lectures</a></li>
+                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="0.8s"><a class="nav_menu_item" href="#gallery" style="font-size: 1.2em"> Gues<i class="ion-mic-b" style="color:yellow"></i> Lectures</a></li>
                         <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="0.9s"><a class="nav_menu_item" href="#updates" style="font-size: 1.2em"> Upda<i class="ion-ios-mic" style="color:yellow"></i>es</a></li>
-                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="0.9s"><a class="nav_menu_item" href="#sponsors" style="font-size: 1.2em"> <i class="ion-social-usd" style="color:yellow"></i>ponsors</a></li>
+                        <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="1s"><a class="nav_menu_item" href="#sponsors" style="font-size: 1.2em"> <i class="ion-social-usd" style="color:yellow"></i>ponsors</a></li>
                         <li style="padding-left: 2em" class="wow animated bounceInDown" data-wow-delay="1.1s"><a class="nav_menu_item" href="team.php" style="font-size: 1.2em"> T<i class="ion-android-call" style="color:yellow"></i>am</a></li>
                         <!--- <li style="padding-left: 2em"><a class="nav_menu_item" href="team.php"><i class="ion-android-people"></i><span class="hidden-sm"> Team</span></a></li> -->               
                     </ul>   
@@ -252,7 +252,7 @@
                 </h1></div>
             </section>            
             <div class="col-sm-8 col-sm-offset-2 legible">
-                <p style="color:#fff"> We're currentle looking for sponsors ... Sponsor us !</p>
+                <p style="color:#fff"> We're currently looking for sponsors ... Sponsor us !</p>
             </div>
         </section>
     </section>

@@ -243,7 +243,6 @@
             <div class="container">
                 <p><span class="ion-arrow-right-c"></span> Each team should have a team name. </p>
                 <p><span class="ion-arrow-right-c"></span> There can be at most three members in a team. </p>
-                <p><span class="ion-arrow-right-c"></span> Details about the abstract shall also appear here. </p>
             </div>
             <br>
             <!-- ***************************** Content *************************** -->
