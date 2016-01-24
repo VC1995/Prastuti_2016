@@ -36,37 +36,27 @@
 
     <!-- ****************************** Banner ************************** -->
 
-    <section id="banner" >
-        <section class="container">
+    <section id="banner" style="height: 100%;">
+        <section class="container" style="height: 100%;position:relative">
             <a class="slidedown wow animated zoomIn" data-wow-delay="1s" href="#features"><i class="ion-ios-download-outline" style='color: black'></i></a>
-            <section class="row">
-                <p style="color: white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;font-size: 2em;padding: 10% 0 0 0;z-index: 2" class="col-sm-12 text-center">Electrical Engineering Society, Department of Electrical Engineering, IIT(BHU), Varanasi<br/>presents </p>
-                <div class="col-md-8 col-md-offset-2">
-                    <div class="headings">                                                
-                        <p style="color: yellow; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;font-size: 4em; z-index: 2" class="col-sm-9 text-center"> &nbsp
-                            <span class="wow animated fadeInRight" data-wow-delay="1s">P </span> 
-                            <span class="wow animated fadeInRight" data-wow-delay="1.1s">R </span> 
-                            <span class="wow animated fadeInRight" data-wow-delay="1.2s">A </span> 
-                            <!-- <span class="wow animated fadeInRight" data-wow-delay="1.3s">&nbsp<i class="ion-ios-bolt-outline" style="font-size: 3em; color: #FFD700; z-index: 2;position: absolute;left: 40%; top:-15%"></i>&nbsp &nbsp</span> -->
-                            <span class="wow animated fadeInRight" data-wow-delay="1.3s">S </span> 
-                            <span class="wow animated fadeInRight" data-wow-delay="1.4s">T </span> 
-                            <span class="wow animated fadeInRight" data-wow-delay="1.5s">U </span> 
-                            <span class="wow animated fadeInRight" data-wow-delay="1.6s">T </span> 
-                            <span class="wow animated fadeInRight" data-wow-delay="1.7s">I </span> 
-                            <span class="wow animated bounceIn" data-wow-delay="1.9s"> &nbsp &nbsp 2016</span>
-                        </p>
-                        <p class="wow animated fadeInLeft" data-wow-delay='1s'><img src="static/img/logo_img.jpg" style="width: 10em"></p>
-                        <div class="row">
-                            <div class="col-xs-6 col-sm-6 col-md-6 col-md-offset-1">
-                                <div class="text-center">
-                                    <p style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;font-size: 3em; padding: 0" class="wow animated bounceInUp" data-wow-delay='0.5s'>&nbsp &nbsp &nbsp 2<sup>nd</sup> - 4<sup>th</sup> April</p>
-                                </div>
-                            </div>
-                        </div>  
+            <section class="row" style="position: relative;top: 44%;transform: translateY(-50%);">                
+                <div class="col-md-12">
+                    <div class="headings">                                                                        
+                        <p class="text-center"><img src="static/img/prastuti16_2.gif" style="width:55em;"></p>
+                        <p style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;font-size: 1.4em; padding: 0" class="text-center">&nbsp&nbsp&nbsp<strong>2<sup>nd</sup> - 4<sup>th</sup> April</strong></p>
                     </div>
-                </div>
-                <div class="col-md-2 hidden-xs hidden-sm">
-                    
+                    <div>
+                        <p style="color: white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;font-size: 1.8em;padding: 2% 0 0 0;z-index: 2;" class="col-sm-12 ">
+                            <span class="text-center col-sm-12">presented by</span><br/><br/>
+                            <span class="col-md-6 col-md-offset-2">
+                            <strong>Electrical Engineering Society,<br/>Department of Electrical Engineering, <br/>IIT(BHU), Varanasi<strong>
+                            </span>
+                            <span class="col-md-3">
+                                <img src="static/img/logo_img.jpg" style="width:5.5em"></p>
+                            </span>              
+                            <span class="col-md-1"></span>              
+                        </p>                                                
+                    </div>
                 </div>
             </section>
         </section>
