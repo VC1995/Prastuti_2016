@@ -108,7 +108,13 @@ up in front of you.</p>
             <section class="row legible" style="color:white;text-align:center;padding:10px;text-align:left;">
                 <h4>Abstract Submission : </h4>
                 <p>An abstract must be submitted online, defining the theme of the poster very concisely and should be limited to 150 words providing a clear outline of the poster.</p>
-                <p>Abstracts are invited on any topic belonging to discrete fields namely<strong> ELECTRICAL ,ELECTRONICS ,COMPUTER SCIENCE Engineering’s and ENERGY EFFECTIVE SOLUTIONS.</strong></p>
+                <p>Abstracts are invited on any topic belonging to discrete fields namely -</p>
+                <ul>
+                    <li>Electrical Engineering</li>
+                    <li>Electronics Engineering</li>
+                    <li>Computer Science Engineering</li>
+                    <li>Energy Effective Solutions</li>
+                </ul>
                 <h4>Poster Submission : </h4>
                 <p>Selected teams on the basis of abstract are required to send us a mail at prastuti@iitbhu.ac.in within due date as mentioned in RULES AND GUIDELINES tab, consisting of the following : </p>
                 <ul>
@@ -117,7 +123,7 @@ up in front of you.</p>
                 </ul>
                 <h4>Final Presentation : </h4>
                 <ul>
-                    <li>Selected teamswill have to bring their own poster and give a presentation of it on the concise date of  Prastuti’16</li>
+                    <li>Selected teams will have to bring and present their painted posters on the day of Prastuti'16.</li>
                 </ul>
             </section>
         </section>

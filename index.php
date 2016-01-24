@@ -3,7 +3,7 @@
 
     <!-- ***************************** Register button ****************** -->
     <div id="registerButton">
-    <a href="registration_form.php#business" class="btn btn-primary wow animated bounceInDown" data-wow-delay="3s" style="position: fixed; right: 3%; bottom: 3%;font-size: 2em;background: orange;z-index: 5;">Register Now <i class="ion-log-in"></i></a>
+    <a href="registration_form.php#business" class="btn btn-primary wow animated bounceInDown" data-wow-delay="1.5s" style="position: fixed; right: 3%; bottom: 3%;font-size: 2em;background: orange;z-index: 5;">Register Now <i class="ion-log-in"></i></a>
     </div>
     <!-- ****************************** Header ************************** -->
     
@@ -42,11 +42,11 @@
             <section class="row" style="position: relative;top: 44%;transform: translateY(-50%);">                
                 <div class="col-md-12">
                     <div class="headings">                                                                        
-                        <p class="text-center"><img src="static/img/prastuti16_2.gif" style="width:55em;"></p>
-                        <p style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;font-size: 1.4em; padding: 0" class="text-center">&nbsp&nbsp&nbsp<strong>2<sup>nd</sup> - 4<sup>th</sup> April</strong></p>
+                        <p class="text-center"><img src="static/img/p16.gif" style="width:55em;"></p>
+                        <p style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;font-size: 1.4em; padding: 0" class="col-sm-2 col-sm-offset-8">&nbsp&nbsp&nbsp<strong>2<sup>nd</sup> - 4<sup>th</sup> April</strong></p>
                     </div>
                     <div>
-                        <p style="color: white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;font-size: 1.8em;padding: 2% 0 0 0;z-index: 2;" class="col-sm-12 ">
+                        <p style="color: white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;font-size: 1.8em;padding: 0 0 0 0;z-index: 2;" class="col-sm-12 ">
                             <span class="text-center col-sm-12">presented by</span><br/><br/>
                             <span class="col-md-6 col-md-offset-2">
                             <strong>Electrical Engineering Society,<br/>Department of Electrical Engineering, <br/>IIT(BHU), Varanasi<strong>
