@@ -185,7 +185,7 @@
                         <h3 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="color:blue;">Marketing</h3>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 8418950858<br>
-                        <i class="ion-android-mail"></i> : kartik.singhla.eee13@itbhu.ac.in
+                        <i class="ion-android-mail"></i> : kartik.singla.eee13@itbhu.ac.in
                         </p>                        
                     </div>
                 </section>
@@ -212,7 +212,7 @@
                 <section class="col-md-4 col-sm-4">
                     <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
                         <img src="static/img/anshul.jpg" class="img_res team-pic" style="position:relative;left:50%;margin-left:-75px;height:150px;width:150px;">
-                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Anshul Mahavar</h2>
+                        <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Anshul Mahawar</h2>
                         <h3 class="wow animated fadeInDown" data-wow-delay=="0.7s" style="color:blue;">Technical</h3>
                         <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                         <i class="ion-android-call"></i> : +91 9451423593<br>
